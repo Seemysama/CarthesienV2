@@ -1,0 +1,321 @@
+[
+    {
+        "Titre": "PEUGEOT 208",
+        "Sous-titre": "1.2 PureTech 82 BVM5 - Signature +M...",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/794355/image/360/peugeot-208-signature-20240207105207-794355-100001-medium.jpg",
+        "Prix": "10 499 ",
+        "Motorisation": "Essence - Manuelle",
+        "Année/Kms": "2018 -  70 715 km",
+        "Options": [
+            "Climatisation",
+            "Régulateur de vitesse",
+            "Radar de recul",
+            "Bluetooth",
+            "Apple Car Play",
+            "Android Auto"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/peugeot/208/signature/rv794355?vehicleId=794355",
+        "Crit'air": "Crit'Air 1"
+    },
+    {
+        "Titre": "PEUGEOT 3008",
+        "Sous-titre": "1.6 BlueHDi 120 BVM6 - Active",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/795425/image/360/peugeot-3008-active-20240206070050-795425-100001-medium.jpg",
+        "Prix": "14 799 ",
+        "Motorisation": "Diesel - Manuelle",
+        "Année/Kms": "2018 -  136 457 km",
+        "Options": [
+            "GPS",
+            "Climatisation",
+            "Jantes alliage",
+            "Régulateur de vitesse",
+            "Radar de recul",
+            "Bluetooth",
+            "Apple Car Play"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/peugeot/3008/active/rv795425?vehicleId=795425",
+        "Crit'air": "Crit'Air 2"
+    },
+    {
+        "Titre": "RENAULT Captur",
+        "Sous-titre": "0.9 TCe 90 BVM5 - Zen + Pack City",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/784577/image/360/renault-captur-zen-20231220094550-784577-100001-medium.jpg",
+        "Prix": "9 999 ",
+        "Motorisation": "Essence - Manuelle",
+        "Année/Kms": "2015 -  109 081 km",
+        "Options": [
+            "Climatisation",
+            "Jantes alliage",
+            "Régulateur de vitesse",
+            "Radar de recul",
+            "Bluetooth"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/renault/captur/zen/rv784577?vehicleId=784577",
+        "Crit'air": "Crit'Air 1"
+    },
+    {
+        "Titre": "DACIA Sandero",
+        "Sous-titre": "1.2 16V 75 BVM5 -",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/792943/image/360/dacia-sandero-20240226151552-792943-100001-medium.jpg",
+        "Prix": "8 499 ",
+        "Motorisation": "Essence - Manuelle",
+        "Année/Kms": "2016 -  56 847 km",
+        "Options": [],
+        "Lien": "https://www.aramisauto.com/voitures/dacia/sandero/finition/rv792943?vehicleId=792943",
+        "Crit'air": "Crit'Air 1"
+    },
+    {
+        "Titre": "CITROËN C3 Aircross",
+        "Sous-titre": "1.2 PureTech 110 BVM5 - Feel",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/792515/image/360/citroen-c3-aircross-feel-20240206211550-792515-100001-medium.jpg",
+        "Prix": "10 999 ",
+        "Motorisation": "Essence - Manuelle",
+        "Année/Kms": "2018 -  92 266 km",
+        "Options": [
+            "Climatisation",
+            "Régulateur de vitesse",
+            "Radar de recul",
+            "Bluetooth"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/citroen/c3-aircross/feel/rv792515?vehicleId=792515",
+        "Crit'air": "Crit'Air 1"
+    },
+    {
+        "Titre": "PEUGEOT 308",
+        "Sous-titre": "1.2 PureTech 110ch BVM5 - Active +...",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/788410/image/360/peugeot-308-active-20240108085204-788410-100001-medium.jpg",
+        "Prix": "10 499 ",
+        "Motorisation": "Essence - Manuelle",
+        "Année/Kms": "2017 -  91 883 km",
+        "Options": [
+            "GPS",
+            "Climatisation",
+            "Jantes alliage",
+            "Régulateur de vitesse",
+            "Radar de recul",
+            "Bluetooth"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/peugeot/308/active/rv788410?vehicleId=788410",
+        "Crit'air": "Crit'Air 1"
+    },
+    {
+        "Titre": "RENAULT Zoé",
+        "Sous-titre": "R240 - Batterie en location - Zen",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/774016/image/360/renault-zoe-zen-20231123081556-774016-100001-medium.jpg",
+        "Prix": "7 999 ",
+        "Motorisation": "Electrique - Automatique",
+        "Année/Kms": "2015 -  38 433 km",
+        "Options": [
+            "GPS",
+            "Climatisation",
+            "Régulateur de vitesse",
+            "Radar de recul",
+            "Bluetooth"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/renault/zoe/zen/rv774016?vehicleId=774016",
+        "Crit'air": "Crit'Air 0"
+    },
+    {
+        "Titre": "RENAULT Clio 4",
+        "Sous-titre": "0.9 TCe 90 BVM5 - Zen +GPS",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/780554/image/360/renault-clio-4-zen-20231208034551-780554-100001-medium.jpg",
+        "Prix": "10 399 ",
+        "Motorisation": "Essence - Manuelle",
+        "Année/Kms": "2016 -  103 009 km",
+        "Options": [
+            "GPS",
+            "Climatisation",
+            "Régulateur de vitesse",
+            "Bluetooth"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/renault/clio-4/zen/rv780554?vehicleId=780554",
+        "Crit'air": "Crit'Air 1"
+    },
+    {
+        "Titre": "FIAT 500",
+        "Sous-titre": "1.2 69 BVM5 - Lounge",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/790333/image/360/fiat-500-lounge-20240206134850-790333-100001-medium.jpg",
+        "Prix": "8 999 ",
+        "Motorisation": "Essence - Manuelle",
+        "Année/Kms": "2015 -  83 611 km",
+        "Options": [
+            "Toit ouvrant/panoramique",
+            "Climatisation",
+            "Jantes alliage",
+            "Bluetooth"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/fiat/500/lounge/rv790333?vehicleId=790333",
+        "Crit'air": "Crit'Air 1"
+    },
+    {
+        "Titre": "DACIA Duster",
+        "Sous-titre": "1.2 TCe 125 BVM6 - Black Touch 2017",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/795768/image/360/dacia-duster-black-touch-2017-20240223140705-795768-100001-medium.jpg",
+        "Prix": "10 999 ",
+        "Motorisation": "Essence - Manuelle",
+        "Année/Kms": "2017 -  116 060 km",
+        "Options": [
+            "Caméra de recul",
+            "GPS",
+            "Climatisation",
+            "Jantes alliage",
+            "Régulateur de vitesse",
+            "Radar de recul",
+            "Bluetooth"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/dacia/duster/black-touch-2017/rv795768?vehicleId=795768",
+        "Crit'air": "Crit'Air 1"
+    },
+    {
+        "Titre": "PEUGEOT 5008",
+        "Sous-titre": "1.2 PureTech 130 BVM6 - Allure",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/793619/image/360/peugeot-5008-allure-20240206101606-793619-100001-medium.jpg",
+        "Prix": "17 499 ",
+        "Motorisation": "Essence - Manuelle",
+        "Année/Kms": "2018 -  127 352 km",
+        "Options": [
+            "7 places",
+            "Caméra de recul",
+            "GPS",
+            "Climatisation",
+            "Jantes alliage",
+            "Régulateur de vitesse",
+            "Radar de recul"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/peugeot/5008/allure/rv793619?vehicleId=793619",
+        "Crit'air": "Crit'Air 1"
+    },
+    {
+        "Titre": "RENAULT Twingo 3",
+        "Sous-titre": "1.0 SCe 70 BVM5 - Limited",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/781826/image/360/renault-twingo-3-limited-20231215040443-781826-100001-medium.jpg",
+        "Prix": "9 499 ",
+        "Motorisation": "Essence - Manuelle",
+        "Année/Kms": "2016 -  38 766 km",
+        "Options": [
+            "Climatisation",
+            "Radar de recul",
+            "Bluetooth"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/renault/twingo-3/limited/rv781826?vehicleId=781826",
+        "Crit'air": "Crit'Air 1"
+    },
+    {
+        "Titre": "RENAULT Mégane 4",
+        "Sous-titre": "1.2 TCe 100 BVM6 - Zen + GPS",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/794354/image/360/renault-megane-4-zen-20240214214551-794354-100001-medium.jpg",
+        "Prix": "11 999 ",
+        "Motorisation": "Essence - Manuelle",
+        "Année/Kms": "2016 -  96 106 km",
+        "Options": [
+            "GPS",
+            "Climatisation",
+            "Jantes alliage",
+            "Régulateur de vitesse",
+            "Radar de recul",
+            "Bluetooth"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/renault/megane-4/zen/rv794354?vehicleId=794354",
+        "Crit'air": "Crit'Air 1"
+    },
+    {
+        "Titre": "MERCEDES Classe A",
+        "Sous-titre": "160 CDI BVM6 - Intuition",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/797778/image/360/mercedes-classe-a-intuition-20240223183705-797778-100001-medium.jpg",
+        "Prix": "13 999 ",
+        "Motorisation": "Diesel - Manuelle",
+        "Année/Kms": "2015 -  111 425 km",
+        "Options": [
+            "Climatisation",
+            "Jantes alliage",
+            "Régulateur de vitesse",
+            "Bluetooth"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/mercedes/classe-a/intuition/rv797778?vehicleId=797778",
+        "Crit'air": "Crit'Air 2"
+    },
+    {
+        "Titre": "OPEL Corsa",
+        "Sous-titre": "1.4 90 BVM5 - Edition",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/793785/image/360/opel-corsa-edition-20240213195204-793785-100001-medium.jpg",
+        "Prix": "9 999 ",
+        "Motorisation": "Essence - Manuelle",
+        "Année/Kms": "2016 -  128 385 km",
+        "Options": [
+            "Climatisation",
+            "Régulateur de vitesse",
+            "Bluetooth",
+            "Apple Car Play",
+            "Android Auto"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/opel/corsa/edition/rv793785?vehicleId=793785",
+        "Crit'air": "Crit'Air 1"
+    },
+    {
+        "Titre": "CITROËN C4 Cactus",
+        "Sous-titre": "1.2 PureTech 110 BVM6 - Feel Busine...",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/788629/image/360/citroen-c4-cactus-business-feel-business-20240216070350-788629-100001-medium.jpg",
+        "Prix": "10 499 ",
+        "Motorisation": "Essence - Manuelle",
+        "Année/Kms": "2019 -  121 187 km",
+        "Options": [
+            "GPS",
+            "Climatisation",
+            "Jantes alliage",
+            "Régulateur de vitesse",
+            "Radar de recul",
+            "Bluetooth",
+            "Apple Car Play"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/citroen/c4-cactus/feel-business/rv788629?vehicleId=788629",
+        "Crit'air": "Crit'Air 1"
+    },
+    {
+        "Titre": "CITROËN C4",
+        "Sous-titre": "1.2 PureTech 110 BVM5 - Live",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/779664/image/360/citroen-c4-live-20231222160705-779664-100001-medium.jpg",
+        "Prix": "9 999 ",
+        "Motorisation": "Essence - Manuelle",
+        "Année/Kms": "2015 -  63 625 km",
+        "Options": [
+            "Climatisation",
+            "Régulateur de vitesse"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/citroen/c4/live/rv779664?vehicleId=779664",
+        "Crit'air": "Crit'Air 1"
+    },
+    {
+        "Titre": "FORD Fiesta",
+        "Sous-titre": "1.0 EcoBoost 100 BVM5 - Trend + Boi...",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/796691/image/360/ford-fiesta-trend-20240221162205-796691-100001-medium.jpg",
+        "Prix": "8 999 ",
+        "Motorisation": "Essence - Manuelle",
+        "Année/Kms": "2015 -  123 565 km",
+        "Options": [
+            "Caméra de recul",
+            "Climatisation",
+            "Jantes alliage",
+            "Bluetooth"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/ford/fiesta/trend/rv796691?vehicleId=796691",
+        "Crit'air": "Crit'Air 1"
+    },
+    {
+        "Titre": "RENAULT Kadjar",
+        "Sous-titre": "1.5 dCi 110 EDC6 - Intens EDC",
+        "Image": "//public.aramisauto.com/cdn-cgi/image/width=276,quality=85,f=auto/https://storage.googleapis.com/aramis_vehicles/production/stock/vo/779816/image/360/renault-kadjar-intens-edc-20231201040058-779816-100001-medium.jpg",
+        "Prix": "13 799 ",
+        "Motorisation": "Diesel - Automatique",
+        "Année/Kms": "2016 -  99 831 km",
+        "Options": [
+            "GPS",
+            "Climatisation",
+            "Jantes alliage",
+            "Régulateur de vitesse",
+            "Radar de recul",
+            "Bluetooth"
+        ],
+        "Lien": "https://www.aramisauto.com/voitures/renault/kadjar/intens-edc/rv779816?vehicleId=779816",
+        "Crit'air": "Crit'Air 2"
+    }
+]

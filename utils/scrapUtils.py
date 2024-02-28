@@ -123,23 +123,23 @@ class ScrapUtils():
 
     #scrape le nombre de pages voulu grâce à la fonction scrape_page
     def scrape_multiple_pages(base_url, num_pages):
-        for page_num in range(1, num_pages + 1):
-            num = str(page_num)
-            print('Page n°'+num+' en cours ...')
-            url = f'{base_url}?p={page_num}'
-            headers = {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
-            }
-            page = requests.get(url, headers=headers)
-            soup = BeautifulSoup(page.text, 'html.parser')
-            #Appel de la fonction de scraping pour chaque page
-            ScrapUtils.scrape_page(soup)
+        url = f'{base_url}?p={num_pages}'
+        print('URL complet : '+url)
+        num = str(num_pages)
+        print('Nombre de pages scrappées : '+num)
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
+        }
+        page = requests.get(url, headers=headers)
+        soup = BeautifulSoup(page.text, 'html.parser')
+        #Appel de la fonction de scraping pour chaque page
+        ScrapUtils.scrape_page(soup)
 
 
     #fonction exécution globale
-    def main_scrap(self):
+    def main_scrap(self,nb_pages):
         print("------------------------SCRAPPING & BASE INSERTION-----------------------")
-        ScrapUtils.scrape_multiple_pages(self.basic_url,3)
+        ScrapUtils.scrape_multiple_pages(self.basic_url,nb_pages)
         ScrapUtils.remove_empty_objects()
         ScrapUtils.clean_json()
 

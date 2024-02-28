@@ -19,6 +19,7 @@ class ScrapUtils():
             #TITRE
             try:
                 title = vehiculecard.find(class_='vehicle-model').text
+                print(title)
             except:
                 title=''
             #SOUS-TITRE
@@ -100,6 +101,7 @@ class ScrapUtils():
 
     #supprime les objets vides de l'export json
     def remove_empty_objects():
+        print("Nettoyage des données ...")
         with open('exports/car_data.json', 'r') as file:
             data = json.load(file)
         cleaned_data = [item for item in data if item.get("Titre") != ""]
@@ -122,6 +124,8 @@ class ScrapUtils():
     #scrape le nombre de pages voulu grâce à la fonction scrape_page
     def scrape_multiple_pages(base_url, num_pages):
         for page_num in range(1, num_pages + 1):
+            num = str(page_num)
+            print('Page n°'+num+' en cours ...')
             url = f'{base_url}?p={page_num}'
             headers = {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
@@ -134,15 +138,7 @@ class ScrapUtils():
 
     #fonction exécution globale
     def main_scrap(self):
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
-        }
-
-        page = requests.get(self.basic_url, headers=headers)
-        soup = BeautifulSoup(page.text, 'html.parser')
-        next_li_element = soup.find('li', class_='next')
-        quotes = []
-
+        print("------------------------SCRAPPING & BASE INSERTION-----------------------")
         ScrapUtils.scrape_multiple_pages(self.basic_url,3)
         ScrapUtils.remove_empty_objects()
         ScrapUtils.clean_json()

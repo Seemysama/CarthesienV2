@@ -46,11 +46,14 @@ class ScrapUtils():
                 motorisation = vehiculecard.find(class_='vehicle-transmission').text.strip()
             except:
                 motorisation=''
-            #ANNEE KILOMETRAGE
+            #ANNEE & KILOMETRAGE
             try:
                 year_km = vehiculecard.find(class_='vehicle-zero-km').text.strip()
+                year=year_km[0:4]
+                kms=year_km[9:-3]
             except:
-                year_km=''
+                year=''
+                kms=''
             #LISTE D'OPTION
             try:
                 option_list = []
@@ -84,7 +87,8 @@ class ScrapUtils():
                 "Image": image_url,
                 "Prix": price,
                 "Motorisation": motorisation,
-                "Année/Kms": year_km,
+                "Annee": year,
+                "Kms": kms,
                 "Options": option_list,
                 "Lien": link,
                 "Crit'air": critair
@@ -92,38 +96,12 @@ class ScrapUtils():
             data_to_write.append(car_data)
         with open("exports/car_data.json", "w") as json_file:
             json.dump(data_to_write, json_file, ensure_ascii=False, indent=4)
-
-
-    #supprime les symboles étranges dans un objet json
-    def remove_weird_symbols(text):
-        return text.replace("�", "")
-
-
-    #supprime les objets vides de l'export json
-    def remove_empty_objects():
-        print("Nettoyage des données ...")
-        with open('exports/car_data.json', 'r') as file:
-            data = json.load(file)
-        cleaned_data = [item for item in data if item.get("Titre") != ""]
-        with open('exports/car_data.json', 'w') as file:
-            json.dump(cleaned_data, file, indent=4)
-
-
-    #nettoie le fichier grâce à la fonction remove_weird_symbols
-    def clean_json():
-        with open("exports/car_data.json", "r", encoding="latin-1") as json_file:
-            data = json.load(json_file)
-        for objet in data:
-            for key, value in objet.items():
-                if isinstance(value, str):
-                    objet[key] = ScrapUtils.remove_weird_symbols(value)
-        with open("exports/car_data.json", "w", encoding="utf-8") as json_file:
-            json.dump(data, json_file, ensure_ascii=False, indent=4)
     
 
     #scrape le nombre de pages voulu grâce à la fonction scrape_page
-    def scrape_multiple_pages(base_url, num_pages):
-        url = f'{base_url}?p={num_pages}'
+    def scrape_multiple_pages(self, num_pages):
+        print("------------------------SCRAPPING & BASE INSERTION-----------------------")
+        url = f'{self.basic_url}?p={num_pages}'
         print('URL complet : '+url)
         num = str(num_pages)
         print('Nombre de pages scrappées : '+num)
@@ -134,15 +112,6 @@ class ScrapUtils():
         soup = BeautifulSoup(page.text, 'html.parser')
         #Appel de la fonction de scraping pour chaque page
         ScrapUtils.scrape_page(soup)
-
-
-    #fonction exécution globale
-    def main_scrap(self,nb_pages):
-        print("------------------------SCRAPPING & BASE INSERTION-----------------------")
-        ScrapUtils.scrape_multiple_pages(self.basic_url,nb_pages)
-        ScrapUtils.remove_empty_objects()
-        ScrapUtils.clean_json()
-
 
 
 

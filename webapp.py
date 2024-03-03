@@ -1,7 +1,7 @@
 from utils.__init__ import __init__
 from utils.scrapUtils import ScrapUtils
 from utils.dbUtils import DbUtils
-
+from utils.jsonUtils import JsonUtils
 
 
 
@@ -13,7 +13,10 @@ CAR_DATA_FILE = "car_data.json"
 
 scrap = ScrapUtils(URL)
 dbu = DbUtils(DB_PROJET,CAR_DATA_COLLECTION,CAR_DATA_FILE)
+jsonfile = JsonUtils(CAR_DATA_FILE)
 
 #EXECUTION GLOBALE
-scrap.main_scrap(25)
+scrap.scrape_multiple_pages(25)
+jsonfile.remove_empty_objects()
+jsonfile.clean_json()
 dbu.db_insert()

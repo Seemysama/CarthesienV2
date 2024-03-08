@@ -57,35 +57,27 @@ def scrape_page(soup):
         try:
             link_container = vehiculecard.find(itemprop="url")
             link = link_container.get('content')
-            link = "https://www.capcar.fr/voiture-occasion" + link
+            link = "https://www.capcar.fr" + link
         except:
             link = ''
-        #CRIT'AIR & LISTE D'OPTION
+        #LISTE D'OPTION
         try:
             response_article = requests.get(link)
             soup_article = BeautifulSoup(response_article.content, "html.parser")
-            try:
-                labels_bodies = soup_article.find(class_='md:font-bold text-base text-darkBlue-980 leading-3')
-                for labels_body in labels_bodies:
-                    if "Crit'Air" in labels_body.get_text():
-                        critair = labels_body.text.strip()
-                    else:
-                        critair = ''
-            except:
-                critair = ''
-            try:
-                option_list = []
-                equipment_contents = soup_article.find_all(class_="inline-flex m-3 text-center leading-5")
-                if equipment_contents:
-                    for option in equipment_contents:
-                        option_list.append(option.get_text(strip=True))
-                    else:
-                        option_list = []
-            except:
-                option_list = []
+            option_list = []
+            equipment_contents = soup_article.find_all(class_="inline-flex m-3 text-center leading-5")
+            for option in equipment_contents:
+                option_list.append(option.get_text(strip=True))
+        except:
+            option_list = []
+        #CRIT'AIR
+        try:
+            response_article = requests.get(link)
+            soup_article = BeautifulSoup(response_article.content, "html.parser")
+            critair_container = soup_article.find(class_="inline-block w-6 h-6 mb-1")
+            critair = critair_container.get('alt')
         except:
             critair = ''
-            option_list = []
             
         car_data_heycar = {
             "Titre": title,
@@ -113,15 +105,15 @@ def scrape_multiple_pages(num_pages):
     print('Nombre de pages scrappées : '+num)
 
     #Appel de la fonction de scraping pour chaque page
-    for i in (1,num_pages+1):
+    for i in (1,num_pages):
         url_page = url + '?page='+str(i)
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
         }
-        page = requests.get(url, headers=headers)
+        page = requests.get(url_page, headers=headers)
         soup = BeautifulSoup(page.text, 'html.parser')
         print('URL complet : '+url_page) 
         scrape_page(soup)
 
 
-scrape_multiple_pages(2)
+scrape_multiple_pages(3)

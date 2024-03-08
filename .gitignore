@@ -2,3 +2,4 @@ env
 __pycache__
 exports/car_data.json
 mdp_mongo.txt
+tests/

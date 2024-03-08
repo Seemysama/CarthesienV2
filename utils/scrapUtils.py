@@ -1,16 +1,18 @@
 import json
 import requests
 from bs4 import BeautifulSoup
+import re
 
 
 
 class ScrapUtils():
 
-    def __init__(self, basic_url):
+    def __init__(self, basic_url, num_pages):
         self.basic_url = basic_url
+        self.num_pages = num_pages
 
-    #fonction de scraping pour une page
-    def scrape_page(soup):
+    #fonction de scraping pour aramisauto pour une page
+    def scrape_page_aramis(soup):
 
         vehiculecards = soup.find_all(class_='vehicle-container')
         data_to_write = []
@@ -50,7 +52,7 @@ class ScrapUtils():
             try:
                 year_km = vehiculecard.find(class_='vehicle-zero-km').text.strip()
                 year=year_km[0:4]
-                kms=year_km[9:-3]
+                kms=year_km[8:-3]
             except:
                 year=''
                 kms=''
@@ -97,13 +99,102 @@ class ScrapUtils():
         with open("exports/car_data.json", "w") as json_file:
             json.dump(data_to_write, json_file, ensure_ascii=False, indent=4)
     
+    #fonction de scraping pour capcar pour une page
+    def scrape_page_capcar(soup):
+        vehiculecards = soup.find_all(class_="flex flex-col bg-white transitionAllCubic cursor-pointer hover:shadow-card rounded overflow-hidden shadow-cardXs")
+        data_to_write = []
+        for vehiculecard in vehiculecards:
+            #TITRE
+            try:
+                brand = vehiculecard.find(itemprop="brand").text
+                model = vehiculecard.find(itemprop="model").text
+                title = brand+" "+model
+                print(title)
+            except:
+                title=''
+            #SOUS-TITRE
+            try:
+                subtitle = vehiculecard.find(class_="max-w-full overflow-hidden self-center truncate leading-tight").text
+            except:
+                subtitle=''
+            #IMAGE
+            try:
+                image_id = vehiculecard.find(class_='rounded-t transitionAllEaseOut object-cover bg-lightBlue-400 bg-no-repeat bg-center w-full h-56 tablet:h-48')
+                image_url = image_id.get('src')
+                """img_link = soup.find('img', {'data-picture': img_id})
+                image_url = img_link.get('data-original')"""
+            except:
+                image_url=''
+            #PRIX
+            try:
+                price = vehiculecard.find(class_='text-2xl tablet:text-xl font-bold text-center block leading-none text-blue-275').text.strip()
+                price = price.replace("€", "")
+            except:
+                price=''
+            #MOTORISATION
+            try:
+                motorisation = vehiculecard.find(itemprop="vehicleTransmission").text
+            except:
+                motorisation=''
+            #KILOMETRAGE
+            try:
+                kms = vehiculecard.find(itemprop="mileageFromOdometer").text
+                kms=kms[:-3]
+            except:
+                kms=''
+            #ANNEE
+            try:
+                year = vehiculecard.find(class_="text-left").text
+            except:
+                year=''
+            #LIEN
+            try:
+                link_container = vehiculecard.find(itemprop="url")
+                link = link_container.get('content')
+                link = "https://www.capcar.fr" + link
+            except:
+                link = ''
+            #LISTE D'OPTION
+            try:
+                response_article = requests.get(link)
+                soup_article = BeautifulSoup(response_article.content, "html.parser")
+                option_list = []
+                equipment_contents = soup_article.find_all(class_="inline-flex m-3 text-center leading-5")
+                for option in equipment_contents:
+                    option_list.append(option.get_text(strip=True))
+            except:
+                option_list = []
+            #CRIT'AIR
+            try:
+                response_article = requests.get(link)
+                soup_article = BeautifulSoup(response_article.content, "html.parser")
+                critair_container = soup_article.find(class_="inline-block w-6 h-6 mb-1")
+                critair = critair_container.get('alt')
+            except:
+                critair = ''
+                
+            car_data_heycar = {
+                "Titre": title,
+                "Sous-titre": subtitle,
+                "Image": image_url,
+                "Prix": price,
+                "Motorisation": motorisation,
+                "Annee": year,
+                "Kms": kms,
+                "Options": option_list,
+                "Lien": link,
+                "Crit'air": critair
+            }
+            data_to_write.append(car_data_heycar)
+        with open("exports/car_data_heycar.json", "w", encoding='utf-8') as json_file:
+            json.dump(data_to_write, json_file, ensure_ascii=False, indent=4)
 
     #scrape le nombre de pages voulu grâce à la fonction scrape_page
-    def scrape_multiple_pages(self, num_pages):
+    def scrape_multiple_pages_aramis(self):
         print("------------------------SCRAPPING & BASE INSERTION-----------------------")
-        url = f'{self.basic_url}?p={num_pages}'
+        url = f'{self.basic_url}?p={self.num_pages}'
         print('URL complet : '+url)
-        num = str(num_pages)
+        num = str(self.num_pages)
         print('Nombre de pages scrappées : '+num)
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
@@ -111,11 +202,31 @@ class ScrapUtils():
         page = requests.get(url, headers=headers)
         soup = BeautifulSoup(page.text, 'html.parser')
         #Appel de la fonction de scraping pour chaque page
-        ScrapUtils.scrape_page(soup)
+        ScrapUtils.scrape_page_aramis(soup)
 
+    #scrape le nombre de pages voulu grâce à la fonction scrape_page
+    def scrape_multiple_pages_capcar(self):
+        print("------------------------SCRAPPING & BASE INSERTION-----------------------")
+        url = str(self.basic_url)
+        print('URL du site : '+url)
+        num = str(self.num_pages)
+        print('Nombre de pages scrappées : '+num)
 
+        #Appel de la fonction de scraping pour chaque page
+        for i in (1,self.num_pages):
+            url_page = f'{self.basic_url}?page={i}'
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
+            }
+            page = requests.get(url_page, headers=headers)
+            soup = BeautifulSoup(page.text, 'html.parser')
+            print('URL complet : '+url_page) 
+            ScrapUtils.scrape_page_capcar(soup)
 
-    """
-    LINKS :
-    'https://www.aramisauto.com/achat/occasion?types%5B0%5D=VO'
-    """
+    def global_scrap(self):
+        if re.search('aramis', self.basic_url):
+            ScrapUtils.scrape_multiple_pages_aramis(self)
+        elif re.search('capcar', self.basic_url):
+            ScrapUtils.scrape_multiple_pages_capcar(self)
+        else:
+            print('Algorithme de scrap non trouvé')

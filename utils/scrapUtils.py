@@ -220,7 +220,7 @@ class ScrapUtils():
             }
             page = requests.get(url_page, headers=headers)
             soup = BeautifulSoup(page.text, 'html.parser')
-            print('URL complet : '+url_page) 
+            print('URL complet : '+url_page)
             ScrapUtils.scrape_page_capcar(soup)
 
     def global_scrap(self):

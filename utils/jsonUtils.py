@@ -1,4 +1,5 @@
 import json
+import unicodedata
 
 
 class JsonUtils():
@@ -8,7 +9,17 @@ class JsonUtils():
 
     #supprime les symboles étranges dans un objet json
     def remove_weird_symbols(text):
-        return text.replace("�", "")
+        text_cleaned = text.replace("�", "")
+        text_cleaned = text_cleaned.replace("é", "e")
+        text_cleaned = text_cleaned.replace("ê", "e")
+        text_cleaned = text_cleaned.replace("è", "e")
+        text_cleaned = text_cleaned.replace("ë", "e")
+        text_cleaned = text_cleaned.replace("Ã‰", "e")
+        text_cleaned = text_cleaned.replace("Ã«", "e")
+        text_cleaned = text_cleaned.replace("Ãª", "e")
+        text_cleaned = text_cleaned.replace("Ã¨", "e")
+        text_cleaned = text_cleaned.replace("Ã©", "e")
+        return text_cleaned
 
     #supprime les objets vides de l'export json
     def remove_empty_objects(self):
@@ -29,5 +40,5 @@ class JsonUtils():
             for key, value in objet.items():
                 if isinstance(value, str):
                     objet[key] = JsonUtils.remove_weird_symbols(value)
-        with open(export_path, "w", encoding="utf-8") as json_file:
-            json.dump(data, json_file, ensure_ascii=False, indent=4)
+            with open(export_path, "w", encoding="utf-8") as json_file:
+                json.dump(data, json_file, ensure_ascii=False, indent=4)

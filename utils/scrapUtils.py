@@ -21,6 +21,13 @@ class ScrapUtils():
             #TITRE
             try:
                 title = vehiculecard.find(class_='vehicle-model').text
+                title = title.replace("é", "e")
+                title = title.replace("è", "e")
+                title = title.replace("ê", "e")
+                title = title.replace("ë", "e")
+                title = title.replace("ë", "e")
+                title = title.replace("É", "E")
+                title = title.replace("Ë", "E")
                 print(title)
             except:
                 title=''
@@ -41,18 +48,25 @@ class ScrapUtils():
             try:
                 price = vehiculecard.find(class_='vehicle-loa-offer').text.strip()
                 price = price.replace("€", "")
+                price = price.replace(" ", "")
+                price = price.replace("U+00a0", "")
+                price = price.replace(" ", "")
             except:
                 price=''
-            #MOTORISATION
+            #MOTORISATION & CARBURANT
             try:
-                motorisation = vehiculecard.find(class_='vehicle-transmission').text.strip()
+                moto_carbu = vehiculecard.find(class_='vehicle-transmission').text.strip()
+                motorisation = moto_carbu.split(' - ')[1]
+                carburant = moto_carbu.split(' - ')[0]
             except:
-                motorisation=''
+                motorisation = ''
+                carburant = ''
             #ANNEE & KILOMETRAGE
             try:
                 year_km = vehiculecard.find(class_='vehicle-zero-km').text.strip()
                 year=year_km[0:4]
                 kms=year_km[8:-3]
+                kms = kms.replace(" ", "")
             except:
                 year=''
                 kms=''
@@ -62,7 +76,14 @@ class ScrapUtils():
                 equipment_contents = vehiculecard.find_all(class_="equipment-tooltip-content")
                 if equipment_contents:
                     for option in equipment_contents:
-                        option_list.append(option.get_text(strip=True))
+                        option_txt = option.get_text(strip=True)
+                        option_txt = option_txt.replace("é", "e")
+                        option_txt = option_txt.replace("è", "e")
+                        option_txt = option_txt.replace("ê", "e")
+                        option_txt = option_txt.replace("ë", "e")
+                        option_txt = option_txt.replace("É", "E")
+                        option_txt = option_txt.replace("Ë", "E")
+                        option_list.append(option_txt)
             except:
                 option_list = []
             #LIEN
@@ -80,6 +101,7 @@ class ScrapUtils():
                 for labels_body in labels_bodies:
                     if "Crit'Air" in labels_body.get_text():
                         critair = labels_body.text.strip()
+                        critair = critair.replace("Crit'Air ", "")
             except:
                 critair = ''
                 
@@ -89,6 +111,7 @@ class ScrapUtils():
                 "Image": image_url,
                 "Prix": price,
                 "Motorisation": motorisation,
+                "Carburant": carburant,
                 "Annee": year,
                 "Kms": kms,
                 "Options": option_list,
@@ -109,6 +132,12 @@ class ScrapUtils():
                 brand = vehiculecard.find(itemprop="brand").text
                 model = vehiculecard.find(itemprop="model").text
                 title = brand+" "+model
+                title = title.replace("é", "e")
+                title = title.replace("è", "e")
+                title = title.replace("ê", "e")
+                title = title.replace("ë", "e")
+                title = title.replace("É", "E")
+                title = title.replace("Ë", "E")
                 print(title)
             except:
                 title=''
@@ -127,8 +156,8 @@ class ScrapUtils():
                 image_url=''
             #PRIX
             try:
-                price = vehiculecard.find(class_='text-2xl tablet:text-xl font-bold text-center block leading-none text-blue-275').text.strip()
-                price = price.replace("€", "")
+                priceContainer = vehiculecard.find(itemprop='price')
+                price = priceContainer.get('content')
             except:
                 price=''
             #MOTORISATION
@@ -136,9 +165,16 @@ class ScrapUtils():
                 motorisation = vehiculecard.find(itemprop="vehicleTransmission").text
             except:
                 motorisation=''
+            #CARBURANT
+            try:
+                carburant = vehiculecard.find(itemprop="fuelType").text
+                carburant = carburant.replace("É", "E")
+            except:
+                carburant=''
             #KILOMETRAGE
             try:
                 kms = vehiculecard.find(itemprop="mileageFromOdometer").text
+                kms = kms.replace(" ", "")
                 kms=kms[:-3]
             except:
                 kms=''
@@ -156,20 +192,29 @@ class ScrapUtils():
                 link = ''
             #LISTE D'OPTION
             try:
-                response_article = requests.get(link)
+                headers = {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
+                }
+                response_article = requests.get(link, headers=headers)
                 soup_article = BeautifulSoup(response_article.content, "html.parser")
                 option_list = []
                 equipment_contents = soup_article.find_all(class_="inline-flex m-3 text-center leading-5")
                 for option in equipment_contents:
-                    option_list.append(option.get_text(strip=True))
+                    option_txt = option.get_text(strip=True)
+                    option_txt = option_txt.replace("é", "e")
+                    option_txt = option_txt.replace("è", "e")
+                    option_txt = option_txt.replace("ê", "e")
+                    option_txt = option_txt.replace("ë", "e")
+                    option_txt = option_txt.replace("É", "E")
+                    option_txt = option_txt.replace("Ë", "E")
+                    option_list.append(option_txt)
             except:
                 option_list = []
             #CRIT'AIR
             try:
-                response_article = requests.get(link)
-                soup_article = BeautifulSoup(response_article.content, "html.parser")
                 critair_container = soup_article.find(class_="inline-block w-6 h-6 mb-1")
                 critair = critair_container.get('alt')
+                critair = critair.replace("Crit'air ", "")
             except:
                 critair = ''
                 
@@ -179,6 +224,7 @@ class ScrapUtils():
                 "Image": image_url,
                 "Prix": price,
                 "Motorisation": motorisation,
+                "Carburant": carburant,
                 "Annee": year,
                 "Kms": kms,
                 "Options": option_list,
@@ -186,7 +232,7 @@ class ScrapUtils():
                 "Crit'air": critair
             }
             data_to_write.append(car_data_heycar)
-        with open("exports/car_data_heycar.json", "w", encoding='utf-8') as json_file:
+        with open("exports/car_data.json", "w", encoding='utf-8') as json_file:
             json.dump(data_to_write, json_file, ensure_ascii=False, indent=4)
 
     #scrape le nombre de pages voulu grâce à la fonction scrape_page

@@ -1,6 +1,6 @@
 env
 __pycache__
-exports/car_data.json
+*/car_data.json
 mdp_mongo.txt
 tests/
 node_modules/

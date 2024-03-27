@@ -2,6 +2,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 import re
+from utils.jsonUtils import JsonUtils
 
 
 
@@ -28,6 +29,8 @@ class ScrapUtils():
                 title = title.replace("ë", "e")
                 title = title.replace("É", "E")
                 title = title.replace("Ë", "E")
+                brand = title.split(' ')[0]
+                model = title.split(' ')[1]
                 print(title)
             except:
                 title=''
@@ -42,6 +45,8 @@ class ScrapUtils():
                 img_id = image_id.get('data-picture')
                 img_link = soup.find('img', {'data-picture': img_id})
                 image_url = img_link.get('data-original')
+                image_url = "https:" + image_url
+                print(image_url)
             except:
                 image_url=''
             #PRIX
@@ -106,7 +111,8 @@ class ScrapUtils():
                 critair = ''
                 
             car_data = {
-                "Titre": title,
+                "Marque": brand,
+                "Modele": model,
                 "Sous-titre": subtitle,
                 "Image": image_url,
                 "Prix": price,
@@ -131,14 +137,19 @@ class ScrapUtils():
             try:
                 brand = vehiculecard.find(itemprop="brand").text
                 model = vehiculecard.find(itemprop="model").text
-                title = brand+" "+model
-                title = title.replace("é", "e")
-                title = title.replace("è", "e")
-                title = title.replace("ê", "e")
-                title = title.replace("ë", "e")
-                title = title.replace("É", "E")
-                title = title.replace("Ë", "E")
-                print(title)
+                brand = brand.replace("é", "e")
+                brand = brand.replace("è", "e")
+                brand = brand.replace("ê", "e")
+                brand = brand.replace("ë", "e")
+                brand = brand.replace("É", "E")
+                brand = brand.replace("Ë", "E")
+                model = model.replace("é", "e")
+                model = model.replace("è", "e")
+                model = model.replace("ê", "e")
+                model = model.replace("ë", "e")
+                model = model.replace("É", "E")
+                model = model.replace("Ë", "E")
+                print(brand + " " + model)
             except:
                 title=''
             #SOUS-TITRE
@@ -175,7 +186,7 @@ class ScrapUtils():
             try:
                 kms = vehiculecard.find(itemprop="mileageFromOdometer").text
                 kms = kms.replace(" ", "")
-                kms=kms[:-3]
+                kms=kms[:-2]
             except:
                 kms=''
             #ANNEE
@@ -218,8 +229,9 @@ class ScrapUtils():
             except:
                 critair = ''
                 
-            car_data_heycar = {
-                "Titre": title,
+            car_data_capcar = {
+                "Marque": brand,
+                "Modele": model,
                 "Sous-titre": subtitle,
                 "Image": image_url,
                 "Prix": price,
@@ -231,12 +243,14 @@ class ScrapUtils():
                 "Lien": link,
                 "Crit'air": critair
             }
-            data_to_write.append(car_data_heycar)
-        with open("exports/car_data.json", "w", encoding='utf-8') as json_file:
-            json.dump(data_to_write, json_file, ensure_ascii=False, indent=4)
+            data_to_write.append(car_data_capcar)
+        return data_to_write
+
 
     #scrape le nombre de pages voulu grâce à la fonction scrape_page
     def scrape_multiple_pages_aramis(self):
+        CAR_DATA_FILE = "car_data.json"
+        jsonfile = JsonUtils(CAR_DATA_FILE)
         print("------------------------SCRAPPING & BASE INSERTION-----------------------")
         url = f'{self.basic_url}?p={self.num_pages}'
         print('URL complet : '+url)
@@ -249,9 +263,12 @@ class ScrapUtils():
         soup = BeautifulSoup(page.text, 'html.parser')
         #Appel de la fonction de scraping pour chaque page
         ScrapUtils.scrape_page_aramis(soup)
+        jsonfile.remove_empty_objects()
+        jsonfile.clean_json()
 
     #scrape le nombre de pages voulu grâce à la fonction scrape_page
     def scrape_multiple_pages_capcar(self):
+        global_data_to_write = []
         print("------------------------SCRAPPING & BASE INSERTION-----------------------")
         url = str(self.basic_url)
         print('URL du site : '+url)
@@ -259,7 +276,7 @@ class ScrapUtils():
         print('Nombre de pages scrappées : '+num)
 
         #Appel de la fonction de scraping pour chaque page
-        for i in (1,self.num_pages):
+        for i in range(1,self.num_pages+1):
             url_page = f'{self.basic_url}?page={i}'
             headers = {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
@@ -267,7 +284,11 @@ class ScrapUtils():
             page = requests.get(url_page, headers=headers)
             soup = BeautifulSoup(page.text, 'html.parser')
             print('URL complet : '+url_page)
-            ScrapUtils.scrape_page_capcar(soup)
+            data_recup = ScrapUtils.scrape_page_capcar(soup)
+            global_data_to_write += data_recup
+        
+        with open("exports/car_data.json", "w", encoding='utf-8') as json_file:
+            json.dump(global_data_to_write, json_file, ensure_ascii=False, indent=4)
 
     def global_scrap(self):
         if re.search('aramis', self.basic_url):

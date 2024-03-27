@@ -36,9 +36,27 @@ class JsonUtils():
         export_path = 'exports/'+self.file
         with open(export_path, "r", encoding="latin-1") as json_file:
             data = json.load(json_file)
+        
         for objet in data:
             for key, value in objet.items():
                 if isinstance(value, str):
                     objet[key] = JsonUtils.remove_weird_symbols(value)
             with open(export_path, "w", encoding="utf-8") as json_file:
                 json.dump(data, json_file, ensure_ascii=False, indent=4)
+
+    def count_json_objects(self):
+        export_path = 'exports/'+self.file
+        with open(export_path, 'r') as f:
+            data = json.load(f)
+        nbObject = 0
+        #Si le fichier JSON contient un seul objet
+        if isinstance(data, dict):
+            nbObject = 1
+        #Si le fichier JSON contient une liste d'objets
+        elif isinstance(data, list):
+            nbObject = len(data)
+        #Si le fichier JSON est vide
+        else:
+            nbObject = 0
+        
+        print(f"Nombre d'objets dans le fichier JSON : {nbObject}")

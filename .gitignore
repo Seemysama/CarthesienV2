@@ -3,3 +3,5 @@ __pycache__
 exports/car_data.json
 mdp_mongo.txt
 tests/
+node_modules/
+package-lock.json

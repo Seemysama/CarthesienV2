@@ -26,13 +26,38 @@ def formulaire():
     annee = data["annee"]
     kms = data["kms"]
     options = data["options"]
-    print(marque, modele, prix, motorisation, carburant, annee, kms, options)
-    return {"success": True}
 
-@app.route("/api/classification", methods=["POST"])
-def classification():
-    data = request.get_json()
+    result = classification(data)
+    print(marque, modele, prix, motorisation, carburant, annee, kms, options)
+    print("result : ", result)
+    return {"success": True, "result": result}
+
+def classification(data):
     classification = 0
+    if data['marque'] == 'Audi':
+        classification = 1
+    elif data['marque'] == 'BMW':
+        classification = 2
+    elif data['marque'] == 'Citroen':
+        classification = 3
+    elif data['marque'] == 'Fiat':
+        classification = 4
+    elif data['marque'] == 'Ford':
+        classification = 5
+    elif data['marque'] == 'Mercedes':
+        classification = 6
+    elif data['marque'] == 'Peugeot':
+        classification = 7
+    elif data['marque'] == 'Renault':
+        classification = 8
+    elif data['marque'] == 'Volkswagen':
+        classification = 9
+    elif data['marque'] == 'Porsche':
+        classification = 10
+    else :
+        classification = 0
+        print('marque : ', data)
+    print("classification : ", classification)
     return classification
 
 if __name__ == '__main__':

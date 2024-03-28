@@ -11,7 +11,8 @@ const Formulaire = () => {
     const [annee, setAnnee] = useState("");
     const [kms, setKms] = useState("");
     const [options, setOptions] = useState("");
-  
+    const [classification, setClassification] = useState(null);
+
     const handleSubmit = (e) => {
       e.preventDefault();
   
@@ -27,15 +28,20 @@ const Formulaire = () => {
         options
       };
   
-      axios.post("http://localhost:3030/api/formulaire", data).then((response) => {
-        console.log(response);
-      });
+      axios.post("http://localhost:3030/api/formulaire", data)
+        .then((response) => {
+            setClassification(response.data.result);
+            console.log(response.data.result);
+        })
+        .catch((error) => {
+            console.error(error);
+        });
     };
   
     return (
       <form onSubmit={handleSubmit}>
-        <input type="text" name="modele" value={modele} onChange={(e) => setModele(e.target.value)} />
         <input type="text" name="marque" value={marque} onChange={(e) => setMarque(e.target.value)} />
+        <input type="text" name="modele" value={modele} onChange={(e) => setModele(e.target.value)} />
         <input type="text" name="soustitre" value={soustitre} onChange={(e) => setSoustitre(e.target.value)} />
         <input type="text" name="prix" value={prix} onChange={(e) => setPrix(e.target.value)} />
         <input type="text" name="motorisation" value={motorisation} onChange={(e) => setMotorisation(e.target.value)} />
@@ -44,6 +50,7 @@ const Formulaire = () => {
         <input type="text" name="kms" value={kms} onChange={(e) => setKms(e.target.value)} />
         <input type="text" name="options" value={options} onChange={(e) => setOptions(e.target.value)} />
         <button type="submit">Envoyer</button>
+        <div>{classification}</div>
       </form>
     );
   };

@@ -46,7 +46,6 @@ class ScrapUtils():
                 img_link = soup.find('img', {'data-picture': img_id})
                 image_url = img_link.get('data-original')
                 image_url = "https:" + image_url
-                print(image_url)
             except:
                 image_url=''
             #PRIX

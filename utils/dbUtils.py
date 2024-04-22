@@ -26,7 +26,7 @@ class DbUtils():
 
     #insertion de masse
     def db_insert_masse(self):
-        collection = DbUtils.db_connexion(self.db, self.collection)
+        collection = DbUtils.db_connexion(self)
         file_to_insert = 'exports/'+self.file
         try:
             with open(file_to_insert, 'r') as jsonfile :

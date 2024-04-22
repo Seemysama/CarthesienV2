@@ -1,39 +1,55 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 from pymongo import MongoClient
+from utils.dbUtils import DbUtils
+from utils.mlUtils import MLUtils
+from bson.objectid import ObjectId
 
 app = Flask(__name__)
 CORS(app)
 
-# Connect to MongoDB
-client = MongoClient('mongodb+srv://axel_toussenel:AxelAdmin92@car-thesiendb.sey3qsk.mongodb.net/Projet_Ydays?retryWrites=true&w=majority&appName=Car-thesienDB')
-db = client['Projet_Ydays']
-collection = db['scrap_2024']
+DB_PROJET = "Projet_Ydays"
+CAR_DATA_COLLECTION = "Voiture_noté"
+CAR_DATA_FILE = ""
 
-@app.route('/api/data', methods=['GET'])
-def get_data():
-    data = list(collection.find({}, {'_id': False}))  # Replace 'data' with your collection name
-    return jsonify(data)
 
-@app.route("/api/formulaire", methods=["POST"])
-def formulaire():
-    data = request.get_json()
-    marque = data["marque"]
-    modele = data["modele"]
-    prix = data["prix"]
-    motorisation = data["motorisation"]
-    carburant = data["carburant"]
-    annee = data["annee"]
-    kms = data["kms"]
-    options = data["options"]
-
-    result = classification(data)
-    print(marque, modele, prix, motorisation, carburant, annee, kms, options)
-    print("result : ", result)
-    return {"success": True, "result": result}
+dbu = DbUtils(DB_PROJET,CAR_DATA_COLLECTION,CAR_DATA_FILE)
+mlu = MLUtils()
 
 def classification(data):
-    return 0
+    return data['Marque']
+
+#GET toutes les voitures de la collection
+@app.route('/api/data', methods=['GET'])
+def get_data():
+    collection = dbu.db_connexion()
+    data = list(collection.find({}))
+    for item in data:
+        item['_id'] = str(item['_id'])
+    return jsonify(data)
+
+#POST une voiture dans l'algorithme de classification
+@app.route("/car-form", methods=["POST"])
+def formulaire():
+    data = request.get_json()
+
+    result = classification(data)
+    print("Note estimée : ", result)
+    return result
+
+#GET une voiture par son id
+@app.route('/cars/<id>', methods=['GET'])
+def get_car(id):
+    print('get')
+    collection = dbu.db_connexion()
+    car = collection.find_one({'_id': ObjectId(id)})
+    if car:
+        car['_id'] = str(car['_id']) # Convertie ObjectId en string
+        print(car)
+        return jsonify(car)
+    else:
+        return jsonify({'error': 'Car not found'}), 404
+
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=3030)

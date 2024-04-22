@@ -3,30 +3,29 @@ import pymongo
 from pymongo import MongoClient
 
 
-
-
 class DbUtils():
 
-    
     def __init__(self, db, collection, file):
         self.db = db
         self.collection = collection
         self.file = file
 
+    #récupération de la base de données
     def get_database():
         MONGO_CONNEXION = "mongodb+srv://axel_toussenel:AxelAdmin92@car-thesiendb.sey3qsk.mongodb.net/"
         client = MongoClient(MONGO_CONNEXION)
         return(client)
     
-    def db_connexion(db, collection):
-        print("-----------------------------MONGO INSERTION-----------------------------")
+    #récupération de la collection
+    def db_connexion(self):
         client=DbUtils.get_database()
-        database = client[db]
-        collection = database[collection]
+        database = client[self.db]
+        collection = database[self.collection]
 
         return collection
 
-    def db_insert(self):
+    #insertion de masse
+    def db_insert_masse(self):
         collection = DbUtils.db_connexion(self.db, self.collection)
         file_to_insert = 'exports/'+self.file
         try:
@@ -39,3 +38,9 @@ class DbUtils():
             print(count)
         except pymongo.errors.ConnectionFailure as e:
             print('Insertion échouée.  --> ', e)
+
+    #insertion d'un document
+    def db_insert_detail(self, item):
+        print("-----------------------------MONGO INSERTION-----------------------------")
+        collection = DbUtils.db_connexion(self.db, self.collection)
+        collection.insert_one(item)

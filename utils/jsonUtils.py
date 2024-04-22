@@ -58,5 +58,4 @@ class JsonUtils():
         #Si le fichier JSON est vide
         else:
             nbObject = 0
-        
         print(f"Nombre d'objets dans le fichier JSON : {nbObject}")

@@ -20,4 +20,4 @@ jsonfile = JsonUtils(CAR_DATA_FILE)
 #EXECUTION GLOBALE 
 scrap.global_scrap()
 jsonfile.count_json_objects()
-dbu.db_insert()
+dbu.db_insert_masse()

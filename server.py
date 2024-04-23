@@ -1,23 +1,27 @@
+from joblib import load
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 from pymongo import MongoClient
 from utils.dbUtils import DbUtils
-from utils.mlUtils import MLUtils
+from utils.mlUtils import MlUtils
 from bson.objectid import ObjectId
+from sklearn.pipeline import Pipeline
+from joblib import dump
+
+
 
 app = Flask(__name__)
 CORS(app)
 
 DB_PROJET = "Projet_Ydays"
-CAR_DATA_COLLECTION = "Voiture_noté"
+CAR_DATA_COLLECTION_NOTE = "Voiture_noté"
+CAR_DATA_COLLECTION_SCRAP = "scrap_2024"
 CAR_DATA_FILE = ""
 
 
-dbu = DbUtils(DB_PROJET,CAR_DATA_COLLECTION,CAR_DATA_FILE)
-mlu = MLUtils()
-
-def classification(data):
-    return data['Marque']
+dbu = DbUtils(DB_PROJET,CAR_DATA_COLLECTION_NOTE,CAR_DATA_FILE)
+dbu2 = DbUtils(DB_PROJET,CAR_DATA_COLLECTION_SCRAP,CAR_DATA_FILE)
+mlu = MlUtils(DB_PROJET)
 
 #GET toutes les voitures de la collection
 @app.route('/api/data', methods=['GET'])
@@ -29,13 +33,17 @@ def get_data():
     return jsonify(data)
 
 #POST une voiture dans l'algorithme de classification
-@app.route("/car-form", methods=["POST"])
+@app.route("/carform", methods=["POST"])
 def formulaire():
     data = request.get_json()
 
-    result = classification(data)
-    print("Note estimée : ", result)
-    return result
+    print("prediction des notes")
+    notes_predites = mlu.predict_notes(data, 'model.joblib')
+    notes_predites_dict = notes_predites.to_dict(orient='records')
+    print(notes_predites_dict)
+    note_predite = notes_predites_dict[0]['Note_predite']
+    note_predite_dict = {'Note_predite': note_predite}
+    return jsonify(note_predite_dict)
 
 #GET une voiture par son id
 @app.route('/cars/<id>', methods=['GET'])

@@ -1,0 +1,53 @@
+{
+  "marque": "Ford",
+  "modele": "MUSTANG MACH E",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Comportement routier parmi les plus ludiques de la catégorie. Malgré sa  carrosserie qui rappelle un peu un monospace, ça se conduit comme une véritable  berline \"sportive\". Ironie de l'histoire, c'est presque  plus convaincant que sur une  Mustang thermique qui a parfois tendance à être plus souple (dépend des versions). Bref, le châssis est ici très rigoureux et vire bien à plat. Il est juste  dommage qu'on soit perché un peu haut (pas trop heureusement). Les pneumatiques étroits et le poids n'aidant pas non plus ...",
+    "Capacités de  batteries impressionnantes sur les modèles les plus élevés en gamme (99 kWh !). Rares sont les autos à en offrir autant, et le niveau de tampon assure une belle durée de vie",
+    "Rapport  qualité / prix excellent, Tesla peut littéralement aller se cacher avec son  Model Y",
+    "Qualité de finition très honorable même si ça manque un peu d'aspérité  (un peu trop sombre notamment) et que les matériaux sont durs pour la majorité  d'entre eux",
+    "Infodivertissement très généreux en hardware (taille d'écran XXL et  roulette intégrée à ce dernier) mais aussi en software (parfois plus d'infos  techniques que dans une Model Y par exemple, notamment vis à vis de la  consommation d'énergie qui est ici plus : consommation du chauffage,  accessoires, influence de la température etc.)",
+    "Molette sur l'écran d'infodivertissement très judicieuse quand on veut régler quelque chose à tâtons sans quitter la route",
+    "Mises à jour à distance du l'infodivertissement comme  chez Tesla (et  comme sur n'importe quel appareil numérique moderne en  gros)",
+    "Volume de coffre total très honorable même si des critiques lui ont été  faites à ce sujet (avec le fameux volume de 402 litres indiqué partout, juste  digne d'une compacte). En réalité le coffre arrière cumule 519 litres sous  tablette avec le plancher de coffre et le coffre avant 90 litres). Difficile de  comprendre pourquoi Ford se tire une balle dans le pied en annonçant un volume  de 402 litres qui ne comprend pas tout l'espace",
+    "Version GT des plus généreuse en  terme de puissance et de châssis ... Chez VW on n'a pas droit à ça par  exemple",
+    "Amortissement piloté en option qui permet d'améliorer un peu les choses  au niveau de la suspension (car la Mach",
+    "Confort des sièges qui compensent un peu la raideur des suspensions",
+    "Système de  code sur les montants de porte en cas d'oubli des clés ! Ou plutôt plus besoin  de s'embêter avec les clés avec le Mach",
+    "E, encore mieux que le système avec  bracelet de Jaguar ...",
+    "Vitesse de charge très honorable même si sur la version à \"petite\"  batterie on est un peu plus limité (115 kW, ce qui reste largement acceptable !  Ca suffit même largement en pratique)",
+    "Impressionnante, vive et spacieuse.Voiture utilisée avec une borne personnelle 22 kW temps de recharge court (Standard Range Electrique              269 ch Juin 2021)",
+    "Suv premium et sportif qui se démarque.",
+    "Super confortable rappel tous fait rapidement"
+  ],
+  "defauts": [
+    "Confort de suspension qui ne ravira pas les sensibles (et même les moins  sensibles), Ford a privilégié le plaisir de conduite à celui du confort (àa part au niveau de la sellerie). En gros  l'auto semble avoir de série un châssis de ST Line ! En revanche quel plaisir de  à mener ... C'est pour ma part le type de réglage que j'aime (mais je sais que  d'autres n'aiment pas du tout)",
+    "Comme souvent avec Ford, niveau informations  produit on est totalement livré à nous même ... Rien à se mettre sous la dent,  le client doit se débrouiller seul en glanant des infos de ci et de là",
+    "Volume de  coffre annoncé à 402 litres. C'est étrange mais en réalité il paraît plus grand  ... Et c'est en effet vrai, si on compte l'espace sous plancher (qui est  amovible avec deux positions : basse ou haute pour s'aligner avec les sièges  arrière) on grimpe à 519 litres. On se rattrape un peu avec un volume de 90  litres à l'avant",
+    "Molette qui sert à changer les  \"vitesses\" (marche avant, arrière, neutre) vraiment pas ergonomique quand on  doit faire une manoeuvre expresse (genre demi tour sur route)",
+    "Mélange des genres  qui peut ne pas plaire : un SUV en forme de Mustang coupé c'est quand même un  peu \"hybride\" comme histoire",
+    "Ecran multimédia positionné verticalement, pour ma  part j'aime la position horizontale des Tesla (notez que les S et X sont passées  elles aussi à l'horizontalité sur la deuxième génération)",
+    "Gommes un peu étroites  et dotées de flancs un poil épais (mais bon, le confort serait encore pire si ça  n'était pas le cas, je parle de l'épaisseur uniquement)",
+    "Vitesse de pointe un peu pathétique pour la GT de 487 ch ...",
+    "Cockpit  digital trop succinct et basique, ça gâche un peu l'ambiance techno bien que  certains seront justement ravi de la clarté de ce dernier (pas trop d'infos qui  vous envahissent, ce que les séniors n'aiment généralement pas)",
+    "Gestion des  trajets un peu chaotique, la base de données qui indique les bornes semble  obsolète",
+    "L'autonomie en hiver et un peu tape-cul pour les places arrières",
+    "Autonomie insuffisante"
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [],
+  "score_fiabilite": 8.0,
+  "score_global": 6.9,
+  "source_url": "https://www.fiches-auto.fr/essai-ford/essai-696-test-complet-ford-mustang-mach-e.php",
+  "scrape_timestamp": "2026-01-31T23:40:18.719583",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

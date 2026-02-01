@@ -1,0 +1,59 @@
+{
+  "marque": "Renault",
+  "modele": "SCENIC E TECH",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Look franchement réussi même si il est difficile à catégoriser ... Monospace ?  SUV ? Berline break ? Le Crossover à l'état pur en quelque sorte. En tout cas il  est viril et fait oublier (en partie) qu'il s'agit d'une Renault",
+    "Prestations techniques plutôt honorables en termes de capacité de  batterie",
+    "Habitabilité et coffre vraiment convaincants alors qu'on pouvait en  douter vue son allure basse et ramassée qui laissait craindre le pire. A  l'arrière l'espace est vraiment royal",
+    "Place avant qui vous laisse respirer avec de l'espace et des rangements  vastes (antagoniste au 3008 qui fait tout l'inverse)",
+    "Infodivertissement qui se positionne très bien par rapport à la  concurrence : écrans généreux, couleurs et résolution convaincantes ainsi qu'Android  Automotiv comme système d'exploitation",
+    "Planificateur intégré et en plus il est assez convaincant",
+    "Qualité de finition très satisfaisante malgré des plastiques noirs  laquées qui réduisent le sentiment de qualité (celui qui entoure les écran et la  planche de bord)",
+    "Commande vocale qui s'avère être au sommet de l'industrie automobile",
+    "Comportement honorable à défaut de subjuguer, en tout cas il est bien  plus stable du popotin que la Mégane avec laquelle il partage son châssis",
+    "Commande de \"boîte\" par commodo, rien de mieux sur Terre ...",
+    "Toit en verre occultant par un dispositif digital qui fait son effet (le  toit devient opaque bien que de la lumière continue de passer)",
+    "Contrôle à distance de certaines fonctions via Remote Service",
+    "Coloris proposés avec notamment des configurations très bad boy : gris  mat et inserts noirs",
+    "Option charge AC à 22 kW, ce qui est loin d'être \"courant\""
+  ],
+  "defauts": [
+    "Vitesse de charge un peu trop modeste pour voyager confortablement",
+    "Seuil de chargement haut et coffre très creusé qui rend les choses moins  pratiques, il est plus agréable que le plancher effleure le seuil (ce qui aurait  pu être le cas avec un plancher modulable qu'on voit de plus en plus ailleurs)",
+    "Hauteur de caisse limitée qui ne permet pas de crapahuter en dehors des  routes (même les trottoirs paraîtront hauts). En revanche ça favorise la  stabilité et le comportement",
+    "Empilement des commodos côté droit qui est vraiment le signe d'un souci  de conception, identique à la Mégane",
+    "Voiture électrique traction basée sur un châssis de thermique à peine  modifié, à savoir la CMF qui s'appelle ici CMF EV ... Ce n'est pas totalement  optimal bien que loin d'être réellement une lacune",
+    "Moteurs à balais qui ne sont pas les meilleurs en termes de durabilité",
+    "Puissances moteur proposées assez modestes pour de l'électrique. C'est  amplement suffisant mais ça n'est pas grisant ... De plus, en étant une traction  il était impossible de monter plus haut sans que le train avant ne devienne  incontrôlable, ou alors il aurait fallu intégrer du Torsen (et encore, ça ne  fait pas tout).",
+    "Insonorisation qui reste décevante dès que la vitesse augmente, sans  doute aggravé par le toit en verre"
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "subjuguer, en tout cas il est bien  plus stable du popotin que la Mégane avec laquelle il partage son châssis\r\n Commande de \"boîte\" par commodo, rien de mieux sur Terre",
+      "categorie": "boite",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "conception, identique à la Mégane\r\n Voiture électrique traction basée sur un châssis de thermique à peine  modifié, à savoir la CMF qui s'appelle ici CMF EV",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 7.8,
+  "score_global": 7.1,
+  "source_url": "https://www.fiches-auto.fr/essai-renault/essai-743-test-complet-renault-scenic-e-tech.php",
+  "scrape_timestamp": "2026-01-31T23:24:54.438978",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

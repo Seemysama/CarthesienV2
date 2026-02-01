@@ -1,0 +1,96 @@
+{
+  "marque": "Peugeot",
+  "modele": "306",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Relativement confortable même si la suspension est un peu ferme pour maintenir correctement la caisse",
+    "Version break habitable tout en pouvant être stationné sans grande difficulté",
+    "Tres bonne voiture grand coffre (break)",
+    "Démarre tout temp elle a 30 ans. Jamais tombé en pane juste changé radiateur. Elle avais 20 ans. Je la garde encore elle va passer en collection",
+    "Précision direction, indiscutable.Un bruit moteur agréable, pour ceux qui aiment les bons petits sons des années 2000.Bonne reprise et facile à prendre en main.Espace habitable grand et très grande place dans le coffre.",
+    "Excellente tenue de route, assez confortable pour son âge, pièces trouvables facilement, entretien facile.",
+    "Confort des sièges velours Moteur agrable sonorité sympa 4 disquesLégèreté",
+    "Confort endurance",
+    "C'est une voiture qui marche tout le temps ( C'est peut-être pour cette raison qu'ils l'ont supprimée ).Je la roule depuis 2008 et elle marche encore très bien. Bon, elle n'a que 288 000 kilomètres mais bon.",
+    "Conduite agréable tenue de route au top un moteur qui marche assez bien quand on monte dans les tour car c'est un atmosphérique donc normal",
+    "Bonne routière fiable",
+    "Une super voiture agréable à conduire au quotidien. Malgré son âge elle reste plutôt jolie. Sur le long trajet elle est assez confortable. Véhicule d'une grande fiabilité, moteur increvable",
+    "Fiable.confortable.",
+    "Siège très confortable, intérieur très simpa,voiture chouette a conduire...",
+    "Vehicule fiable et économique à l'entretien. Consommation raisonnable. Moteur solide et endurant. Excellente tenue de route en montagne hiver comme été. Suspension et sièges confortables. Grand coffre.",
+    "Prise en main de la voiture Hauteur par rapport au sol Excellente tenue de route Faible consolation",
+    "Jolie et confortable. Et c est tout.",
+    "Véhicule pour collection. Très très peu roulé avec.",
+    "Moteur très très fiable a part vidange tous les 2 ans et distribution tous les 5 ans aucun soucis en 18 ans."
+  ],
+  "defauts": [
+    "Insonorisation d'une autre époque ... Il vaut mieux avoir une bonne sono pour écouter la musique sur autoroute",
+    "Quelques lacunes d'équipement en raison de son âge avancé",
+    "Essieu arriere fragile changé a 200000 montre cristaux fuite pompe injection",
+    "Rien à dire comme défaut sauf à haut régime bruit moteur habitacle",
+    "Quelques points de colle qui partent trop facilement.Petits bruits de grincement des plastiques.",
+    "Consommation 8l/100km en moyenne en roulant normalementVoyant airbag fréquent sur les versions 3 portes dû aux sièges rabattables et aux câbles trop courts sous les sièges.",
+    "Tenue de route avec des jantes en 14, et des largeurs de 185. Consommation de 8,5 l/100km sur départementale et nationale Monte à 15 litres en ville facilement Conso très élevée sur autoroute (boîte 5)",
+    "J'ai souvent un problème de pollution lors du contrôle technique que j'élimine avant la contre visite en la poussant bien avant de passer.",
+    "Consommation de fou suce autant qu'une femme",
+    "L'usure de certaine pièce se font ressentir avec l'âge, rien d'anormal",
+    "Caoutchoucs qui vieillissent. Accessibilite mécanique parfois compliquée",
+    "Si le collecteur d eau lâche... comme le mien, vous n en trouverez plus.Peugeot 306 BVA 1.8L i essence de 1996",
+    "Grosse vibration, (secoué) comme sur une charrette.A 130 importante vibration au volant.Si quelqu'un peut me donner son avis je suis preneur, merci.",
+    "Consommation un peu élevé entre 8 et 10 l suivant comment on conduit bien sûr.",
+    "Peinture fragile et moquette des portes qui se décolle",
+    "Tous les autres défauts",
+    "Consommation un peu élevé entre 8 et 10 l suivant comment on conduit bien sûr.\r\nPeinture fragile et moquette des portes qui se décolle"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection1.1 60 ch1.4 75 ch1.6 90 ch1.6 100 ch1.8 100 ch1.8 112 ch2.0 125 ch2.0 135 ch2.0 150 ch2.0 165 ch1.9 D 70 ch1.9 TD 90 ch2.0 HDI 90 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 1.1
+    }
+  ],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "sauf à haut régime bruit moteur habitacle (1",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "pollution lors du contrôle technique que j'élimine avant la contre visite en la poussant bien avant de passer",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "3 eme sur la voiture c'est amortisseur les triangle les silentbloc de bar stabilisatrice les rotules de direction embrayage les disques et plaquettes une pompe de gavage qui déconne la voiture cale 50",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "faisceau de porte avant",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "d'être très confortable",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 6.9,
+  "score_global": 4.4,
+  "source_url": "https://www.fiches-auto.fr/essai-peugeot/essai-59-test-complet-peugeot-306.php",
+  "scrape_timestamp": "2026-01-31T23:22:42.142431",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

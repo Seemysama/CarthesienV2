@@ -1,8 +1,27 @@
 env
+venv
+.venv
 __pycache__
+*.pyc
+*.pyo
+
+# Config secrets
+.env
+.env.local
+.env.*.local
+
+# Data
 */car_data.json
 mdp_mongo.txt
+
+# Tests
 tests/
+
+# Node
 node_modules/
 package-lock.json
+
+# Misc
 options
+*.joblib
+.DS_Store

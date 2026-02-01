@@ -1,0 +1,58 @@
+{
+  "marque": "Mercedes",
+  "modele": "EQC",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Qualité de finition de haute volée si on omet les deux ou trois détails qui  ternissent le bilan (plus d'infos au chapitre de la vie à bord)",
+    "Palettes qui  permettent de régler le niveau de régénération (pour ma part je n'y vois pas  d'intérêt mais certains aiment ... Je me dois donc de le signaler)",
+    "Si on omet la  face avant l'engin reste élégant et très statutaire (plus qu'un GLC sur lequel  il assoit sa base technique)",
+    "Confort qui  reste très bon même si les amortisseurs un poil secs ne travaillent pas  parfaitement à très basse vitesse",
+    "Contrôle des marches avant et arrière par un  commodo, la meilleure ergonomie qui soit (ça a toujours été les cas sur les  Mercedes automatiques, car la marque a une certaine affinité avec l'Amérique du  nord et où les autos utilisent beaucoup cette manière de faire)",
+    "Affichage tête  haute de très grande qualité mais il faut prendre le pack Premium plus à 3700  euros ... Idem pour les sièges électriques à mémoire, il faut passer par ce  pack",
+    "Coffre et habitabilité très satisfaisants même si ...",
+    "Confort de conduite",
+    "Très beau véhicule, intérieur comme extérieur.Le son audio est surprenant!Accélération époustouflante!!",
+    "Véhicule magnifiqueIntérieur superbeExcellent système audio"
+  ],
+  "defauts": [
+    "Esthétique de la face avant très douteux, les optiques avant sont clairement  mal dessinés. Etc'est tellement évident qu'on peut presque se demander si cela a  été fait exprès pour ralentir les ventes de l'électrique pour favoriser les  versions thermiques (ici GLC). Cela a aussi possiblement joué sur son succès  mitigé",
+    "Une seule version disponible, que ce soit en terme de motorisation ou de  niveau de finition (j'omets la version 1886)",
+    "Comportement un peu accablé par le poids  excessif, dommage car le châssis est loin d'être mauvais",
+    "Pas d'amortissement piloté et encore moins de suspension pneumatique,  étrange ...",
+    "Prestations techniques concernant la partie électrique moyennes à  défaut d'être trop lacunaires (en tout cas ce n'est pas en rapport avec les  tarifs). On a par exemple une vitesse de charge de 110 kW max pour une durée de  40 minutes pour le 10 / 80%, c'est un peu trop lent",
+    "Peu de choix possibles au  niveau de l'intérieur (il aurait été heureux d'avoir d'autres matériaux pour la  console centrale, comme cela se fait sur les autres Mercedes)",
+    "Revente incertaine en raison de  son succès très mitigé",
+    "Vitesse de pointe pas à la hauteur du positionnement de  l'auto (mais aussi de son origine, le pays de l'autobahn ...)",
+    "Autonomie surtout en hiver.",
+    "Autonomie hiver de 300 kilomètres, ridicule!Je passe mon temps à recharger le véhicule sur des bornes, qui me coûte plus que mon ancien véhicule diesel.Suspension molle, à faire vomir sur les route de montagne.Problème infiltration d’eau dans le coffre.Recharge sur les bornes 7 kw, se met en pause au bout de 5 minutes.Ouverture sans clés capricieuse.",
+    "Autonomie ridicule 280km réels l'été et 250km l'hiver pour une charge à 100%"
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "d'être trop lacunaires (en tout cas ce n'est pas en rapport avec les  tarifs)",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "infiltration d’eau dans le coffre",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 6.4,
+  "source_url": "https://www.fiches-auto.fr/essai-mercedes/essai-727-test-complet-mercedes-eqc.php",
+  "scrape_timestamp": "2026-01-31T23:32:05.516419",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

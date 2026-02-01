@@ -1,0 +1,92 @@
+{
+  "marque": "Renault",
+  "modele": "MEGANE CC",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Confort très convaincant, c'est mieux qu'une 308 CC",
+    "Qualité de finition pas  mauvaise du tout à défaut de faire aussi bien que les Allemandes  concurrentes",
+    "Comme tout grand cabriolet, le  volume du coffre est vraiment convaincant avec ici 420 litres. Bien évidemment,  cette taille est divisée par deux quand le toit est replié. Heureusement, vous  aurez tout déposé à l'hôtel avant de faire une ballade cheveux au vent !",
+    "Un  cabriolet sans avoir un style trop ostentatoire. Certains apprécient la sobriété  de cette auto et n'oseraient pas rouler dans une Série 3 cabriolet ou encore une  Audi TT",
+    "Toit en verre très agréable, à tel point qu'il dissuade souvent de  décapoter ...",
+    "Agrément de conduite ligne intemporelle",
+    "Abordable (pour l'époque) coupé cabriolet économique et quatre places.La planche de bord est de qualité, peu de bruit de mobilier qui proviennent principalement du toit et des portes.Le comportement n'est pas révolutionnaire, c'est un cabriolet lourd à moteur tout juste bien.La consommation ca peut aller.",
+    "Facile a conduire et a entretenir, voiture super agréable",
+    "Qualités Couple, fiabilité",
+    "Défauts Consommation moyenne aucun sinon que ce n'est pas une sportiveProblèmes rencontrés Aucun !Note 18/20Prix assurance 400 euros/an (Assureur macif) (type de contrat ) (Bonus/Malus 50 %)",
+    "Faible consommation, confort, silence...",
+    "Bonne routière confortable et le 2.0 180ch fait le job rapport court et monté vite dans les tours consommation raisonnable petit dommage moteur trop silencieux a mon gout",
+    "Difficile à dire ... Economique au niveau consommation",
+    "Jolie et confortable Zéro panne en 10 ans Juste un accrochage suite à un freinage un peu mou",
+    "Charmeuse confortable puissance moteur correct faut pas moins",
+    "Volume du coffre.Protection au vent, décapoté.\rMoteur souple et silencieux à faibles régimes.",
+    "Agreable à conduire",
+    "Agréable à conduire Défauts cuire de mauvaise qualité, le R link qui deconne. Consommation moyenne 4.6 litres/100kmProblèmes rencontrés",
+    "Qualités Couple, fiabilité\nDéfauts Consommation moyenne aucun sinon que ce n'est pas une sportiveProblèmes rencontrés Aucun !Note 18/20Prix assurance 400 euros/an (Assureur macif) (type de contrat ) (Bonus/Malus 50 %)"
+  ],
+  "defauts": [
+    "Style plutôt moyen de l'arrière ... Pour le coup une 308 CC se révèle plus  réussie mais aussi plus statutaire",
+    "Comportement un peu moins bon que sur la  version compacte classique. Le surpoids du CC et la générosité des amortisseurs  n'aidant pas vraiment. Toutefois, on n'a pas non plus à faire à une voiture  placide",
+    "Disparition pendant sa carrière des seuls moteurs qui la rendaient \"band...e\",  à savoir les TCE 180 et dCi 160 ch.",
+    "Habitabilité et coffre inférieurs à la version précédente ...",
+    "Usure irrégulière pneumatiques entre droite et gauche à l'avant comme à l'arrière",
+    "Manque de puissance des que le rythme augmente",
+    "Fiabilité catastrophique, toit pas fiable et cher à réparer.Moteur pas fiable, boite pas fiable, freins en mousse.Renault fidèle à sa réputation.",
+    "Qualités Couple, fiabilité",
+    "Usure des sièges reste prématuré",
+    "Usure rapide des pneusVéhicule lourd à la conduite",
+    "Moteur bruyant à l'accélération surtout décapoté.\rFreins pas assez accrocheursMoteur juste suffisant en100 cv",
+    "Manque le bouton sport de chez Renault surtout sur la version 2.0180ch dommage les cuirs fragile usure prématuré",
+    "Bruit de vent léger des rétroviseurs.Manque de rigidité du châssis décapoté.",
+    "Je trouve la consommation excessive pour un 110 chv à 140kmh autoroute du 8l 100.et en roulant à 90km du 7l 100",
+    "Consommation excessive -",
+    "Consommation sous estimée",
+    "D'étanchéité feux arrière pris en charge par Renault. Défaut d'étanchéité au niveaux du toit ouvrant, plus claquement du toutNote 13/20Prix assurance 1200 euros/an",
+    "Tous les autres défauts",
+    "Qualités Couple, fiabilité\nDéfauts"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection1.6 110 ch1.2 TCE 130 ch1.4 TCE 130 ch2.0 TCE 180 ch1.5 dCi 110 ch1.6 dCi 130 ch1.9 dCi 130 ch2.0 dCi 160 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 1.6
+    }
+  ],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "faire aussi bien que les Allemandes  concurrentesBoîte EDC plus que recommandableComme tout grand cabriolet, le  volume du coffre est vraiment convaincant avec ici 420 litres",
+      "categorie": "boite",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "en 10 ans Juste un accrochage suite à un freinage un peu mou  (1",
+      "categorie": "freinage",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "d'étanchéité au niveaux du toit ouvrant, plus claquement du toutNote 13/20Prix assurance 1200 euros/an (1",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "d'étanchéité au niveaux du toit ouvrant, plus claquement du tout [",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 7.3,
+  "score_global": 4.6,
+  "source_url": "https://www.fiches-auto.fr/essai-renault/essai-429-test-complet-renault-megane-cc.php",
+  "scrape_timestamp": "2026-01-31T23:24:36.398912",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

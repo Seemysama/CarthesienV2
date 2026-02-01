@@ -1,0 +1,127 @@
+{
+  "marque": "Bmw",
+  "modele": "X1",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Style qui est finalement très agréable (j'avais été rebuté par les premières  images). En tout cas il arrive à être plus désirable que le X2 basé sur le même  châssis",
+    "Comportement routier appréciable mais il ne faut pas non plus en faire  trop comme on peut le voir chez les journalistes \"concurrents\" (qui  semblent se contenter d'une direction directe et d'amortisseurs un peu secs). Toutes  les versions ne permettent pas de prendre du plaisir au volant et un Model Y  surpasse cette BMW en terme de  prestations et d'agrément (caisse mieux tenue et plus rigolote à  emmener dans les virages). Bref, il ne me semble pas que ce soit un critère  décisif qui distingue vraiment le X1 de la concurrence (un Q3 fait aussi du très  bon travail, et mieux vaut un Q3 S Line Quattro qu'un X1 sDrive en châssis de  base [et pire, en 17 pouces dotés de flancs très épais !])",
+    "Boîte DKG  bien paramétrée, elle limite les à coups et se révèle assez intelligente dans  son fonctionnement. La technologie double embrayage la rend particulièrement  rapide même si en contrepartie on aura généralement une durabilité un peu  moindre qu'avec de l'épicycloïdal ...",
+    "Très bonne qualité de finition si on omet  quelques grossières erreurs (voir chapitre de la vie à bord)",
+    "Habitacle qui cherche enfin  à devenir pratique et à faciliter la vie du quotidien",
+    "Diversité des intérieurs  proposés même si au final tout le monde choisit le plus sombre et le plus triste  ...",
+    "Bonne visibilité vers l'avant et vers l'arrière (pas toujours le cas sur les  voitures modernes)",
+    "Bonne insonorisation si on omet le bruit des 3 cylindres un  peu présent",
+    "Aides à la conduite efficaces, avec un autopilot largement à la  hauteur qui facilite les longs trajets sur autoroute",
+    "Habitabilité / coffre bons  quand on les rapporte à son gabarit. Notez aussi que les écarts de volumes entre  les différentes technologies (thermique, hybride et électrique) restent assez  contenus",
+    "Le succès commercial semble annoncer une revente facile et avec une  décote modérée (pas facile aujourd'hui de ne pas prendre de risque ..)",
+    "Confort moteur silencieux pn se sent en sécurité",
+    "Confort route, consommation ( je fais conduite sport) , fiabilité, illumination led active",
+    "Bonne voiture belle finition en M sport"
+  ],
+  "defauts": [
+    "Rangements dans l'habitacle qui manquent de volume. On sent que des efforts ont  été faits pour rendre l'auto pratique mais ce n'est finalement pas assez abouti  (voir le chapitre de la vie à bord)",
+    "Ergonomie de l'infodivertissement moyenne,  on se perd dans tous ces menus composés d'énormes icones",
+    "Comportement moyen avec  les 17 pouces à flancs très épais, et même plus généralement avec le châssis de  base il n'a rien de très transcendant ...",
+    "Confort artificiellement ferme (hors  17 pouces qui font le médiateur) qui n'apporte pas vraiment de rigueur en plus.  La caisse a malgré tout tendance à pouvoir fléchir beaucoup sur certaines  configurations (sur les sDrive en châssis standard on a des mouvements de caisse  amples et un châssis qui s'écrase vite. Et pourtant ça trépide à basse vitesse  sur les imperfections)",
+    "Agrément des motorisations 3 cylindres qui constituent  hélas la seule configuration achetable en neuf (malus etc.)",
+    "Spécifications de la  version électrique pas forcément très compétitives, les Allemands et les  Français sont un peu en retard ...",
+    "Version électrique annoncée à 313 ch alors  qu'elle en a finalement 272 ... Il faut presser la palette Boost pour avoir les  313 ch mais cela ne dure que 10 secondes. Honteux quand on sait qu'un Model Y  propose la même puissance dès l'entrée de gamme",
+    "Documentation BMW qui contient  pas mal d'erreurs et d'approximations ... Il manque aussi beaucoup  d'informations cruciales. Bref, ce n'est pas carré",
+    "Politique tarifaire sur  certains équipements qui donne une mauvaise image, un classique chez les  Allemands",
+    "Pour l instant rien",
+    "C'est une voiture confortable, mais pas sport comme on espère d'une BMW.Manque totale d'espace de rangement console centrale. il faut laisser à l'½il tout, et dans ces temps de pillage, c'est pas correct. Réactivité de la boîte en mode normal.",
+    "Suspension beaucoup trop raide"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection18i 136 ch20i 170 ch23i 218 chM35i 300 ch18d 150 ch20d 163 ch23d 211 ch25e Hybride 245 ch30e Hybride 326 chIX1 20 Electrique 204 chIX1 30 Electrique 313 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 9.0
+    }
+  ],
+  "ventes_historiques": [
+    {
+      "annee": 2010,
+      "ventes": 6600
+    },
+    {
+      "annee": 2011,
+      "ventes": 9500
+    },
+    {
+      "annee": 2012,
+      "ventes": 6900
+    },
+    {
+      "annee": 2013,
+      "ventes": 7300
+    },
+    {
+      "annee": 2014,
+      "ventes": 6000
+    },
+    {
+      "annee": 2015,
+      "ventes": 100
+    },
+    {
+      "annee": 2016,
+      "ventes": 9900
+    },
+    {
+      "annee": 2017,
+      "ventes": 12100
+    },
+    {
+      "annee": 2018,
+      "ventes": 12300
+    },
+    {
+      "annee": 2019,
+      "ventes": 12200
+    },
+    {
+      "annee": 2020,
+      "ventes": 9900
+    },
+    {
+      "annee": 2021,
+      "ventes": 8400
+    },
+    {
+      "annee": 2022,
+      "ventes": 6700
+    },
+    {
+      "annee": 2023,
+      "ventes": 16300
+    },
+    {
+      "annee": 2024,
+      "ventes": 25200
+    },
+    {
+      "annee": 2025,
+      "ventes": 20400
+    }
+  ],
+  "total_ventes": 169800,
+  "pannes_recurrentes": [
+    {
+      "description": "boitier de freinage, changement sous garantie mais presque 2 mois d'attente",
+      "categorie": "freinage",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 7.5,
+  "source_url": "https://www.fiches-auto.fr/essai-bmw/essai-726-test-complet-bmw-x1.php",
+  "scrape_timestamp": "2026-01-31T23:30:41.306068",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

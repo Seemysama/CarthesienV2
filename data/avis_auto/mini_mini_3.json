@@ -1,0 +1,58 @@
+{
+  "marque": "Mini",
+  "modele": "MINI",
+  "generation": "3",
+  "nb_avis": 2,
+  "scores_moyens": {
+    "confort": 2.5,
+    "consommation": 4.5,
+    "securite": 3.0,
+    "habitabilite": 4.5
+  },
+  "scores_moyens_sur_10": {
+    "confort": 5.0,
+    "consommation": 9.0,
+    "securite": 6.0,
+    "habitabilite": 9.0
+  },
+  "avis": [
+    {
+      "avis_id": "Collecte_1160202",
+      "note": 5.0,
+      "titre": "Avez-vous trouvé cet avis utile ?",
+      "avantages": null,
+      "inconvenients": "confort",
+      "auteur_hash": "7ab2ff7f787bb294",
+      "date_avis": "avril 2020",
+      "annee_vehicule": "avril 2020",
+      "carburant": "Essence",
+      "boite": "Manuelle",
+      "motorisation": "1.6L - 184 ch",
+      "source_url": "https://www.avis-auto.fr/avis-mini-mini-3",
+      "scrape_timestamp": "2026-01-31T23:32:06.033371"
+    },
+    {
+      "avis_id": "Collecte_1078599",
+      "note": 3.5,
+      "titre": "3.5 / 5",
+      "avantages": "le reseau",
+      "inconvenients": "le moteur peugeot",
+      "auteur_hash": "1075bbd8b99ffc4f",
+      "date_avis": "février 2020",
+      "annee_vehicule": "février 2020",
+      "carburant": "Essence",
+      "boite": "Manuelle",
+      "motorisation": "1.6L - 123 ch",
+      "source_url": "https://www.avis-auto.fr/avis-mini-mini-3",
+      "scrape_timestamp": "2026-01-31T23:32:06.033570"
+    }
+  ],
+  "source_url": "https://www.avis-auto.fr/avis-mini-mini-3",
+  "scrape_timestamp": "2026-01-31T23:32:06.033659",
+  "_source": {
+    "id": "avis_auto_fr",
+    "name": "Avis-Auto.fr",
+    "url": "https://www.avis-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

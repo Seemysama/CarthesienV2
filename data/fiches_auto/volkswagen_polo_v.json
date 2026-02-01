@@ -1,0 +1,200 @@
+{
+  "marque": "Volkswagen",
+  "modele": "POLO V",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "TDI à rampe commune plus silencieux et agréables que les versions précédentes",
+    "Son rapport qualité/prix intéressant, ce qui est une première pour la Volkswagen polo",
+    "Qualité de ses motorisations, surtout en essence (à partir de 105 chevaux)",
+    "Qualité de finition très appréciable sur les finitions supérieure à Trendline",
+    "La boîte de vitesses DSG est disponible, très rapide et aussi sobre qu'une boîte manuelle. Mais le monopole disparait petit à petit puisque Renault a sorti l'EDC",
+    "Motorisations agréables et sobres même si les versions 3 cylindres ont une voix particulière",
+    "Habitabilité très correcte pour le gabarit",
+    "Son style et sa bonne image qui permettent de la revendre facilement, et à un bon prix en plus !",
+    "Suspension pilotée disponible sur la GTi, assez rare sur les citadines pour le notifier",
+    "Aucune panne pour le moment... ras.Acheter avec 75000 km batterie neuve en novembre 2017.",
+    "Très pratique, maniable, légère, abordable, esthétique, faible consommation, bien pensée en terme de place...",
+    "Sièges finition MatchMoteur suffisantConsommation très raisonnableBoîte de vitesses agréable et soupleSouplesse moteurFinition mobilier intérieurReprises en 5ème compte tenu de la puissanceDéfauts Un peu juste en montée sur autorouteQuelques",
+    "Passe partout, fiable, confortable, tient bien la route, qualité, dynamique",
+    "- Sobriété - Bonne routière sur autoroute - Bonne finition- Fiabilité",
+    "Consommation carburant (notamment sur autoroute), confort route,",
+    "Petit et pratique pour se garer,Beaucoup de fonctionnalité (régulateur etc)",
+    "Consomme peu Confortable",
+    "Très sobre moins de 5 litres de gazoleBonne tenue de routeEntretien tous les 30000 kms",
+    "Allemande petite pour commencer",
+    "Look sympa et vieillit bien",
+    "ConfortableBonne tenue de routePolyvalenteConso",
+    "- En ma possession depuis 2019 (5 ans), seconde main achetée à 20000km (donc 50000km parcourus par mes soins)- Jamais eu de problème mécanique depuis le début, pas de voyant ni panne éléctronique- Je l'entretien moi-même depuis le début (vidange 1 an ou 15k km)- Pour ma part pas de consommation d'huile comme l'indique d'autres commentaires- Vraiment très peu de défaut à mon expérience- Relativement silencieuse (hors 130 autoroute)",
+    "Petite taille, puissance suffisante, confort interieur, conso faible",
+    "Faible Consommation 5l/100 en moyenne.Stationnement facilePlastique intérieur résistant.",
+    "Polo 5 tdi dgs ,Très bonne automobile..Boite automatique un plaisir..Réactive, économe, pratique et bien assemblée. La voiture semble quasi neuve au bout de 10 ans.Très bonne affaire en occasion.."
+  ],
+  "defauts": [
+    "Boucliers trop exposés aux rayures, ils risquent vite d'être marqués en milieu urbain",
+    "La Polo a grandit par rapport à l'ancienne version ce qui pénalise ses capacités à se stationner en ville",
+    "Qualité des plastiques différente selon niveau de finition (sur la Trendline c'est \"dur\" de partout ! Pas de moussage)",
+    "1.6 TDI remplacés par des 1.4 à l'agrément moins bon",
+    "Personnalisation limitée et manque de fun par rapport à ses concurrentes (même l'A1 semble être moins sérieuse)",
+    "Résistance thermique, remplacé amortisseur avant, et pièces d usure, c'est tout!Manque un peu de puissance, mais ça passe !",
+    "Rien de spécial à dire en ce qui concerne la voiture elle-même. Par contre, le moteur essence 1.2 60 cv est à éviter d'après mon expérience. Il rend la voiture lourde et lente. J'ai donc décidé de faire une reprogrammation qui a raisonnablement donné sur le mien 83 cv et 130 Nm de couple. Depuis, on sent une nette amélioration, surtout à l'accélération — même si le moteur reste limité. Mais le vrai problème, outre ce manque de puissance, c'est que le tendeur de chaine n'est pas fiable. Il a tendance à casser, ce qui signifie bien souvent d'autres dégâts dans le moteur.",
+    "électroniquesCoffre un peu juste mais suffisant",
+    "Injecteurs, n’aime pas les petit trajets",
+    "- Moteur bruyant - Vmax limitée électroniquement à 190",
+    "Vanne EGRConsommation huileFinitions (pas de bluetooth, ni d'antibrouillards sur mon modèle)",
+    "Mal assis, pas confortable",
+    "Claquement à la décélération Optiques vieillissantsAccoudoirs se décollent Tremblement au démarrage même avec préchauffage",
+    "Boîte trop longueCoupure rapide dans les accélérations",
+    "Fiabilité Moteur Fuite pompe à l'eau avec 50k. Défaut chaine de distribution à partir 40k, Consommation excessive de huile, Consommation carburant n'est pas conforme à la publicité :jamais proche des 4L/100km annoncé.",
+    "Allemande pas de qualité.",
+    "InsonorisationVanne EGR",
+    "- L'écran tactile GPS parfois un peu lent et peu réactif plus particulèrement en hiver- Les radars AV/AR détecte parfois alors qu'il n'y a rien- Consommation sur l'autoroute (Boite 5 vitesse seulement)",
+    "Moteur fragile autour des 200k kms (turbo+embrayage+moteur lave glace sur 1 an et 10 000 kms)",
+    "Moteur s'encrasse facilement en ville ou petit trajet.Ciel de toit fragile.Hauteur de caisse un peu trop basse.",
+    "Parc chocs avant et arrière, abusé, vraiment pas solide..",
+    "L’insonorisation n’est pas excellente surtout à très haute vitesse mais si on met de la musique ça passe.",
+    "Tous les autres défauts",
+    "Fiabilité\r\nInsonorisationVanne EGR"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection1.0 60 ch1.2 60 ch1.2 70 ch1.0 75 ch1.4 85 ch1.2 TSI 90 ch1.2 TSI 105 ch1.2 TSI 110 ch1.4 TSI 140 ch1.4 TSI 150 ch1.4 TSI 180 ch1.8 TSI 192 ch2.0 TSI 220 ch1.2 TDI 75 ch1.4 TDI 75 ch1.6 TDI 75 ch1.4 TDI 90 ch1.6 TDI 90 ch1.4 TDI 105 ch1.6 TDI 105 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 1.0
+    }
+  ],
+  "ventes_historiques": [
+    {
+      "annee": 2008,
+      "ventes": 41500
+    },
+    {
+      "annee": 2009,
+      "ventes": 44600
+    },
+    {
+      "annee": 2010,
+      "ventes": 48800
+    },
+    {
+      "annee": 2011,
+      "ventes": 53600
+    },
+    {
+      "annee": 2012,
+      "ventes": 44200
+    },
+    {
+      "annee": 2013,
+      "ventes": 39100
+    },
+    {
+      "annee": 2014,
+      "ventes": 40400
+    },
+    {
+      "annee": 2015,
+      "ventes": 43000
+    },
+    {
+      "annee": 2016,
+      "ventes": 40200
+    },
+    {
+      "annee": 2017,
+      "ventes": 38000
+    },
+    {
+      "annee": 2018,
+      "ventes": 37000
+    },
+    {
+      "annee": 2019,
+      "ventes": 38900
+    },
+    {
+      "annee": 2020,
+      "ventes": 21500
+    },
+    {
+      "annee": 2021,
+      "ventes": 23900
+    },
+    {
+      "annee": 2022,
+      "ventes": 18200
+    },
+    {
+      "annee": 2023,
+      "ventes": 26100
+    },
+    {
+      "annee": 2024,
+      "ventes": 25200
+    },
+    {
+      "annee": 2025,
+      "ventes": 22700
+    }
+  ],
+  "total_ventes": 646900,
+  "pannes_recurrentes": [
+    {
+      "description": "pour le moment",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "mécanique depuis le début, pas de voyant ni panne éléctronique- Je l'entretien moi-même depuis le début (vidange 1 an ou 15k km)- Pour ma part pas de consommation d'huile comme l'indique d'autres comm",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "chaine de distribution à partir 40k, Consommation excessive de huile, Consommation carburant n'est pas conforme à la publicité :jamais proche des 4L/100km annoncé",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "faisceau électrique du hayon qui s'est rompue au niveau de la gaine caoutchouc proche de la charnière",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "thermorésistance de la commande de ventilation",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "ciel de toit qui commence à se décoller, colle cuite",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "claquements avant droit + le moteur fume un peu polo 2010 : joint qui ce décolle , déjà une perte de puissance après 13000km [",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "pouvoir procurer le toucher de route de certaines Françaises",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 6.4,
+  "score_global": 4.2,
+  "source_url": "https://www.fiches-auto.fr/essai-volkswagen/essai-247-test-complet-volkswagen-polo-v.php",
+  "scrape_timestamp": "2026-01-31T23:27:42.873158",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "marque": "Renault",
+  "modele": "CLIO 1",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "bonne habitabilité malgré la taille de l'auto",
+    "Simple, fiable, économique.",
+    "Facile à réparer, pièces détachées neuves pas très couteuse. nombreuse pièces d'occasion. Moteur refait à 156000km",
+    "Sobre, fiable, spacieuse , facile à conduire même sur neige , peu couteuse à l'entretien .",
+    "Conso, fiabilité, embrayage d'origine",
+    "ConfortableAgréableManiable",
+    "Fiable, simple, robuste. Je roule avec ses 122000km elle en a 132000. La RT est bien équipée et agréable à conduire. Avec des jantes 14 pouces, elle tient mieux la route. Elle a une bonne accélération et de bonnes reprises.",
+    "Comportement routier sainPosition de conduiteCommandes (direction, pédalier, boite)Fiabilité",
+    "Faible consommationAgrément moteur (D7F)Confort global pour une citadine",
+    "Fiabilité \rConfortsPratique a garerPas cher à entretenir Pas cher d'assurances (sauf jeune permis)",
+    "Fonctionne tres bien avec mélange 60/40 hétanol.Très bonne voiture.Que des qualité a part sa consommation.",
+    "Petite voiture facile à entretenirMoteur robuste ( Increvable )Prix des pieces, entretient, assuranceFiable car peut d'élément électronique dans le moteurConsommation sur autoroute bonne",
+    "Simple , efficace , entretien très peu cher , très bonne auto",
+    "Bon voiture très solide pièce moins chère",
+    "Moteur de la Twingo 1239cm3 (version Chipie) souple et nerveux en ville.Economique a l'entretien.Confort encore actuel (sièges, suspensions).Robustesse générale.Rend encore service !Look moins démodé qu'une 106 phase 1 ! lol",
+    "Facile à conduire et à dépanner",
+    "économique en entretien et assurance",
+    "A DE TRES BONNE ACéleration pour un moteur 8V TRAIS BEAU BRUI A LA ACELERATION POSIBILITé de métre un volant de face 2 OU AUTRE CONSOMATIONS EST DE 6 LITRE AU 100",
+    "Comportement routier sainPosition de conduiteCommandes (direction, pédalier, boite)Fiabilité\r\nFaible consommationAgrément moteur (D7F)Confort global pour une citadine"
+  ],
+  "defauts": [
+    "difficile d'en trouver des kilométrages raisonnables",
+    "Tenue de route compliqué a 120km/h, 5 ème trop courte sur autoroute, manque un peut de puissance dans les côtes, rouille de surface sous caisse.",
+    "Fauteuil et volant très vite endommagés avec le temps... Vérifier régulièrement le chassis car la corrosion apparait très vite sur l'arrière.",
+    "Plastiques intérieurs qui vieillissent mal . Mecanique bruyante au desus de 115 kmh .",
+    "Le prix des pneus",
+    "Consommation excessive pour ce modèle",
+    "Ayant eu des voitures plus récentes, je n arrive pas à me faire au freinage. J ai tout changé mais peut être que c est simplement un manque d assistance du à l ancienneté de conception.",
+    "Seconde vitesse un peu dure à passer à froid en hiver.",
+    "Consomme beaucoup essence",
+    "Pas de climatisation Pas assez de moteursManque de freinsCarburateur (consommation importante)",
+    "Insonorisation pas terriblie surtout les dieselTenue de route quelque fois glissante dans les virages coursÉquipement limité en debut de gammePlaces assises difficile pour les grandes personnes à l'avant côté conducteur, mais plus encore à l'arrière, à cinq éviter les longues route Corrosion niveau des passages de roue et du châssisConsommation en ville plus importante que sur les nationale et autoroute",
+    "Manque un peu d,assistance au freinage",
+    "Petite pas de long trajet",
+    "Freinage sans mordant.Rouille dans les passage de roue arrière, a l’entrée des bas de caisse.Fragilité de certains plastiques (aérateurs).Bruyante a hauts régimes.",
+    "Quand une panne se produit, d'autres apparaissent aussi",
+    "Pas de direction assisté",
+    "Bruyante au delà de 120km/h",
+    "MANQUE DE PUISSANCE EN FORTE MONTEE",
+    "Tous les autres défauts",
+    "Pas de direction assisté\r\nBruyante au delà de 120km/h"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection1.1 50 ch1.2 60 ch1.4 80 ch1.4 s 80 ch1.7 90 ch1.8 i 95 ch1.8 i 110 ch1.8 16 s 140 ch2.0 i 150 ch1.9 D 65 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 1.1
+    }
+  ],
+  "ventes_historiques": [
+    {
+      "annee": 2008,
+      "ventes": 152600
+    },
+    {
+      "annee": 2009,
+      "ventes": 146300
+    },
+    {
+      "annee": 2010,
+      "ventes": 161400
+    },
+    {
+      "annee": 2011,
+      "ventes": 149000
+    },
+    {
+      "annee": 2012,
+      "ventes": 118900
+    },
+    {
+      "annee": 2013,
+      "ventes": 122700
+    },
+    {
+      "annee": 2014,
+      "ventes": 115200
+    },
+    {
+      "annee": 2015,
+      "ventes": 108400
+    },
+    {
+      "annee": 2016,
+      "ventes": 112200
+    },
+    {
+      "annee": 2017,
+      "ventes": 117500
+    },
+    {
+      "annee": 2018,
+      "ventes": 123700
+    },
+    {
+      "annee": 2019,
+      "ventes": 131500
+    },
+    {
+      "annee": 2020,
+      "ventes": 95900
+    },
+    {
+      "annee": 2021,
+      "ventes": 85200
+    },
+    {
+      "annee": 2022,
+      "ventes": 64000
+    },
+    {
+      "annee": 2023,
+      "ventes": 97500
+    },
+    {
+      "annee": 2024,
+      "ventes": 91400
+    },
+    {
+      "annee": 2025,
+      "ventes": 100100
+    }
+  ],
+  "total_ventes": 2093500,
+  "pannes_recurrentes": [
+    {
+      "description": "se produit, d'autres apparaissent aussi (1",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "avec l'autoradio suite à un changement de batterie j'ai du remettre le code de celui-ci (jusque la rien d'étonnant) sauf que si vous ne le faites pas, l'autoradio reste TOUJOURS en veille y compris lo",
+      "categorie": "electronique",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 4.7,
+  "source_url": "https://www.fiches-auto.fr/essai-renault/essai-223-test-complet-renault-clio-1.php",
+  "scrape_timestamp": "2026-01-31T23:23:42.261974",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

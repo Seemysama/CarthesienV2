@@ -1,0 +1,122 @@
+{
+  "marque": "Mercedes",
+  "modele": "CLASSE C",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Style sage mais sans faute de goût, les proportions sont parfaites et elle a  finalement plus de caractère qui n'y paraît. Car derrière les lignes douces et  arrondies, il y a des optiques plutôt acérés et charismatiques",
+    "Comportement qui allie confort et rigueur, bien que la rigueur soit  prédominente bien évidemment (il faut a minima une Classe E pour un véritable  moelleux). La Classe C permet de prendre du plaisir à son volant notamment grâce à un châssis bien campé mais aussi une direction consistante et précise (à défaut être très communicative)",
+    "Intérieur très attractif en termes de qualité et de présentation, les  concurrentes directes (A4 et Série 3) font moins bien",
+    "Infodivertissement de très grande qualité qui dispose de fonctions  nombreuses et avancées",
+    "Version 63 AMG qui offre une puissance assez ahurissante ! Comme pour  compenser le fait qu'il en ait une \"petite\" ..."
+  ],
+  "defauts": [
+    "Pas de 6 cylindres diesel (contrairement au GLC), et plus généralement aucun  moteur n'est réellement de qualité et ne sied au standing de l'auto ... Que des  4 cylindres, même dans les versions les plus exclusives comme la C63. Dans ce  cas, il vaudrait mieux une version 100% électrique que devoir se coltiner de  tels moteurs. En 2024 tout cela fait un peu tâche bien que les marques n'ont  plus le choix que de proposer des moteurs peu appétissants pour leurs voitures  thermiques",
+    "Volume de coffre des hybrides vraiment trop ridicule, étonnant sur une  génération de voiture sortie après 2020, car l'expérience des hybrides et  l'adaptation des châssis aurait du mener à une plus grande optimisation de  l'espace (et puis la Classe C a aussi tendance à s'allonger avec le temps). Plus  d'infos au chapitre de la vie à bord",
+    "Pas de suspension pneumatique optionnelle ou encore de roues arrières  directrices contrairement à ce que la presse dit. Il semble que les pénuries  aient eu raison de ces équipements, et seules les versions hybrides  rechargeables ont droit à la suspension pneumatique pour des raisons techniques  (poids important). C'est d'ailleurs la même chose sur les GLC hybrides  rechargeables dont la suspension pneumatique est imposée",
+    "Tarifs trop élevés pour le segment, on se retrouve vite à un tarif de 70  000 euros, ce qui rime plus avec une Classe E il me semble",
+    "Quelques détails de finition qui sentent les économies par rapport au  précédent opus, mais c'est plus un souci de principe qu'une lacune dans  l'expérience utilisateur",
+    "Trop d'options, et en gros tout ça complique la gamme et sa  compréhension. Le but est probablement de vous perdre dans un labyrinthe, afin  que le vendeur vous en libère (ça lui permet de plus facilement vous alourdir la  facture)",
+    "Versions 43 et 63 dotées d'un moteur vraiment insipide en terme de  sonorité, bien qu'en mode sport les hauts parleur laissent penser l'inverse ..."
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [
+    {
+      "annee": 2008,
+      "ventes": 15300
+    },
+    {
+      "annee": 2009,
+      "ventes": 12800
+    },
+    {
+      "annee": 2010,
+      "ventes": 10700
+    },
+    {
+      "annee": 2011,
+      "ventes": 11000
+    },
+    {
+      "annee": 2012,
+      "ventes": 9600
+    },
+    {
+      "annee": 2013,
+      "ventes": 6000
+    },
+    {
+      "annee": 2014,
+      "ventes": 7500
+    },
+    {
+      "annee": 2015,
+      "ventes": 9300
+    },
+    {
+      "annee": 2016,
+      "ventes": 10200
+    },
+    {
+      "annee": 2017,
+      "ventes": 10200
+    },
+    {
+      "annee": 2018,
+      "ventes": 8900
+    },
+    {
+      "annee": 2019,
+      "ventes": 8200
+    },
+    {
+      "annee": 2020,
+      "ventes": 100
+    },
+    {
+      "annee": 2021,
+      "ventes": 100
+    },
+    {
+      "annee": 2022,
+      "ventes": 100
+    },
+    {
+      "annee": 2023,
+      "ventes": 100
+    },
+    {
+      "annee": 2024,
+      "ventes": 100
+    },
+    {
+      "annee": 2025,
+      "ventes": 100
+    }
+  ],
+  "total_ventes": 120300,
+  "pannes_recurrentes": [
+    {
+      "description": "être très communicative)Suspension pneumatique sur les breaksIntérieur très attractif en termes de qualité et de présentation, les  concurrentes directes (A4 et Série 3) font moins bienInfodivertissem",
+      "categorie": "suspension",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "principe qu'une lacune dans  l'expérience utilisateurTrop d'options, et en gros tout ça complique la gamme et sa  compréhension",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 6.1,
+  "source_url": "https://www.fiches-auto.fr/essai-mercedes/essai-746-test-complet-mercedes-classe-c.php",
+  "scrape_timestamp": "2026-01-31T23:31:41.431633",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

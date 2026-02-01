@@ -1,0 +1,180 @@
+{
+  "marque": "Ford",
+  "modele": "FUSION",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Intérieur sérieux et plastiques plutôt de bonne qualité sans être une référence non plus",
+    "Bon coffre, suffisamment spacieux et disposant d'une forme pratique",
+    "La voiture est plutôt haute, vous aurez donc une très bonne visibilité depuis le poste de conduite",
+    "Bonnes protections des éléments de carrosserie",
+    "Bon rapport encombrement / habitabilité qui en fait une voiture bien adaptée au milieu urbain",
+    "Pas de soucis Le garage est là que pour l'entretien annuel",
+    "Moteur fiable et solide ! hors remplacement des pièces d' usure, première panne a 301 000 kms . un problème de compression cylindre.",
+    "Nombreux équipements et petits rangements Volant confort La mienne a climatisation automatique.Break pratique, impression de robustesse.",
+    "Très maniable, economique",
+    "Bonne petite voiture ;économique. Volume coffre +sieges basculés appréciable Bientôt 18 années et 200 000 km",
+    "Hauteur, facilement maniable, beaucoup de place, moteur tourne comme une horloge",
+    "Fiabilité moteur et générale exceptionnellePuissance suffisante avec le 1.6 TDCI (reprog 120 CV)",
+    "Direction précise, moteur 1.6 très agréable au quotidien.Gabarit sympa, ni trop grand ni trop petit.",
+    "Ce petit break je l'adore car très pratique je me chauffe avec un poele a pellet et j'en rendre sans probleme 5 à 6 dans le coffre",
+    "Très économique, faible consommation.Pas un foudre de guerre mais permet de rouler correctement dans le trafic quotidien.Bonne tenue de route.Freinage correcte. Pare brise dégivrant électrique très pratique en région froide.En résumé, une bonne petite voiture.",
+    "Faible consommation Pratique en ville avec radar de recul",
+    "Facilité de conduite / Hablitacle agréable et multifonction / ni trop grand ni trop petit idéal pour famille un ou deux enfants / Fiabilité / consommation",
+    "Faible consommation, grand coffre, voiture qui braque bien, bien pour jeune chauffeur, moteur simple",
+    "Voiture très agréable à conduire que ce soit en ville ou sur de longs trajets. Consomme peu, manque un peu de peps mais bon au vu du moteur et du kilométrage elle continue toujours à bien tourner.",
+    "Tenue de route, consomme pas énorme très fiable comme modèle",
+    "Pratique tous les jours , bon espace chargement , mécanique fiable (80ch ess) , faible conso moyenne (6.5l) , aucune panne à ce jour 103500 kms",
+    "Economique en entretien et en consommation",
+    "Moteur joueurConduite agréable et sportif dans les toursSa fiabilité. 13 ans, 100.000 km. Seules les bobines et bougies ont été remplacées. (Et une ampoule...) Incomparable avec ma poubelle française qui avait le même âge, même km et qui est allée a la casse...3 sièges auto y rentrent!",
+    "Habitabilité\r\nFiabilité moteur et générale exceptionnellePuissance suffisante avec le 1.6 TDCI (reprog 120 CV)"
+  ],
+  "defauts": [
+    "Son style est loin d'être son point fort, il inspire l'ennui",
+    "Insonorisation très moyenne (bruits d'air important sur autoroute)",
+    "Sa hauteur l'expose trop au vents latéraux, désagréable sur autoroute",
+    "Comportement routier un peu pénalisé par la hauteur de caisse et donc le centre de gravité réhaussé",
+    "Un peu raide en suspension",
+    "Roulis et exposition des roues aux bas coté",
+    "Sièges un peu durs, raides, avec réglages peu efficaces",
+    "L'autoradio très peu fonctionnel pour le 6006 RDS ÉON Ford donne très peu d'explications par contre pour le 6000 il y a des explications a n'en plus finir ! pour la 6006 Ford invente des fonctions que l'autoradio n'a même pas donc si on veut installer un poste bluetooth on ne sait pas quels câbles utiliser",
+    "Très bonne suspensions pour l autoroute ou belle route par contre inconfortable sur nos routes de mauvaises qualités. Enjoliveurs de caisse en plastique très mauvaise qualités.",
+    "Bruyant sur autoroute",
+    "MochePlastiquesUn peu bruyante sur autoroute Prise au vent",
+    "Pas de régulateur de vitesse.Pas de port usb sur l'autoradio.Voiture raide à l'arrière, sa secoue pour les passagers.",
+    "Un peut bruyante mais que demander a une petite voiture",
+    "Manque de puissance en montagne.Usure rapide des pneus.Auto radio d'un autre âge...Amortissement de karting.",
+    "Joints injecteurs refaitBoîte de vitesse changée chez Ford pour 1400 euros !!! Après 199500 kmEmbrayage fatigué en monteeBoit de l huile par forte chaleur.France Portugal 1500 km 2.3 litres d huile !!!",
+    "Insonorisation / prise au vent / Fausse impression de crossover ( carter d'huile bas ) /",
+    "Bruyante, qualité des plastiques très moyennes usure des plastiques + des baguettes de portes qui se décollent",
+    "Intérieur fragile avec le temps et ATTENTION aux produits que vous utilisez bien évidemment.",
+    "Peu connu des garages vaux mieux aller chez Ford",
+    "Bruit d'air autoroute dès 120 km/h",
+    "Defaut moteur intempestif.passage chez ford pb lambdaremplacement de celle ci. defaut se rallume defaut catalyseur",
+    "Son physique... Elle ressemble a rien! 😁",
+    "Tous les autres défauts"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection1.4 16v 80 ch1.6 16v 100 ch1.4 TDCI 68 ch1.6 TDCI 90 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 1.4
+    }
+  ],
+  "ventes_historiques": [
+    {
+      "annee": 2008,
+      "ventes": 10200
+    },
+    {
+      "annee": 2009,
+      "ventes": 7900
+    },
+    {
+      "annee": 2010,
+      "ventes": 6300
+    },
+    {
+      "annee": 2011,
+      "ventes": 100
+    },
+    {
+      "annee": 2012,
+      "ventes": 100
+    },
+    {
+      "annee": 2013,
+      "ventes": 100
+    },
+    {
+      "annee": 2014,
+      "ventes": 100
+    },
+    {
+      "annee": 2015,
+      "ventes": 100
+    },
+    {
+      "annee": 2016,
+      "ventes": 100
+    },
+    {
+      "annee": 2017,
+      "ventes": 100
+    },
+    {
+      "annee": 2018,
+      "ventes": 100
+    },
+    {
+      "annee": 2019,
+      "ventes": 100
+    },
+    {
+      "annee": 2020,
+      "ventes": 100
+    },
+    {
+      "annee": 2021,
+      "ventes": 100
+    },
+    {
+      "annee": 2022,
+      "ventes": 100
+    },
+    {
+      "annee": 2023,
+      "ventes": 100
+    },
+    {
+      "annee": 2024,
+      "ventes": 100
+    },
+    {
+      "annee": 2025,
+      "ventes": 100
+    }
+  ],
+  "total_ventes": 25900,
+  "pannes_recurrentes": [
+    {
+      "description": "a 301 000 kms",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "compression cylindre",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "à ce jour 103500 kms  (1",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "turbo qui siffle",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "moteur (en possède une depuis 5 ans)1",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 6.9,
+  "score_global": 4.5,
+  "source_url": "https://www.fiches-auto.fr/essai-ford/essai-101-test-complet-ford-fusion.php",
+  "scrape_timestamp": "2026-01-31T23:39:52.672511",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

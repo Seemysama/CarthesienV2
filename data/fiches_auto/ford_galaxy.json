@@ -1,0 +1,75 @@
+{
+  "marque": "Ford",
+  "modele": "GALAXY",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Presque aussi spacieuse qu'une camionnette mais sans l'allure d'un  utilitaire. Si vous souhaitez un engin familial ultime alors ce Galaxy est fait  pour vous",
+    "Coffre géant avec de surcroît une hauteur sous plafond digne d'un  appartement !",
+    "Habitabilité géante avec 3 sièges indépendants et coulissants au  troisième rang",
+    "Modularité parfaite avec au passage le troisième rang motorisé au  niveau des assises",
+    "6ème et 7ème place qui sont fréquentables pour des adultes, ce qui est  assez rare il faut l'avouer",
+    "Comportement routier étonnant pour ce type de  gabarit, Ford propose vraiment de bons châssis",
+    "Confort de suspension très bon,  un poil meilleur que sur le S Max",
+    "Version 4X4 disponible, un vrai plus pour  certains qui en ont réellement besoin",
+    "Qualité de finition très honnête à défaut  de vraiment surprendre",
+    "Rapport qualité / prix pas mauvais du tout",
+    "Beaucoup d'espaces avec un grand coffre et jusqu'à la 3 rangés, des sièges modulables.",
+    "TRES BON VEHICULE POUR LONG TRAJET; CONFORTABLE; spacieux;PAS TROP GOURMAND SI ON AS PAS LE PIED LOURD",
+    "Silencieuse, agréable à conduireModulation des sièges arrière Tenue de route Spacieuse",
+    "Confort intérieur - 7 vraies places - 2 sièges arrières coulissant - coffre géant en 5 places - convivialité du poste de conduite - aides à la conduite multiples - mini chaîne SONY + HP de qualité - éclairage d'ambiance multi couleurs -",
+    "Très confortable, super volume mais qualité matériaux a revoir (volant changé ....)",
+    "Boite auto, Confort de haut vol, insonorisation, volume généreux, finition soignée, rapport poids / puissance / consommation excellent.",
+    "Agrément de conduite en version automatique"
+  ],
+  "defauts": [
+    "Monospaces plus vraiment très tendances, ça a moins d'allure qu'un SUV et la  revente est un peu plus incertaine (en revanche c'est techniquement un choix  beaucoup plus malin qu'un SUV)",
+    "Moins joli qu'un S Max pourtant presque aussi  pratique",
+    "Une boîte à convertisseur aurait été plus adaptée  à ce genre de véhicule (rien de bien méchant cependant ...)",
+    "Un peu moins  dynamique que le S Max qui propose presque le même espace (après la différence  n'est pas non plus abyssale ...)",
+    "Pas de version Vignale contrairement au S Max  (mais on s'en fiche un peu je vous l'accorde ...)",
+    "Moins désirable que le très  réussi S Max",
+    "Tristesse de l'habitacle avec beaucoup de plastiques durs (de  qualité mais durs)",
+    "Volumes de coffre indiqués par Ford un peu trompeurs, et  personnellement je n'aime pas ces manoeuvres ...",
+    "Pas de suspension pneumatique  de série pour le train arrière",
+    "Modèle un peu vieillissant",
+    "Radio consommation boîte de vitesses start stop",
+    "BATTERIE HS A 40000 KM 2 ANS ET DEMIS",
+    "Consommation 8.0 l en général Peinture laisse beaucoup de micro rayures (noir), elle est très sensible au rayures.",
+    "Montage compliqué pour attelage - 150Ch un peu mou avec véhicule chargé - poids du véhicule - coffre limité en 7 places - aides à la conduite limitées en boite manuelle.",
+    "7 tours de plateau et sav en dessous de tout....",
+    "Roulis prononcé et de petites vibrations dans le volant et tarif SAV"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection1.5 Ecoboost 160 ch2.0 TDCI 120 ch2.0 TDCI 150 ch2.0 TDCI 180 ch2.0 TDCI 210 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 1.5
+    }
+  ],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "vraiment surprendreRapport qualité / prix pas mauvais du tout\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\nL'avis des internautes\n   Beaucoup d'espaces avec un grand coffre et jusqu'à la 3 rangés, des sièges modulables",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "et qualitéCombien consomme la clio 4Essai nouvelle nissan noteFiabilité citroen cactusNissan micra defauts  2018Essai zafira tourer 1",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 4.9,
+  "source_url": "https://www.fiches-auto.fr/essai-ford/essai-587-test-complet-ford-galaxy.php",
+  "scrape_timestamp": "2026-01-31T23:39:56.642123",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

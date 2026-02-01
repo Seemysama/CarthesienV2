@@ -1,0 +1,62 @@
+{
+  "marque": "Bmw",
+  "modele": "SERIE 4 GRAN COUPE",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Un style finalement très plaisant qui est d'autant plus valorisé par sa  rareté dans les rues",
+    "Grand hayon qui compense son format de berline lors de  l'utilisation en contexte familial",
+    "Version électrique disponible, ce qui décuple  son intérêts tellement elles sont supérieures aux déclinaisons thermiques",
+    "Infodivertissement  généreux en terme d'écran et de présentation, mais hélas ça ne fait pas tout  ...",
+    "Qualité de finition et matériaux très appréciable même si certains éléments  détonnent un peu",
+    "Comportement très sérieux même si c'est un peu moins viril que  dan un certain passé (commandes qui sont ici douces et pas forcément très  communicantes [direction]). On fait donc un peu moins corps avec la mécanique  bien que ça permette de gagner en confort",
+    "Intérieur d'origine lors de sa sortie qui a vite été remplacé, les clients concernés par son achat ont du être très  remontés et ça se comprend ...",
+    "Bonnes prestations des versions électriques en  terme de capacités de batterie et de vitesse de charge",
+    "Agrément des versions  électriques, évidemment bien au dessus des homologues thermiques ... Cette fois  le 6 en ligne n'est plus le roi du catalogue, il a été dépassé et de loin ! Je  sais hélas que c'est encore difficile à entendre pour certains, mais j'ai  l'espoir qu'un jour ils essaient sans se bloquer sur des a priori",
+    "Bruits de  \"moteur\" disponibles pour les versions électriques",
+    "Réservoir bien plus grand que  sur la Série 3 avec laquelle elle partage ses entrailles",
+    "Indications des bornes et planificateur qui existe sur les versions électriques",
+    "Voiture très confortable. Finition de qualité et matériaux robustes. Pas d'excès dans la finition. Tout reste assez rationnel et sans chichi (si l'on compare à une audi A6 de 2021). Infotainment de très bonne qualité et réactif, une fois que l'on a passé la phase d'adaptation et de personnalisation. Qualité routières de très haute volée. La voiture est vissée au sol. Aucune légèreté du train avant comme on peut le ressentir au volant des i35 ou i40. Agrément de l'électrique indéniable et silence de fonctionnement absolu (peu de bruits aeros ou de roulement).Coffre gigantesque et facile de chargement grace au vaste hayon.La lunettte arrière fait la taille d'un studio parisien mais ne possède pas d'essuie glace, ce qui - est très jolie car la ligne reste épurée\r- peut etre ennuyant par temps pluvieux.La ligne est magnifique et bien que la calandre ne soit pas au gout de tout le monde, la voiture fai tourner beaucoup de tetes sur son passsage.Position de conduite facile trouver (tout du moins grace aux sièges a réglages électriques)Aucun problème de fiabilité (à 40.000Km, on n'en attend pas moins)",
+    "Performance, fiabilité, plaisir de conduite, amortisseurs pilotés"
+  ],
+  "defauts": [
+    "Volume de coffre pas aussi généreux qu'espéré ...",
+    "Habitabilité en retrait par  rapport aux 4.78 mètres de l'engin",
+    "Mauvaise intégration de l'infodivertissement malgré la légère incurvation de  la grande dalle. Ca n'est pas cohérent avec le reste, qui rappelle d'ailleurs  beaucoup (trop ?) les  générations passées de BMW",
+    "Ergonomie de l'interface vraiment fouillis et écrans  en longueur qui sont peu polyvalents par rapport aux écrans plus carrés qui se  standardisent ailleurs (notamment chez Mercedes). Bref, ça en fait beaucoup pour  un résultat pas forcément génial",
+    "Intérieur trop conservateur, on aurait aimé  plus de modernité dans la présentation",
+    "Des détails de finition qui font tâche  (plus d'infos au chapitre de la vie à bord)",
+    "Vitesses de pointe des versions  électriques décevantes. Quand on est client BM on aime généralement pouvoir  aller un peu plus loin ... C'est mon cas pour être franc",
+    "Morphologie pas adaptée à l'électrique, on perd donc tous les avantages que  les \"i\" pourraient offrir : meilleure habitabilité, coffre avant etc.",
+    "Moteurs électriques synchrones à rotor bobinés pas toujours très durables (encrassement des balais)...",
+    "BMW pas  clair et surtout avec des erreurs sur le configurateur ... Surprenant de voir un colosse  dont les pieds se transforment en argile petit à petit",
+    "Autonomie très réduite en hiver (-25% /-30% par rapport à l'été). Places arrières pas très génereuses en espace aux jambes (parfait pour des petites distances avec deux enfants, en revanche peu confortable pour des adultes).Cote qui s'éffondre litéralement après quelque mois. N'achetez pas le véhicule en neuf, c'est une catastrophe. Préferez les occasions (on en trouve avec un équipement pléthorique à des prix raisonnables, toutes proportions gardées). Parfait pour un leasing ou comme voiture de fonction.",
+    "Poids un peu excessif, tarif à neuf"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection20i 184 chM40i 374 ch20d 190 ch30d 286 chi4 eDrive 35 Electrique 286 chi4 eDrive 40 Electrique 340 chi4 xDrive 40 Electrique 401 chi4 M50 Electrique 544 chi4 M60 Electrique 601 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 10.0
+    }
+  ],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "fiabilité (à 40",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 7.8,
+  "source_url": "https://www.fiches-auto.fr/essai-bmw/essai-725-test-complet-bmw-serie-4-gran-coupe.php",
+  "scrape_timestamp": "2026-01-31T23:30:09.232173",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

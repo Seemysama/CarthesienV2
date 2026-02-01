@@ -1,0 +1,109 @@
+{
+  "marque": "Bmw",
+  "modele": "SERIE 1",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Comportement qui reste très appréciable malgré un équilibre moins joueur que les  deux premières générations quand on la met réellement en action (mais pour le  sentir il faut vraiment la jeter dans les virages). Mais globalement gardez à  l'esprit qu'elle reste dnas le haut du manier malgré tout",
+    "Plusieurs types d'habillages d'intérieur au niveau de certains éléments  galvanisés (façon aluminium au niveau de l'éclairage d'ambiance), ce qui n'est  pas courant et amène une diversité bienvenue",
+    "Un tout petit peu plus confortable que la précédente en terme de réglage  de la suspension",
+    "xDrive disponible même si c'est sur une version très haut perchée en  gamme",
+    "Boîte DKG7 convaincante même si ce n'est pas non plus transcendant, elle  est bien pilotée par l'électronique qui a été bien calibré et étagé (évitant les  sous et sur"
+  ],
+  "defauts": [
+    "Ligne sans doute trop proche de la précédente pour insuffler un réel sentiment  de nouveauté. L'arrière est aussi moins réussi que la précédente (l'avant en  revanche progresse vers du mieux il me semble)",
+    "Qualité de finition qui s'apparente désormais à celle du généraliste, qui  a progressé (pendant que BMW a régressé)",
+    "Habitabilité / coffre peu optimaux vis à vis de l'encombrement ... On  aurait pu espérer mieux avec cette architecture technique (on en reparle juste  en dessous)",
+    "Pas de mode manuel sur la boîte auto si vous ne prenez pas les palettes  au volant",
+    "Architecture technique qui reste loin des deux première générations, et  le pire sans faire vraiment évoluer à la hausse la logeabilité, qui est pourtant  le principal atout d'un moteur positionné transversalement",
+    "Que des thermiques, ce qui me semble commencer à devenir un peu obsolète  en 2025 en terme d'agrément mécanique ..",
+    "Plus de boîte mécanique pour ceux qui aiment ce type de transmission du  passé"
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [
+    {
+      "annee": 2008,
+      "ventes": 17100
+    },
+    {
+      "annee": 2009,
+      "ventes": 15900
+    },
+    {
+      "annee": 2010,
+      "ventes": 13100
+    },
+    {
+      "annee": 2011,
+      "ventes": 10900
+    },
+    {
+      "annee": 2012,
+      "ventes": 12600
+    },
+    {
+      "annee": 2013,
+      "ventes": 13100
+    },
+    {
+      "annee": 2014,
+      "ventes": 10700
+    },
+    {
+      "annee": 2015,
+      "ventes": 10000
+    },
+    {
+      "annee": 2016,
+      "ventes": 10100
+    },
+    {
+      "annee": 2017,
+      "ventes": 10900
+    },
+    {
+      "annee": 2018,
+      "ventes": 10400
+    },
+    {
+      "annee": 2019,
+      "ventes": 8200
+    },
+    {
+      "annee": 2020,
+      "ventes": 9600
+    },
+    {
+      "annee": 2021,
+      "ventes": 10100
+    },
+    {
+      "annee": 2022,
+      "ventes": 8100
+    },
+    {
+      "annee": 2023,
+      "ventes": 10500
+    },
+    {
+      "annee": 2024,
+      "ventes": 10200
+    },
+    {
+      "annee": 2025,
+      "ventes": 13000
+    }
+  ],
+  "total_ventes": 204500,
+  "pannes_recurrentes": [],
+  "score_fiabilite": 8.0,
+  "score_global": 6.1,
+  "source_url": "https://www.fiches-auto.fr/essai-bmw/essai-761-test-complet-bmw-serie-1.php",
+  "scrape_timestamp": "2026-01-31T23:29:37.139536",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

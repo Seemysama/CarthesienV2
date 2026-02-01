@@ -1,0 +1,131 @@
+{
+  "marque": "Volkswagen",
+  "modele": "PASSAT",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Coffre immense sur les versions sans hybridation lourde",
+    "Habitabilité au deuxième rang très généreuse (on aurait toutefois aimé un peu  moins de place pour limiter la longueur de l'auto, car tout cet espace au  deuxième rang est loin d'être nécessaire)",
+    "Hybrides aux capacités (batterie) XXL, mais vraiment ...",
+    "Ecran multimédia qui va jusqu'à 15 pouces",
+    "Comportement équilibré à défaut d'enjouer ou de proposer un réel plaisir de  conduite",
+    "Boîte pilotée par un commodo, la meilleure ergonomie qui soit",
+    "Homogénéité de la qualité dans l'habitacle. Certains éléments détonnent et  paraissent légers (et même vides et creux) mais ça reste homogène d'avant en arrière (certaines autos mettent le paquet sur  l'avant alors que toutes les parties basses et arrière sont en toc). Attention  toutefois, l'ancienne était meilleure en évitant les matériaux un peu tocs qu'on  peut rencontrer ici ...",
+    "Volkswagen est revenu à des boutons standards pour le volant, bien que ça  ramène un peu dans le passé, car il s'agit des anciens boutons"
+  ],
+  "defauts": [
+    "Style qui me paraît assez peu inspiré .. Si vous voulez être discret elle  semble en revanche faite pour vous. Comme avec le Tiguan 3, on perd le sentiment  de robustesse et de sérieux des anciennes versions dont les plis de carrosserie  étaient plus prononcés et charismatiques. Ici on a le sentiment que la tôle est  fine et fragile",
+    "Très encombrante avec ses 4.92 mètres ... Elle se base désormais sur la  gabarit accru de la Skoda Superb, deux voitures qui sont plsu proches que jamais  piur bénéficier des économies d'échelle",
+    "Des soucis d'ergonomie liés à l'interface et certains commandes, comme par  exemple le réglage de la température (sachant en plus que la nuit ça n'est pas  rétro éclairé !)",
+    "Pas de version 4Motion à 4 roues motrices",
+    "Qualité de finition très correcte mais qui régresse par rapport à  l'ancienne, qui est sortie dans les dernières \"belles\" années du groupe  (l'ancien monde)",
+    "Infodivertissement qui ne permet finalement pas de faire grand chose ...  Oubliez Youtube et la navigation sur Internet par exemple, des fonctions clés  quand on poirote dans sa voiture (pour X raison, il arrive qu'on attende dans  notre voiture). L'écran de 15 pouces ne sert finalement pas à grand chose, et en  tout cas pour les fonctions qu'il offre on est loin d'avoir besoin de cette  diagonale",
+    "Pas de TDI vraiment robuste, et plus généralement pas de moteur généreux en  dehors de l'hybridation",
+    "Confort assez quelconque pour ce type de berline, à défaut d'être mauvais  toutefois (soyons clairs là dessus)"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection1.5 eTSI 150 che-Hybrid 204 che-Hybrid 272 ch2.0 TDI 122 ch2.0 TDI 150 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 1.5
+    }
+  ],
+  "ventes_historiques": [
+    {
+      "annee": 2008,
+      "ventes": 19700
+    },
+    {
+      "annee": 2009,
+      "ventes": 16900
+    },
+    {
+      "annee": 2010,
+      "ventes": 13200
+    },
+    {
+      "annee": 2011,
+      "ventes": 17600
+    },
+    {
+      "annee": 2012,
+      "ventes": 11000
+    },
+    {
+      "annee": 2013,
+      "ventes": 8500
+    },
+    {
+      "annee": 2014,
+      "ventes": 7300
+    },
+    {
+      "annee": 2015,
+      "ventes": 12700
+    },
+    {
+      "annee": 2016,
+      "ventes": 10700
+    },
+    {
+      "annee": 2017,
+      "ventes": 9100
+    },
+    {
+      "annee": 2018,
+      "ventes": 6500
+    },
+    {
+      "annee": 2019,
+      "ventes": 100
+    },
+    {
+      "annee": 2020,
+      "ventes": 100
+    },
+    {
+      "annee": 2021,
+      "ventes": 100
+    },
+    {
+      "annee": 2022,
+      "ventes": 100
+    },
+    {
+      "annee": 2023,
+      "ventes": 100
+    },
+    {
+      "annee": 2024,
+      "ventes": 100
+    },
+    {
+      "annee": 2025,
+      "ventes": 100
+    }
+  ],
+  "total_ventes": 133900,
+  "pannes_recurrentes": [
+    {
+      "description": "d'enjouer ou de proposer un réel plaisir de  conduite\r\n Boîte pilotée par un commodo, la meilleure ergonomie qui soit\r\n Homogénéité de la qualité dans l'habitacle",
+      "categorie": "boite",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "d'être mauvais  toutefois (soyons clairs là dessus)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\nAnnée200820092010201120122013201420152016\nVentes19",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 7.8,
+  "score_global": 4.8,
+  "source_url": "https://www.fiches-auto.fr/essai-volkswagen/essai-747-test-complet-volkswagen-passat.php",
+  "scrape_timestamp": "2026-01-31T23:27:34.847599",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

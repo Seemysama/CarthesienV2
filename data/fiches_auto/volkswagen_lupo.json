@@ -1,0 +1,80 @@
+{
+  "marque": "Volkswagen",
+  "modele": "LUPO",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Fiabilité respectable même si la boîte fait des siennes",
+    "Conduite agréable pour ce type de voiture",
+    "Comportement routier acceptable pour le segment",
+    "Parfaite pour la ville avec un bon rapport qualité / prix",
+    "Les premiers modèles sont relativement bien équipés",
+    "-Roule toujours parfaitement ! -Motorisation 1.0 mpi à courroie hyper fiable . Moteur VW de l'époque sans fioritures. -Suffisamment puissante pour doubler en montant dans les tours sur du plat. (moteur atmo sans turbo )-Bonne bouille encore aujourd'hui ! - tiens vraiment bien la route, un vrai kart ( modèle avec jantes alu 14\")-Direction précise et excellent freinage même sans abs - planche de bord moderne même encore aujourd'hui - rigolote à conduire - bonne habitabilité \r- peu chère pour l'instant ( qui peu évolué en devenant collecteur vu que c'est une VW vendu à un peu plus de 16000 exemplaires en France seulement )",
+    "Gabarit réduit, consommation extrêmement basse, souplesse du moteur à bas régime (1750 tr min)consommation à 110 km/h (4.5l)conso moyennepuissance suffisantecomportement routierpour moi boite auto assez rapide (à mon gôut)",
+    "Démarrage parfait quelque soit le temps.",
+    "Agréable en ville",
+    "Moteur robuste, faible consommation, ne rouille pas, bonne tenue de route en monte large",
+    "Peinture confort bouille sympa",
+    "Carrosserie peinture confort des sièges ergonomie",
+    "C'est une véritable petite routière (grandes distances possibles), pour une voiture présentée comme une pure citadine...Tiens la route et freine fort mème sans ABS, bonnes accélérations et moteur pas trop envahissant sur autoroute, m'a donné envie de tester la version GTI que je possède également et qui est TERRIBLE...(125 chevaux pour moins d'une tonne, boite 6 avec rapports courts)!!!Défauts quelques éléments qui lachent un peu prématurément (sonde lambda, flexible d'échappement, et autres...) mais rien de grave, la voiture est globalement fiable (en version essence 1.4 75 chevaux)Consommation moyenne 5 litres en restant cool, 6 à 6.5 sur autorouteProblèmes rencontrés (voir",
+    "Sa taille parfaite en ville, look sympa et intérieur qui vieillit pas trop mal, consommation raisonnable en ville, moteur a chaîne VW 245000km increvable, à froid démarre au quart de tour, peu puissante mais cool a conduire",
+    "Différentes des autresPas de corrosion Peu d'usure",
+    "Moteur, amusante",
+    "Agréable à conduire .facile à garer . Maniable .bonne reprises .idéal jeune conducteur",
+    "Compacte,look amusant, finition intérieure.",
+    "Petite, agile , assez puissante pour toute utilisation, confortable , mécaniquement fiable Se démarque de la concurrence",
+    "Petite voiture très bien pour aller au travail",
+    "Pratique vu sa taille, l'intérieur vieillit bien (suffit de nettoyer si intérieur gris comme le mien), coffre extensible, design intemporel, moteur fiable et peu bruyant."
+  ],
+  "defauts": [
+    "Style moyen (moins bien qu'une Fox) en raison de l'arrière un peu cubique",
+    "La consommation peut s'avérer trop élevée pour ce petit gabarit sur certaines motorisations",
+    "-Manque de puissance en montée. - Le coffre minuscule - beaucoup moins modulable qu'une twingo - les fuites du toit ouvrant (sur les modèles avec un toit ouvrant donc)-les problemes de centralisation des portes récurrente",
+    "Rare à coup de la boite autoarrêt du moteur au bout de 5 secondesbruit d'air (léger)équipements (entrée de gamme pas de centralisation, ni de vitres électrique , ni de direction assistée mais option que j'ai sur la mienne)boite un peu longuele mode éco",
+    "Pneus trop gros donc très chers.",
+    "Si on oublie les phares allumés, les feux de position arrière restent allumés. Donc il faut avoir un booster.Tailles des pneus indiquées sur le bouchons essence trop larges 175,185,195. En 185 c'est un tape cul qui vibre. En hiver sur la neige le 175 est trop large. Faudrait des jantes 5\" mais je ne sais pas si c'est homologué.",
+    "Emplacement du filtre à air moteur",
+    "Moteur 1.4 75 cv essence pas fiable du tout il cale à n'importe quel régime cela est très dangereux !",
+    ") Note 17/20Prix assurance pas très chère car seulement 5 cv fiscaux...",
+    "Boîte de vitesse capricieuse la 3eme +marche arrière lève vitre manuelle passager qui lache 4000 tours à 120 km/h, consomme sur autorouteporte conducteur qui s'ouvre que de l'extérieur 4 personnes dans la voiture elle peine à avancer coffre pas terrible",
+    "Prix des réparations dans le réseau VW.",
+    "Levés vitres .fermeture centralisée.",
+    "Fiabilité, SAV / Réseau VW, Prix",
+    "Si le coffre est trop petit il faut acheter un trans porter vw",
+    "Coffre, 4 place assise",
+    "Boite de vitesse parfois têtue pour enclencher la marche arrière, moteur creux sur les très grosses montées même en première.",
+    "Tous les autres défauts"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection1.0 50 ch1.4 60 ch1.4 75 ch1.4 100 ch1.6 125 ch1.7 SDi 60 ch1.2 TDi 60 ch1.4 TDi 75 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 1.0
+    }
+  ],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "ralenti instable à chaud non réglé malgré toutes les pièces changées ( capteur map, séparateur d'huile, filtre à essence, bobine bougies et faisceaux d'allumage)\r\nPassage première et deuxième compliqu",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "boite vitesse a 130000Km, Joint de culasse, câble lèves vitres1,4 kensington 60 cv  10/2004 : voyant moteur de la sonde catalytique car trop de ville(info garage la poussé de temps à temps) léger flot",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 7.4,
+  "score_global": 4.6,
+  "source_url": "https://www.fiches-auto.fr/essai-volkswagen/essai-27-test-complet-volkswagen-lupo.php",
+  "scrape_timestamp": "2026-01-31T23:27:22.821157",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

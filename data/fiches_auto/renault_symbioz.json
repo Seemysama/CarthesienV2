@@ -1,0 +1,53 @@
+{
+  "marque": "Renault",
+  "modele": "SYMBIOZ",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Rapport qualité / prix même si ça n'aurait pas été le cas il y a encore 10 ans  ... On démarre quand même à plus de 33 000 euros",
+    "Android Automotive comme système d'exploitation qui permet d'avoir tout ce  qui est possible avec un infodivertissement (internet, vidéos ..) avec en plus  des mises à jours régulières. Avoir Google comme couche primaire est l'assurance  d'avoir quelque chose de consistant, fiable et (relativement) évolutif",
+    "Qualité de finition et des matériaux agréables, il n'y a pas d'élément  qui vienne écorner les yeux même si sur le premier niveau de finition la planche  de bord est un peu moins gratifiante",
+    "Comportement routier de bon niveau bien que ce ne soit pas non plus un  châssis qui restera dans les mémoire. Il n'a en tout cas aucune lacune  particulière et il peut assumer à la fois du poids et des vitesses de passage en  courbe honorables. Un bon compagnon polyvalent et suffisamment rigoureux",
+    "Modularité très intéressante avec un plancher plat et une banquette  coulissante (sur une belle amplitude en plus), sans omettre la banquette  fractionnable mais là c'est assez standard ...",
+    "Nombreux rangements même si ils sont presque tous non cloturables",
+    "Habitabilité / coffre en rapport avec les dimensions de l'engin",
+    "Produit très homogène qui plaira aux plus cartésiens, un genre de  Volkswagen à la français (l'arrière semble même vouloir le suggérer !). Et cela  concerne le style comme le typage des trains roulants.",
+    "Bouton de raccourci pour couper les alertes de dépassement de vitesse,  comme sur toutes les dernières Renault",
+    "Toit panoramique disponible mais pour 1500 euros ..."
+  ],
+  "defauts": [
+    "Agrément et fiabilité de la version E Tech, qui est pour le moment la seule  motorisation proposée ! Ce n'est donc pas un détail car pour ma part ça  m'empêcherait d'en faire l'acquisition ...",
+    "Présentation intérieure qui paraît un peu daté dès sa sortie, c'est le  problème de reprendre une planche de bord qui a déjà quelques années à son  actif. Ca reste toutefois agréable comme je l'ai déjà dit et il faut bien en  trouver des défauts à ce Symbioz",
+    "Pas d'intérieur clair comme on pouvait l'avoir avec le CAptur II phase 1  ... C'est donc un peu austère",
+    "Produit qui manque un peu d'aspérité en termes de style intérieur et  extérieur (notons aussi les petits soucis d'identité à l'arrière : à savoir  qu'une Volkswagen semble s'être glissée dans la poupe)",
+    "Manque d'offre moteurs et boîte, et lors de la sortie de la fiche il n'y  a qu'un seul choix (pourtant le Symbioz n'est pas sortie hier)",
+    "Contrôle du son via un commodo comme sur les Renault des années 90 ... Ni  très glamour ni très ergonomie (pas intuitif au début, et quand le passager veut  régler ce n'est pas génial)",
+    "Retrovition centrale bonne mais de trois quarts arrières ce n'est pas ça  du tout"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection1.6 E-Tech Hybride 145 ch1.8 E-Tech hybride 160 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 1.6
+    }
+  ],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "reprendre une planche de bord qui a déjà quelques années à son  actif",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 5.2,
+  "source_url": "https://www.fiches-auto.fr/essai-renault/essai-755-test-complet-renault-symbioz.php",
+  "scrape_timestamp": "2026-01-31T23:24:56.446566",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

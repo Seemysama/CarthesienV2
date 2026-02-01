@@ -1,0 +1,70 @@
+{
+  "marque": "Nissan",
+  "modele": "ALMERA",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Voiture polyvalente, elle ne craint pas les départs en vacances et peut en même temps se garer facilement",
+    "Fiable niveau moteur 2l2.dci an 2004 pas eu d entretien lourd tjs le même embrayage rotule direction suspension alors que je tracte des remorque de bois .",
+    "Fiabilité, peu consommatrice, excellente tenue de route, bonne reprise en dépassement, conduite agréable et un peu sportive, facile à garer dû à sa taille, freinage efficace et assez court",
+    "Rassurante à conduire. Ligne sympa, et oui... Intérieur de qualité. Fiabilité.",
+    "Voiture tres agréable a conduire, moteur 1.8 essence 114ch ( vrais moteur nissan pas de Renault chez moi) increvable 245.000kms et aucun soucis mécanique, aucune fuite d'huile , aucun soucis électrique sauf le capteur pmh (bien connu sur ce modèle)Excellente voiture assez rare sur nos routes",
+    "Moteur 282000km origine fiable et performant au bout de 20 ans et tjrs de la reprise surtout en troisiéme et quatriéme.trés bonne tenue de route surtout a 80km_heure",
+    "Fiabilité \rPrix attractifPièces pas chères et disponibles",
+    "Bonne tenue de route. Moteur robuste(acheté à 130000km aujourd'hui 6 ans et 234000 rien changer sauf les bougies en Afrique svp.) Rangements. Design et phares puissants. Pièces de rechange disponibles.",
+    "- Solidité du moteur- Vitres des portières Avant sont électriques",
+    "Bonne voiture oour une jeune conducteur qui veut se la raconté 😊 bien insonoriser bonne tenue de route na fait pas trop de bruit",
+    "Véhicule fiable dans l'ensemble ,bon vieillissement,chaîne de distribution,nombreux rangements,Passer à la valise diagnostic à 230.000kms 0 défauts tourne comme une horloge",
+    "Bonne tenue de route et bonne peche",
+    "l'entretien pas chère Chaîne de distribution... économique pour un moteur 1.8",
+    "Moteur très fiable, Très grand volume sans les siège version monospace (comme sénic), Faible consommation, Confortable, Peinture solide",
+    "Increvable, peu d'entretien (4 vidanges dans sa vie (je sais j'en prends pas soin du tout)), bon confort, bon équipement audio, confortable, bon freinage...",
+    "Ne tombe jamais en panne.Cuir, clim, vitres et retro électriques.",
+    "Pratique, consommation, équipement",
+    "EN GENERAL TRES BONNE VOITURE A TOUT NIVEAUX",
+    "Fiabilité\r\nl'entretien pas chère Chaîne de distribution... économique pour un moteur 1.8"
+  ],
+  "defauts": [
+    "Nombre de motorisations disponibles limité",
+    "Un peu bruyante sans en être excessif, rapports vitesse un peu longs, chauffage pas très efficace",
+    "Puissance limite. Amortissement arrière peu confortable. Adhérence peinture d'origine. Incompréhensible !? Peinture complète refaite.",
+    "Ciel de toit Amortisseurs",
+    "Un peu bruyante sur les premières vitesse et longue a atteindre vitesse de croisière du a son poids. éclairage moyen en campagne.",
+    "Isolation Confort",
+    "Assemblage des accessoires intérieurs. les plastiques. Amortisseurs trops raides.",
+    "- Puissance trop faible- Accélération trop grande (+12 secondes) - Confort bas niveau- Les vitres des portières de derrières sont manuelles- Sonorisatin n'est pas au Rendez-vous",
+    "Au démarrage voiture qui temble énormément et qui du coup fait sauté les cosse de batteries consomme trop acessoir de la voiture a changée tout les 2 mois quand cest pas les vitre qui tombe seul c'est la centralisation qui deconne",
+    "La finition extérieure (agrafes parechoc)",
+    "Faible acceleration",
+    "Accélération très molle même quand elle était neuve (j'ai toujours la vanne Egr), très voir trop basse donc attention si vous avez des enfants en bas âge ou un dos pourri, peinture qui se barre avec l'âge, elle est pas très belle et une capacité de chargement pas top non plus. Aussi, une boite de vitesse pas faite pour la France (je ne sais pas trop quel pays non plus) (1 et 2 ème quasi tout le temps pour la ville, 3 et 4 pour la route et la voie express et la 5, pour se faire flasher...)",
+    "Moteur bruyant surtout au démarrage.Beaucoup de bruit moteur dans l'habitacle entre 100 et 110km/h. Un peu moins bruyant après décalaminage moteur.Boite n'est pas super. Marche arrière ne s'enclenche pas, surtout à froid, il faut repasser par le point mort.Bruit (couinement) quand on passe un dos d'âne (silent-bloc ?)La voiture et le moteur semblent increvables et vu qu'une Almera d'occas ne vaut rien, je me sens obligé de la garder !",
+    "SIEGES AVANT LOUPES DECALAGE DOSSIER ET ASSISE",
+    "Tous les autres défauts"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection1.5 90 ch1.8 115 ch1.5 dCi 80 ch2.2 VDI 110 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 1.5
+    }
+  ],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "sur chargeur CDnissan almera 2003 1,5dci : fuite moteur supérieur (pompe à vide), à 65000 kms 2",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 7.7,
+  "score_global": 4.9,
+  "source_url": "https://www.fiches-auto.fr/essai-nissan/essai-221-test-complet-nissan-almera.php",
+  "scrape_timestamp": "2026-01-31T23:34:37.870024",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

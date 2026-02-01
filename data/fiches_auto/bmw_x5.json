@@ -1,0 +1,130 @@
+{
+  "marque": "Bmw",
+  "modele": "X5",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Comportement très impressionnant quand il est doté de tout l'attirail optionnel  au niveau des trains roulants (sans c'est un autre monde, et je ne suis pas un  VRP qui cherche à vous refourguer toute cette camelote, c'est bel et bien vrai  !)",
+    "Des moteurs qui allient à la fois sobriété, noblesse et  performance",
+    "Suspension pneumatique désormais de la partie (il était temps vous  allez me dire !). Le confort monte donc encore d'un cran si vous",
+    "Style qui se  perfectionne mais qui pourrait se distinguer un peu plus du X3",
+    "Très bonne  habitabilité à l'arrière avec beaucoup d'espace aux jambes, en largeur et en  hauteur !",
+    "Qualité de finition désormais d'excellente facture. Les petites fautes  (à savoir quelques plastiques rudimentaires de ci et de là) de l'ancien  n'existent plus ou presque",
+    "Nombreux coloris et combinaison de matériaux  disponibles dans l'habitacle (le Q7 peut aller se cacher très loin)",
+    "Clé en option façon petit  smartphone géniale (option à 300 euros)",
+    "Eclairage d'ambiance assez poussé (ce  qui est loin d'être toujours le cas chez BMW !)",
+    "Conduite très en hauteur (bien  pour ceux qui aiment dominer la route)",
+    "Plus rare que jamais car de moins en  moins accessible",
+    "Roues arrière directrices très efficaces sur ce type d'engin  (plus légitime que sur une Mégane)",
+    "roulis active qui permettent de  virer totalement à plat en virage sans perdre en confort en ligne droite (là  elles sont détendues)",
+    "Modernisation et digitalisation réussie (cockpit virtuel  notamment)",
+    "Extrêmement confortable avec suspension hydraulique (la conduite s'approche de celle d'une Bentley)Digne d'une voiture de grand luxe avec by technologieMême avec le moteur 4.0i - très rapideElle impose (comme il faut pour une BMW)"
+  ],
+  "defauts": [
+    "Un format en voie de disparition. L'acheter représente donc un risque certain  pour la revente, et celui qui a un peu de conscience écologique y réfléchira à  deux fois avant de l'acquérir (même si il est plein aux as)",
+    "Ca reprend un peu  l'idée précédente, mais circuler avec ce genre de véhicule est plus mal vu que  jamais (fracture sociale, environnement ..)",
+    "Comportement plus pataud et fébrile  sans les béquilles optionnelles",
+    "Présentation intérieure qui peut finir par  lasser avec les années, BMW ne se renouvelle pas assez contrairement à ses  homologues. Ca reste toutefois très abouti et l'ergonomie est sans faille (et  donc on garde ses repères)",
+    "Rappels bleus dans les optiques au laser pas vraiment  du meilleur goût ...",
+    "Plus de M50D ou X5M pour notre pays (BMW n'a pas été assez  bête pour tenter le coup, les malus étant de véritables vaccins)",
+    "Conduite très  en hauteur pénalisante pour le plaisir de conduire",
+    "Cockpit virtuel un peu pauvre  en fonctionnalités",
+    "Version hybride lourde et moins logeable. Dommage car d'un  autre côté il y a de très belles qualités (pas évident de savoir si il faut  l'adopter ou pas, mais la question reste la même chez la concurrence)",
+    "Banquette  un peu trop verticale à l'arrière, et pas inclinable comme sur une 5 / GT par  exemple",
+    "Large (2m sans les rétroviseurs) donc peu pratique en ville et surtout les parkings souterrainsLe son - mode sport ne donne pas suffisamment de bruit. Je ne comprends pas non plus pourquoi la majorité du temps (en dessous 4000t/m ou sans mode sport) qu'un seul des deux pots d'échappement fonctionne (ça fait nul avec moteur à froid)"
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [
+    {
+      "annee": 2008,
+      "ventes": 3900
+    },
+    {
+      "annee": 2009,
+      "ventes": 100
+    },
+    {
+      "annee": 2010,
+      "ventes": 100
+    },
+    {
+      "annee": 2011,
+      "ventes": 100
+    },
+    {
+      "annee": 2012,
+      "ventes": 100
+    },
+    {
+      "annee": 2013,
+      "ventes": 100
+    },
+    {
+      "annee": 2014,
+      "ventes": 100
+    },
+    {
+      "annee": 2015,
+      "ventes": 100
+    },
+    {
+      "annee": 2016,
+      "ventes": 100
+    },
+    {
+      "annee": 2017,
+      "ventes": 100
+    },
+    {
+      "annee": 2018,
+      "ventes": 100
+    },
+    {
+      "annee": 2019,
+      "ventes": 100
+    },
+    {
+      "annee": 2020,
+      "ventes": 100
+    },
+    {
+      "annee": 2021,
+      "ventes": 100
+    },
+    {
+      "annee": 2022,
+      "ventes": 100
+    },
+    {
+      "annee": 2023,
+      "ventes": 100
+    },
+    {
+      "annee": 2024,
+      "ventes": 100
+    },
+    {
+      "annee": 2025,
+      "ventes": 100
+    }
+  ],
+  "total_ventes": 5600,
+  "pannes_recurrentes": [
+    {
+      "description": "chauffageRéduire sa consommation d'essence et de diesel : les conseils et astucesCapacité des batteries lithium selon la températureFiabilité bmw gran coupé série 6Rappel Focus 4Essai toyota auris ess",
+      "categorie": "electronique",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 6.9,
+  "source_url": "https://www.fiches-auto.fr/essai-bmw/essai-662-test-complet-bmw-x5.php",
+  "scrape_timestamp": "2026-01-31T23:31:03.337645",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

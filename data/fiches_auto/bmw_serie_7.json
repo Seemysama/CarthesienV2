@@ -1,0 +1,67 @@
+{
+  "marque": "Bmw",
+  "modele": "SERIE 7",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Confort de premier ordre, suspension et amortisseurs pilotés de série",
+    "Clé  (option) qui permet de communiquer avec la voiture, ludique et utile  contrairement à certaines autres options ...",
+    "Qualité et choix des matériaux  évidemment excellents, c'est un poil en dessous d'une S (et encore ..) mais  meilleur que sur l'A8 D5 pourtant sortie après",
+    "Comportement excellent même si il  ne faut pas idéaliser et que les A8 et Classe S sont comparables. Je sais que  l'hélice laisse penser qu'on est forcément au dessus mais la réalité n'est pas  aussi simple. En revanche, avec le pack Active ComfortDrive (ou encore l'Active  Drive) on atteint un niveau supérieur, et puis le mode sport d'origine est assez  convaincant en réduisant la hauteur de caisse",
+    "Tablette tactile (option)  disponible pour les passagers arrière",
+    "Système de caméra 3d vraiment bluffant ...  Au delà d'avoir la vue 360 degrés, on peut survoler la voiture de manière  virtuelle !",
+    "Agilité et maniabilité à basse vitesse avec les roues arrière  directrices",
+    "Insonorisation royale avec l'option vitrage confort plus épais et  doté de feuilletage. Sur les Série 7 classiques on entendra plus les bruits  extérieurs (vent surtout)",
+    "Version V12 proposée, BMW chérit le plus possible sa  reine ...",
+    "Sublime auto.Son seul défaut c'est 5,10 mètres. Malgré toutes les aides n'est pas facile à garer.Consommation moyenne sur 40 000kms 7,9 ltrs/100.Super confort, souplesse et adaptabilité des suspensions pneumatiques, tenue de route avec le X Drive et les 4 roues directrices, puissances en mode sport (5,2 secondes au 0 à 100).J'en suis à ma troisième série 7 et je pense qu'elles sont de plus en plus réussies.La finition est au rendez vous avec les commandes vocales et gestuelles.La magnifique clé permettant de faire des manoeuvres de parking de l'extérieur du véhicule, ou de contrôler l'état de celui ci (les entretiens requis, le niveau de carburant, le lieu de stationnement, l'état de fermeture des portes, le contrôle à distance de la climatisation, etc...)Si le prix n'est pas votre problème (compter tout de même entre 130 et 140 k¤ en toutes options) alors n'hésitez pas, c'est du lourd.Pour moi pas de regret...",
+    "Confort, Silence, Puissance, Boite auto"
+  ],
+  "defauts": [
+    "Commande gestuelle qui ne sert qu'à alourdir la facture semble t il, car  franchement je n'en vois pas l'utilité",
+    "Malgré des qualités routières de premier  ordre, l'auto reste quand même un peu bateau dans les virages pris à vive allure  (assez habituel sur ce genre d'auto qui s'obsède à proposer un confort  moelleux). Et puis le châssis M Sport ne change pas grand chose contrairement à  d'autres modèles de la marque qui bénéficient alors de trains roulants plus marqués en terme de sportivité",
+    "Conduite semi autonome qui est moins au point que Mercedes et qui,  surtout, incite la clientèle à s'exposer à des dangers en laissant le volant à  l'électronique",
+    "Style pas aussi spectaculaire que la Classe S",
+    "Quelques plastiques  laqués que j'aurais préféré ne pas voir dans l'habitacle",
+    "Pas de cockpit virtuel  comme le font les deux concurrentes ..",
+    "Habitabilité  un poil décevante sur les versions \"courtes\" (ou devrais je dire \"pas  longues\")",
+    "Volume de coffre moyen par rapport à la longueur, mais c'est  finalement assez classique sur ce genre de limousine qui ne sert que très peu à  partir en vacances avec bagages et enfants ... Elles servent plutôt pour les  affaires, il faut avant tout pouvoir embarquer 4 personnes dans le meilleur des  conforts"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "740d 320 ch",
+      "note_globale": 8.0
+    }
+  ],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "c'est 5,10 mètres",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "(compter tout de même entre 130 et 140 k¤ en toutes options) alors n'hésitez pas, c'est du lourd",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "galets tendeursOdeur de moisi à la sortie de la climatisationFormats de voitures les plus vendusAir froid ne sort que côté passagerRoulis Q7 II  S-LineComportement Peugeot 508 2Classe EAvis internaute",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 7.2,
+  "score_global": 7.0,
+  "source_url": "https://www.fiches-auto.fr/essai-bmw/essai-592-test-complet-bmw-serie-7.php",
+  "scrape_timestamp": "2026-01-31T23:30:35.277302",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

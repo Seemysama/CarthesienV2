@@ -1,0 +1,104 @@
+{
+  "marque": "Peugeot",
+  "modele": "PARTNER TEPEE",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "L'habitabilité est impressionnante, remarque bien que cette Peugeot et sur une base C4 Picasso",
+    "Cette nouvelle version ressemble moins à un utilitaire",
+    "De nombreux rangements sont disponibles à l'intérieur de l'habitacle",
+    "Bonne protection des portières et pare chocs",
+    "ESP qui rend le comportement plus sur qu'auparavant, mais ça reste évidemment très moyen",
+    "Voiture spacieuse idéale avec enfants,bagages..",
+    "Pratique ,fiable,confortable,economique.",
+    "Espace intérieure,agreable avec des enfants.Beaucoup de place pour les bagages.",
+    "Moteur qui a du répondant , véhicule spacieux et très modulable avec de nombreux rangements bien pensés.",
+    "Volume coffre, freinage correct. Consommation au rapport du cx...",
+    "Très pratique en campagneMoludarite sièges ar grand volumePosition de conduiteConso raisonnable 5'5 /6l",
+    "Spacieuse, confortable, pratique",
+    "Très bonne voiture, bon moteur, très bon volume , bonne tenue de route sur la neige",
+    "Moteur puissant temps qu il est neufApres 170000km vu la qualité du gazoil, vu l impossibilité d entretenir le moteur, nettoyage egr et catalyseur a cause du cherte et manque du point de service. le moteur perds son dynamisme et les pannes arrivent en lots, sa revesion est impossible ou nest pas garantie",
+    "Voiture agréable fiable économique silencieuse.",
+    "Pratique bon volume consommation",
+    "Véhicule modulable à souhait ,utilisation du régulateur et limiteur de vitesse agréable, réactivité appréciable, empattement léger ,direction assistée agréable, angle de braquage court, grand coffre, grande modularité des sièges arrières on peut ouvrir indépendamment la vitre arrière du haillon arrière, une fois les sièges arrières enlevés plancher plat.",
+    "Espace, confort, une vraie familiale, ....",
+    "Bons volumes, 3 vraies places à l'arrière",
+    "Très bonne mécanique et très silencieux",
+    "Vaste espace, 7 vraies places, une modularité exemplaire et une bonne reprise en route. L'équipement est correct."
+  ],
+  "defauts": [
+    "Comme toujours le comportement laisse à désirer. Il se rattrape toutefois grâce à un ESP qui sécurise l'ensemble et évite les risques de retournement",
+    "Choix de motorisation limité (pas de diesel au dessus de 110 chevaux ...)",
+    "Style moins plaisant que la Citroën Berlingo",
+    "Un peu chère pour les prestations proposées",
+    "Pannes injecteurs 3 fois dès 40000Kms.Panne système ventilation clim.",
+    "Tenue de route vehicule survireur.usure rapide des pneus arrières.",
+    "3 Pannes sur autoroute injecteurs.Panne clim ,avant 40000 Kms.Encore panne injecteur à 80000 Kms,suivi panne chauffage.",
+    "-Consommation d'huile récurrente,-Beaucoup de pièces plastiques qui vieillissent mal niveau moteur/ refroidissement calorstat, tuyaux , pompe.....-",
+    "ConsommationFiabilité proche de zéro",
+    "Qualité des sièges et plastiques. Bruits d'air",
+    "Claquement suspention AV non resoluPar le réseau malgré plusieurs interv.Pas de miroir en place droite (mesquin)Grand écran de contrôle +audio sansGps (re mesquin)Boite bruyante et dure à chaud malgré",
+    "Vidange +additif ectSensible au vent latérale.",
+    "Les plastiques non peints se ternissent rapidementLes bandes de roulement en plastique pour l'ouverture des portes latérales, se désagrègent au soleil et à force de s'ouvrir",
+    "Usure des pneus, électronique pas très fiable, pollution",
+    "Consommation progressive d'huile appartir de 170000km. Fumé blanche et noir.Huile produit en contre façon crie des difficultés de lubrification.",
+    "Un peu bruyant a haute vitesse",
+    "RAS entretien usine fait régulièrement",
+    "Confort fragile défaut électroniques",
+    "L'insonorité intérieur. Il faut le chausser avec du pneux Michelin saver plus pour plus de largeur au niveaux des pneu ce qui donne moins de roulis et plus d'adhérence dans les virages.",
+    "Consommation en ville; stabilité en temps mauvais(vent), fragilité des trucs plastiques...",
+    "Usure des pneumatiques avant et arrière anormal 20000 km en moyenne pour l'avant comme pour l'arrière arrêt de porte défectueux au bout d'un an et demi",
+    "Rien les 9 premières années à part le rétroviseur extérieur qui ne se rabat automatiquement pas toujours, il faut le réinitialiser. A partir de la 10èeme année et 140 000km => FAP lâche, valve EGR changée, moteur de la ventilation changée.Pour le FAP, je ne suis pas sûr que ce soit de la faute de Peugeot mais de notre utilisation (moins de 12000km/an surtout en ville et entre 4 et 8 trajets de plus de 200km par an), mais c'est dommage. Du coup je passe en essence qui correspond plus à notre usage de la voiture.",
+    "Tous les autres défauts"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection1.6 90 ch1.6 110 ch1.6 VTI 120 ch1.6 HDI 75 ch1.6 HDI 92 ch1.6 HDI 110 ch1.6 HDI 115 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 1.6
+    }
+  ],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "système ventilation clim",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "clim ,avant 40000 Kms",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "injecteur à 80000 Kms,suivi panne chauffage",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "électroniques  (1",
+      "categorie": "electronique",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "d'amortisseur_ habillage des portières crissement des plastiques des que l, on pose le coude dessus_ la peinture des jantes s'écaille _ l'habillage du levier de vitesse s'est percé_A 110 outdoor 2009 ",
+      "categorie": "suspension",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 7.5,
+  "score_global": 4.6,
+  "source_url": "https://www.fiches-auto.fr/essai-peugeot/essai-241-test-complet-peugeot-partner-tepee.php",
+  "scrape_timestamp": "2026-01-31T23:23:26.227449",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

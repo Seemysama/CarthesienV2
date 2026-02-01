@@ -1,0 +1,84 @@
+{
+  "marque": "Mercedes",
+  "modele": "GLC COUPE II",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Versions hybrides dotées de très grosses batteries (bien que dans un autre temps cela va vraiment nuire au coffre)",
+    "Le confort et l'insonorisation restent excellents, bien que les moteurs diesels, un peu trop bruyants, viennent quelque peu ternir l'ensemble",
+    "Habitabilité arrière de bon niveau malgré le toit qui retombe (coupé)",
+    "Suspension pneumatique disponible qui garantir un confort de premier ordre",
+    "Intérieur très qualitatif grâce notamment à des matériaux valorisants, des assemblages parfaits et des écrans ayant de belles couleur et une haute résolution. On est clairement au dessus des Audi et BMW concurrentes",
+    "Infodivertissement qui dispose de sérieux atouts en termes de fonctionnalités et de diagonale d'écran",
+    "Manœuvrabilité à basse vitesse extraordinaire avec les roues arrière directrices",
+    "Choix possible entre hybride rechargeable diesel et essence",
+    "6 cylindres diesel disponible au catalogue, et en plus il est du genre très costaud (trop ?)",
+    "Produit techniquement très avancé quelque soit le sujet abordé : train roulants, infodivertissement etc.",
+    "Boîte qui se pilote (marches avant et arrière, le mode manuel se fait par les palettes) par un commodo, la meilleure ergonomie possible"
+  ],
+  "defauts": [
+    "Comportement globalement pataud quelque soit la version",
+    "Pas de version Avantgarde moins chère et disposant d'une suspension un peu plus souple",
+    "Pour un SUV coupé certains trouveront qu'il reste un peu timide dans le style",
+    "Coffre des versions hybrides qui est trop juste, surtout si on compare avec le gabarit de 4.85 mètres ! 390 litres c'est vraiment peu gratifiant",
+    "Plancher de coffre trop haut pour pouvoir exploiter une hauteur digne (le coffre n'est donc pas très haut, à savoir un espace limité entre plancher et plage arrière)",
+    "Infodivertissement un peu compliqué, comme pour le reste des fonctions qui s'étalent à la fois sur l'écran central, le combiné et les nombreux boutons au volant. Bref, il y a un temps d'adaptation ...",
+    "Succès commercial moyen qui laisse des doutes quant à sa future valeur de revente",
+    "Des moteurs de coeur de gamme qui ne sont pas en phase avec le standing et l'ambiance futuriste du GLC",
+    "Pas de version intermédiaire entre 220d et 450d",
+    "Version 63s qui déçoit au niveau du moteur et de ses prestations auditives",
+    "Version 43 AMG qui se dote du 4 cylindres de la Classe A 45 AMG, décalé (même souci qu'avec le 63 donc)"
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [
+    {
+      "annee": 2020,
+      "ventes": 3400
+    },
+    {
+      "annee": 2021,
+      "ventes": 100
+    },
+    {
+      "annee": 2022,
+      "ventes": 100
+    },
+    {
+      "annee": 2023,
+      "ventes": 100
+    },
+    {
+      "annee": 2024,
+      "ventes": 4500
+    },
+    {
+      "annee": 2025,
+      "ventes": 100
+    }
+  ],
+  "total_ventes": 8300,
+  "pannes_recurrentes": [
+    {
+      "description": "qu'avec le 63 donc)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\nAnnée202020212022\nVentes3",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "P0813Découvrez l'évolution de l'esthétique des MercedesQuelle est la différence entre un montage transversal et longitudinal ?Rappel courroie de distribution PuretechLaminage huileEssai mii seatEssai ",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 7.7,
+  "score_global": 6.3,
+  "source_url": "https://www.fiches-auto.fr/essai-mercedes/essai-745-test-complet-mercedes-glc-coupe-ii.php",
+  "scrape_timestamp": "2026-01-31T23:32:17.526183",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

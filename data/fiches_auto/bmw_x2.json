@@ -1,0 +1,80 @@
+{
+  "marque": "Bmw",
+  "modele": "X2",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Look avant très réussi, avec comme un air \"dinosauresque\" (regard de  vélociraptor) qui apporte beaucoup de charisme",
+    "Version 100% électrique disponible, pour moi c'est devenu un indispensable  depuis que j'estime le thermique étant comme une solution obsolète (quitte à  chagriner quelques lecteurs, navré mais je pense qu'ils finiront par rejoindre  un jour cette vision même si de prime abord elle paraît aberrante)",
+    "Comportement certes rigoureux mais loin d'être aussi spectaculaire et ludique  qu'on peut le lire à droite et à gauche... Ça reste finalement assez  conventionnel, même si ça varie d'une version à l'autre (on reste sur une base  assez classique, éloignée de l'ADN propulsion de la marque)",
+    "Confort de suspension appréciable malgré quelques trépidations à basse vitesse,  le X2 est loin d'être une planche raide inconfortable contrairement à ce que  l'on peut lire de ci et de là",
+    "Bien plus logeable et spacieux que l'ancien, malgré la ligne de toit plus  plongeante",
+    "Qualité de fabrication très honorable même si quelques détails viennent freiner  cet engouement (plastiques durs sur les poignées de porte, matériaux peu  flatteurs en bas de console)",
+    "Aérodynamisme supérieur au X1 qui permet de réduire la consommation sans nuire  à la logeabilité (le toit plongeant ne retire rien aux valeurs VDA de coffre)",
+    "Direction précise et bien calibrée, mais qui reste un peu muette à l'approche  de la limite d’adhérence",
+    "Insonorisation de bonne tenue en croisière, mais la sonorité du moteur 3  cylindres essence devient plus présente à rythme soutenu, idem pour les diesels"
+  ],
+  "defauts": [
+    "Recharge rapide plafonnée à 130 kW, ce qui reste décevant pour du premium, tout  comme la batterie de 68 kWh qui reste un peu juste elle aussi",
+    "Visibilité arrière sérieusement pénalisée par la custode épaisse et la petite  lunette (les manœuvres se font à l’instinct ou à la caméra)",
+    "Banquette arrière un peu ferme, pas idéale pour les longues distances",
+    "Look de l'arrière vraiment douteux, avec un style qu'on peut qualifier de  militaire mais qui reste peu convaincant et peu harmonieux. Il ne fait aucun  doute que le futur restylage reverra cet aspect en profondeur, même si modifier  l’arrière reste toujours plus contraignant techniquement",
+    "Pas d'hybride rechargeable comme sur le X1",
+    "Gabarit qui a explosé et qui le fait presque changer de catégorie. Ceux qui  aimaient la compacité du précédent seront contrariés. En gros, il semble presque  vouloir remplacer le X4 puisqu'il se rapproche ici de la première génération (de  X4) en termes d’encombrement",
+    "Ni vraiment confortable ni franchement dynamique, le mariage des deux mondes  semble ici perfectible",
+    "Ergonomie et polyvalence de l'infodivertissement, ça fait propre de loin mais  ça manque finalement d'un peu de consistance et de logique. L’absence de molette  iDrive ne facilite pas les choses",
+    "Tarif élevé une fois correctement équipé, avec certaines aides à la conduite ou  éléments technos encore en option, ce qui fait un peu désordre vu le  positionnement premium de l’auto"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection20i 170 chM35i 300 ch18d 150 ch20d 163 chIX2 20 Electrique 204 chIX2 30 Electrique 313 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 10.0
+    }
+  ],
+  "ventes_historiques": [
+    {
+      "annee": 2018,
+      "ventes": 5100
+    },
+    {
+      "annee": 2019,
+      "ventes": 6000
+    },
+    {
+      "annee": 2020,
+      "ventes": 3900
+    },
+    {
+      "annee": 2021,
+      "ventes": 4100
+    },
+    {
+      "annee": 2022,
+      "ventes": 100
+    },
+    {
+      "annee": 2023,
+      "ventes": 100
+    },
+    {
+      "annee": 2024,
+      "ventes": 100
+    },
+    {
+      "annee": 2025,
+      "ventes": 7700
+    }
+  ],
+  "total_ventes": 27100,
+  "pannes_recurrentes": [],
+  "score_fiabilite": 8.0,
+  "score_global": 7.7,
+  "source_url": "https://www.fiches-auto.fr/essai-bmw/essai-760-test-complet-bmw-x2.php",
+  "scrape_timestamp": "2026-01-31T23:30:45.295430",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "marque": "Mercedes",
+  "modele": "GLE COUPE",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Style ultra statutaire qui détrône le X6 en terme d'élégance et de prestance.  Il a même de quoi intimider un Bentayga, franchement impressionnant (les têtes  se retournent par dizaines dans la rue, si c'est ce que vous recherchez foncez  chez votre concessionnaire le commander le plus tôt possible)",
+    "Confort de marche à toute épreuve, même sans la suspension pneumatique",
+    "Comportement sur les versions très haut de gamme (grosses roues, Airmatic,  Active Curve etc.)",
+    "Volume de coffre très généreux malgré son positionnement  coupé",
+    "Habitabilité / coffre de très bon niveau. Il a beau être un (pseudo) coupé  il sait aussi se la jouer familial",
+    "Sonorité des 43 et 63  AMG avec une mention spéciale pour la 63 qui a des clapets permettant de  réveiller toute la rue",
+    "Voiture qui a de la gueule ... un confort remarquable ...une finition exemplaire..Une sensation de conduire un Golgoth dans la plus grande douceur ...Excellente insonorisation....BV 9 d une douceur effroyable ...."
+  ],
+  "defauts": [
+    "Comportement un peu placide sur les versions \"standards\" et d'entrée de gamme même si ça  reste évidemment correct. Le GLE Coupé a besoin de béquilles si il veut être un  minimum dynamique (châssis relativement ancien et pas développé pour le sport)",
+    "Présentation intérieur un peu datée même à sa sortie (car il  recycle le ML 3 de 2011), certains éléments détonnent un peu. Evidemment  comprenez que c'est loin d'être une catastrophe et que globalement c'est très  qualitatif",
+    "Trop ressemblant à un GLC Coupé, on finit par alors se demander si il  ne vaudrait pas mieux faire quelques économies en l'adoptant lui plutôt que le  GLE Coupé",
+    "Pas très fan des optiques arrière (j'ai donc pour ma part un problème  avec toute la gamme Mercedes qui emploie ces feux : berlines breaks et coupés et  SUV coupés)",
+    "Pas de diesel au dessus de 258 ch, à notre époque une version de 300  ch passés aurait été la bienvenue",
+    "Certains auraient voulu une version hybride  (je n'en fais pas partie mais je dois le mentionner) comme le fait le Cayenne  qui se vend très bien dans cette configuration",
+    "Versions AMG n'ayant que 7  rapports (plus d'infos dans le chapitre du comportement)",
+    "Consommation entre 15 et 20 litres ....Ressentie de chaussée parfois tremblante (jante 21)"
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "avec toute la gamme Mercedes qui emploie ces feux : berlines breaks et coupés et  SUV coupés)Pas de diesel au dessus de 258 ch, à notre époque une version de 300  ch passés aurait été la bienvenueCert",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "d'être vraiment maladroit",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 6.3,
+  "source_url": "https://www.fiches-auto.fr/essai-mercedes/essai-576-test-complet-mercedes-gle-coupe.php",
+  "scrape_timestamp": "2026-01-31T23:32:23.522249",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

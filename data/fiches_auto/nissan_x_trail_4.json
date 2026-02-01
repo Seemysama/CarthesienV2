@@ -1,0 +1,132 @@
+{
+  "marque": "Nissan",
+  "modele": "X TRAIL 4",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Confort de suspension très travaillé, avec un amortissement feutré qui absorbe quasiment tout",
+    "mais sans tomber dans la suspension trop mollassonne, le compromis est ici très",
+    "Insonorisation bluffante pour la catégorie, double vitrage sur certaines versions et filtrage soigné des bruits de roulement",
+    "Agrément mécanique très doux, sans à-coups, avec un couple immédiat qui donne un vrai confort d'usage",
+    "à condition que vous conduisiez calmement. Car cela devient un défaut lorsque l'uto",
+    "est menée par un conducteur au tempérament plus trempé (ou qui veut vraiment",
+    "Comportement stable et prévisible même si l'ensemble reste peu enclin à hausser",
+    "Version e 4orce très convaincante en matière de motricité, surtout sur chaussée humide ou enneigée",
+    "Habitacle qui donne très bonne impression même si quand on creuse et qu'on",
+    "regarde dans le détail c'est moins rutilant. Globalement ça reste très propre et",
+    "soigné (attention, certaines de mes photos magnifient les choses, et il faut",
+    "avant tout regarder celles qui sont faites en extérieurs et qui mettent en",
+    "Gabarit assez contenu malgré ce qu'il laisse penser",
+    "Modularité bien étudiée avec dossier 40/20/40 (pas de série attention) et",
+    "E pedal efficace en ville, permettant une conduite à une seule pédale (conduite",
+    "Relances très correctes grâce aux 330 Nm du moteur électrique disponibles quasi instantanément",
+    "Fiabilité favorisée par le fait qu'il n'y a pas de transmission physique entre",
+    "Ergonomie générale qui n'est pas passée au tout tactile, cela plaira à la",
+    "clientèle plus âgée et conservatrice de manière générale"
+  ],
+  "defauts": [
+    "Choix limité de moteurs (en gros pas de choix ..), d'autant plus que c'est la",
+    "même chose avec la transmission qui ne plaira pas à tout le monde",
+    "Consommation moyenne pour un hybride, surtout sur autoroute où elle grimpe facilement,",
+    "Comportement équilibré et très sain mais quand même forcément un peu plan plan ...",
+    "Centre de gravité élevé, certaines versions assez lourdes et garde au sol de 21",
+    "cm tout de même. Un Tesla Model Y de même dimensions n'offre par exemple pas du",
+    "Direction un peu trop légère et peu informative à rythme soutenu (en revanche",
+    "Tarifs élevés, avec une montée en gamme qui se paye cher",
+    "Assemblages de bon niveau mais qualité des matériaux qui n'est pas aussi bonne",
+    "que la première impression vous donne. En gros les matériaux sonnent un peu",
+    "creux, sont durs et ils sont peu résistants face aux rayures.",
+    "Technologie e Power particulière, régime moteur parfois décorrélé des sollicitations",
+    "quand on accélère franchement et ça consomme beaucoup sur autoroute à vitesse",
+    "Pas de frein moteur quand la batterie est pleine, très problématique en",
+    "montagne surtout qu'elle se remplit vite. Un souci commun à l'E Tech de Renault",
+    "Coffre décevant en 7 places (485 litres), bien en dessous des concurrents directs",
+    "7 places uniquement disponibles sur les versions 4x4, et encore en option ...",
+    "Troisième rang très symbolique, utilisable seulement par des enfants et pour de courts trajets.",
+    "Mais ce défaut consiste à enfoncer une porte ouverte car c'est à peu près tout",
+    "Accès à la 7e place limité par l'espace réel (il ne fait que 4.68 mètres",
+    "rappelons le), ouverture théorique un peu optimiste selon les gabarits",
+    "Nombre de rangements assez limité, dommage pour ce type de voiture familiale",
+    "Infodivertissement qui reste assez limité pour l'époque, bien que l'image soit",
+    "belle, colorée et fine. C'est pas le pire mais l'ensemble n'est pas non plus",
+    "Tactile parfois peu réactif, navigation de menus nécessitant plusieurs appuis"
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [
+    {
+      "annee": 2015,
+      "ventes": 8200
+    },
+    {
+      "annee": 2016,
+      "ventes": 10600
+    },
+    {
+      "annee": 2017,
+      "ventes": 10700
+    },
+    {
+      "annee": 2018,
+      "ventes": 6200
+    },
+    {
+      "annee": 2019,
+      "ventes": 100
+    },
+    {
+      "annee": 2020,
+      "ventes": 100
+    },
+    {
+      "annee": 2021,
+      "ventes": 100
+    },
+    {
+      "annee": 2022,
+      "ventes": 100
+    },
+    {
+      "annee": 2023,
+      "ventes": 5500
+    },
+    {
+      "annee": 2024,
+      "ventes": 100
+    },
+    {
+      "annee": 2025,
+      "ventes": 100
+    }
+  ],
+  "total_ventes": 41800,
+  "pannes_recurrentes": [
+    {
+      "description": "lorsque l'uto \r\nest menée par un conducteur au tempérament plus trempé (ou qui veut vraiment \r\nexploiter les 200 ch)Comportement stable et prévisible même si l'ensemble reste peu enclin à hausser \r\nle",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "commun à l'E Tech de RenaultCoffre décevant en 7 places (485 litres), bien en dessous des concurrents directs7 places uniquement disponibles sur les versions 4x4, et encore en option",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "consiste à enfoncer une porte ouverte car c'est à peu près tout \r\nle temps le casAccès à la 7e place limité par l'espace réel (il ne fait que 4",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 7.5,
+  "score_global": 5.9,
+  "source_url": "https://www.fiches-auto.fr/essai-nissan/essai-767-test-complet-nissan-x-trail-4.php",
+  "scrape_timestamp": "2026-01-31T23:35:15.964947",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

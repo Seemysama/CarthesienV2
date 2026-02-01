@@ -1,0 +1,117 @@
+{
+  "marque": "Mazda",
+  "modele": "CX 5",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Habitabilité arrière assez généreuse pour la catégorie",
+    "Comportement routier très bon, comme souvent chez Mazda. N'en  attendez pas non plus le grand frisson, cela reste un SUV haut sur  pattes et avec les petites jantes le roulis est bien présent (mais la tenue de route reste de très bon niveau)",
+    "Confort appréciable même si l'amortissement reste rigoureux pour éviter  que la caisse ne vacille trop, donc ce n'est pas la plus moelleuse de la  catégorie",
+    "Garde au sol suffisamment généreuse pour s'aventurer sur des chemins  chaotiques",
+    "Fiabilité Mazda même si les diesels ont eu un gros soucis jusqu'à fin  2013 (voir page fiabilité)",
+    "Stratégie moteur qui met de côté le downsizing (attendez vous donc à des  consommations NEDC indiquées plus réalistes), merci le Skyactiv qui utilise  systématiquement l'injection directe couplée à un taux de compression élevé",
+    "Moi j'aime le cx5 2016 moteur 2.5 skyactiv",
+    "Bonne tenue de route.Bon équilibre de conduite, même en conduite appuyée.Confort très agréable pour les longs trajets de plus de 6h.Un système AWD efficace sur neige même avec des pneus été (typés SUV)",
+    "Voiture polyvalente effet haute gamme",
+    "Bonne voiture jusqu'à que le moteur ne casse...!!!",
+    "Confortable, système de son , éclairage",
+    "Aucun problème depuis mon achats",
+    "Bonne quatie de suspension",
+    "Souple / confortable",
+    "Très bel intérieur (avec les sièges en cuir blanc).Très bonne sono.Bien insonorisé.",
+    "Agrément général Confort Consommation mesurée Fiabilité",
+    "Confort de conduite",
+    "Bonne tenue de route",
+    "ConfortEspaceTaille du coffre",
+    "Ligne, conduite réactive de la boite auto, pas d'à coups",
+    "Habitalité\r\nConfortEspaceTaille du coffre"
+  ],
+  "defauts": [
+    "Fiabilité décevante pour une Japonaise (et même d'une manière générale)",
+    "Présentation / finition pas très emballantes  même si il n'y a aucune grosse fausse note (un peu mieux après le restylage sans  toutefois bouleverser les choses)",
+    "Visibilité de trois quarts arrière moyenne",
+    "Le défaut c'est air climatisé à sauter",
+    "Fiabilité du moteur dieselFiabilité du différentiel arrièreCapot qui vibre",
+    "Consommation pneumatique + frein",
+    "Probleme de demarrage en deux ou trois temps",
+    "Fiabilité . Il est à moitié normal qu a 75000km et 6 ans le pont ar soit a changer",
+    "Moteur, peinture,",
+    "Fiabilité moteur",
+    "Fiabilité :Passe énormément de temps chez le garagiste",
+    "Consomme un peu ...",
+    "Gros problème de fiabilité (Mazda, ce n'est plus ce que c'était).Peinture fragile (c'est l'horreur de constater que la capot est recouvert d'éclat de peinture).Révision chère (cela doit dépendre des concessions, mais à Dijon, ils sont chers).",
+    "Peinture fragile aux impacts de gravillons",
+    "Insonorisation moyenne",
+    "Fiabilité \rConsommation Finition",
+    "Fiabilité, culasse fissurée pour 180 000 Kms et 9 ans d'ancienneté avec entretien régulier en concession. Aucune prise en considération, aucun geste commercial, 8000 euros de frais. Une marque qui ne sait plus faire de moteur ....",
+    "Tous les autres défauts"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection2.0 Skyactiv-G 160 ch2.0 Skyactiv-G 165 ch2.2 Skyactiv-D 150 ch2.2 Skyactiv-D 175 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 2.0
+    }
+  ],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "depuis mon achats  (2",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "c'est air climatisé à sauter  (Préciser le moteur ici 267",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "fiabilité (Mazda, ce n'est plus ce que c'était)",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "pompe à huile (baisse de pression) + arbre à came +Turbo2",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "avait été signalé plusieurs fois en concession",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "au bout de 60 km",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "lors du dépassement d'un camion",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "soupapes variablesDifférents châssis selon les puissances moteurPlateforme Jaguar E-Pace (PTA)Que penser de la BMW X2 18i 140Fiat panda cult  1",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 6.1000000000000005,
+  "score_global": 4.5,
+  "source_url": "https://www.fiches-auto.fr/essai-mazda/essai-571-test-complet-mazda-cx-5.php",
+  "scrape_timestamp": "2026-01-31T23:34:29.870058",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

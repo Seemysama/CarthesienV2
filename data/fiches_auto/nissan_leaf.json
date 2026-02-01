@@ -1,0 +1,51 @@
+{
+  "marque": "Nissan",
+  "modele": "LEAF",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Très bonne fiabilité dans la durée grâce à une conception sérieuse et son moteur  à aimant permanent",
+    "Style qui vieillit bien, l'auto ne paraît pas faire son âge  (surtout en phase 2)",
+    "Une des voitures électriques les moins chères du marché en  occasion, et en plus elle offre de l'espace à bord",
+    "Intérieur blanc des premières  versions (phase 1) qui égaye l'auto",
+    "Présentation relativement originale et  futuriste",
+    "Confort de suspension très appréciable, et cela est encore accentué  par les sièges qui sont eux aussi très agréables et moelleux (sans trop  s'avachir et s'affaisser non plus)",
+    "Nissan Connect EV à partir de la version  restylée qui permet de se connecter à distance à son auto et même d'avoir un  planificateur de trajet !",
+    "Très bonne accessibilité au poste de conduite, l'auto  un peu surélevée (mais pas trop) permet de monter à bord d'une manière très  facile (si vous êtes fragile du dos ou âgé vous serez ravi)",
+    "Habitabilité au  deuxième rang très bonne",
+    "Pompe à  chaleur sur toutes les versions sauf l'entrée de gamme Visia",
+    "Véhicule agréable à conduire quand elle roule.",
+    "Elle convient parfaitement pour une utilisation en grande banlieue parisienne. Elle est toujours disponible, jamais de panne. Les plus mise en route du chauffage à distance en hiver, ce qui est appréciable pour entrer dans une voiture dégivrée et chaude. J'aurais dû prendre l'option sièges chauffants en plus. Les autres options du modèle Acenta sont très bien. Elle est devenue notre première voiture, surtout le week-end.",
+    "Très satisfait de l'agrément de l'électrique pendant de 4 ans."
+  ],
+  "defauts": [
+    "Gestion thermique de la batterie assez limitée, ce qui accélère l'usure de la  batterie (que la chaleur abime en cas de conduite dynamique ou lors des charges  rapides), limite son efficacité dans le froid et empêche parfois de charger à  pleine vitesse sur borne \"rapide\" (les guillemets sont là pour indiquer que la  charge rapide sur Leaf n'est pas ultra rapide justement ...). Notez toutefois  que cela est un poil compensé par une jauge de température de la batterie (pas  courant sur une électrique, sans jeu de mots) qui vous permet de gérer vous même  les choses et d'avoir un oeil sur le niveau de chaleur",
+    "Tailles de batteries  justes, et cela est aggravé par la perte liée au vieillissement lors d'un achat  en occasion",
+    "Charge rapide par CHADEMO, une prise vraiment pas très courante sur  les chargeurs publics",
+    "Charge en AC de 6.6 kW seulement, 11 auraient été plus  convaincants pour charger en ville (chargeurs AC généralement)",
+    "Agrément châssis  limité, c'est une auto qui reste très conventionnelle au niveau ressenti,  n'attendez pas de prendre du plaisir (bien que la propulsion électrique offre un  agrément mécanique de haut niveau, mais c'est un autre sujet)",
+    "Forme du coffre  pas géniale, pas très carré et très profond (avec un seuil de chargement haut).  De plus il n'est pas non plus immense ...",
+    "Intérieur sombre et triste à partir de  la phase 2",
+    "Qualité de finition assez sommaire même si sur certains aspects ce  n'est pas si mauvais que ça ... C'est bien assemblé mais les matériaux sont  vraiment peu valorisants .. Ils ont toutefois le mérite d'être assez résistants  tout en vieillissant de manière honnête",
+    "Visibilité un peu pénalisée par les  montants épais ainsi que par l'engoncement du conducteur (placé loin du pare  brise)",
+    "Beaucoup de bips pour pas grand chose6Pas de charge rapide à 50 kW sur la  version de base Visia",
+    "Direction à assistance hydraulique et non pas 100%  électrique, un peu moins bon en terme de durabilité (et sur une électrique avoir  de l'hydraulique ça fait quand même mal au coeur)",
+    "Fiabilité catastrophique sur la mienne, délais de réparation",
+    "L'autonomie est plutôt de 200 kilomètres, pas les 250 annoncés, même avec une conduite éco. (Mais je m'attendais à cela). Je n'ai pas eu besoin de faire de très longs trajets, donc je ne peux pas donner de retour à ce sujet.",
+    "L'autonomie de la voiture électrique a progressivement diminué, passant de 200 kilomètres à environ 150 kilomètres. De plus, après 5,5 ans et 68000 kilomètres, le module de batterie a soudainement lâché en plein trajet, ce qui a été très dangereux. La garantie n'a pas couvert cette panne, et j'ai dû débourser 2650€, même si on m'a fait un \"geste commercial\". Cette expérience m'a fait perdre toute confiance en la voiture et dans la marque."
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [],
+  "score_fiabilite": 8.0,
+  "score_global": 6.4,
+  "source_url": "https://www.fiches-auto.fr/essai-nissan/essai-728-test-complet-nissan-leaf.php",
+  "scrape_timestamp": "2026-01-31T23:34:43.876425",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

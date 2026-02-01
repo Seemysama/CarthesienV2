@@ -1,0 +1,88 @@
+{
+  "marque": "Seat",
+  "modele": "LEON",
+  "generation": "4",
+  "nb_avis": 4,
+  "scores_moyens": {
+    "confort": 3.0,
+    "consommation": 4.0,
+    "securite": 3.5,
+    "habitabilite": 4.0
+  },
+  "scores_moyens_sur_10": {
+    "confort": 6.0,
+    "consommation": 8.0,
+    "securite": 7.0,
+    "habitabilite": 8.0
+  },
+  "avis": [
+    {
+      "avis_id": "Collecte_4453287",
+      "note": 4.0,
+      "titre": "Avez-vous trouvé cet avis utile ?",
+      "avantages": null,
+      "inconvenients": "Moteur un peu faiblard (1,5l etsi 150cv)\rTechnologie embarquée (il y en a un peu trop)\rConsommation \rTaille du réservoir",
+      "auteur_hash": "35298781dc6efb3d",
+      "date_avis": "juillet 2024",
+      "annee_vehicule": "juillet 2024",
+      "carburant": "Essence",
+      "boite": "Automatique",
+      "motorisation": "1.5L - 150 ch",
+      "source_url": "https://www.avis-auto.fr/avis-seat-leon-4",
+      "scrape_timestamp": "2026-01-31T23:32:10.043362"
+    },
+    {
+      "avis_id": "Collecte_2946933",
+      "note": 1.0,
+      "titre": "Avez-vous trouvé cet avis utile ?",
+      "avantages": null,
+      "inconvenients": "Tenu de route",
+      "auteur_hash": "a6b54c20a7b96eea",
+      "date_avis": "juillet 2022",
+      "annee_vehicule": "juillet 2022",
+      "carburant": null,
+      "boite": "Automatique",
+      "motorisation": "1.4L - 204 ch",
+      "source_url": "https://www.avis-auto.fr/avis-seat-leon-4",
+      "scrape_timestamp": "2026-01-31T23:32:10.043537"
+    },
+    {
+      "avis_id": "Collecte_2113854",
+      "note": 5.0,
+      "titre": "Avez-vous trouvé cet avis utile ?",
+      "avantages": "Espace, confort",
+      "inconvenients": "Tout passe par l’écran tactile y compris la climatisation ce qui est un peu long pour changer rapidement de mode",
+      "auteur_hash": "6b0a294535855c04",
+      "date_avis": "août 2021",
+      "annee_vehicule": "août 2021",
+      "carburant": "Essence",
+      "boite": "Automatique",
+      "motorisation": "1.5L - 150 ch",
+      "source_url": "https://www.avis-auto.fr/avis-seat-leon-4",
+      "scrape_timestamp": "2026-01-31T23:32:10.043673"
+    },
+    {
+      "avis_id": "Collecte_1784236",
+      "note": 4.0,
+      "titre": "Avez-vous trouvé cet avis utile ?",
+      "avantages": null,
+      "inconvenients": "- conso en ville sur petit parcours\r- bug lié au software de \"jeunesses\" qui sont en cours de corrections",
+      "auteur_hash": "f44c4b0766fc9f08",
+      "date_avis": "mars 2021",
+      "annee_vehicule": "mars 2021",
+      "carburant": "Essence",
+      "boite": "Automatique",
+      "motorisation": "1.5L - 150 ch",
+      "source_url": "https://www.avis-auto.fr/avis-seat-leon-4",
+      "scrape_timestamp": "2026-01-31T23:32:10.043796"
+    }
+  ],
+  "source_url": "https://www.avis-auto.fr/avis-seat-leon-4",
+  "scrape_timestamp": "2026-01-31T23:32:10.043882",
+  "_source": {
+    "id": "avis_auto_fr",
+    "name": "Avis-Auto.fr",
+    "url": "https://www.avis-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

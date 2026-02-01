@@ -1,0 +1,53 @@
+{
+  "marque": "Hyundai",
+  "modele": "BAYON",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Polyvalence avec un véhicule à la fois logeable, pas trop long, pratique, sans trop tomber dans le  style utilitaire",
+    "Très bon confort de suspension même si certains confrères disent l'inverse  (difficile de comprendre pourquoi)",
+    "Bon rapport qualité / prix même si ce ne serait pas le cas si on la  positionnait dans les années 2000",
+    "Style déjà plus charismatique avec le restyklage, bien que ce ne soit pas non  plus au niveau d'une Kona (mais le Bayon cherche justement à s'approprier son  style)",
+    "Le bayon est très polyvalent et tout indiqué pour le quotidient d'une famille avec 1 ou 2 enfant(s).Motorisation adaptée au véhicule et à la cible des acheteurs/utilisateurs.Pratique en ville comme sur la route, pour de court ou long trajets.Confort et équipements appréciables pour la catégorie de véhicule et le prix.",
+    "Petit suv à prix serré et look fort en personnalité. Belle finition, le confort est bon, l'équipement complet, l'éclairage de nuit bon."
+  ],
+  "defauts": [
+    "Offre moteur très limitée même si elle vise plutôt juste",
+    "Châssis correct mais pas des plus affutés non plus, c'est ici très lisse",
+    "Version 84 ch vraiment très peu recommandable",
+    "Perte de la possibilité de la roue de secour à cause de la batterie 48V de la microhybridation. Volume de coffre adapté au quotidien ou weekend, mais insufisant pour les vacances (achat d'un coffre de toit qui a doublé la capacité).Bruits suspects anormaux non récurents et non persistents dans le moteur, mais pas de sources ou de causes identifiées à ce jour.",
+    "Le coffre est quelconque, le moteur a du mal à reprendre sur autoroute, la direction n'est pas précise, le freinage s'use prématurément, la batterie alterno démarreur c'est une catastrophe et je préfère m'arrêter là."
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection1.2 84 ch1.0 Turbo 48V / T-GDI 100 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 1.2
+    }
+  ],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "d’amortisseur arrière, plastiques intérieurs qui se rayent facilement",
+      "categorie": "suspension",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "amortisseurs arrières",
+      "categorie": "suspension",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 4.9,
+  "source_url": "https://www.fiches-auto.fr/essai-hyundai/essai-758-test-complet-hyundai-bayon.php",
+  "scrape_timestamp": "2026-01-31T23:35:19.973060",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

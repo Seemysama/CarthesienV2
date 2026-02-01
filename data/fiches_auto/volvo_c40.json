@@ -1,0 +1,55 @@
+{
+  "marque": "Volvo",
+  "modele": "C40",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Android Automotive (Google) en tant que système d'exploitation qui permet de  faire beaucoup de choses (installations d'application, commande vocale  chirurgicale et ultra polyvalente etc.) et qui garantit d'être toujours à  jour",
+    "Planificateur intégré avec Android Automotive qui se met aussi à jour sans  devoir passer en concession. Bref, on peut voyager sans trop devoir s'invertir  dans l'organisation du trajet",
+    "Style qui me paraît bien plus séduisant que le XC40 malgré leur proximité. On  a ici une ligne plus harmonieuse et des éléments de style qui le modernisent  beaucoup (et en plus le profil de goûte d'eau favorise un peu plus l'autonomie  face à un XC40 qui a en plus un pare brise avant moins incliné et donc moins  aérodynamique)",
+    "Image valorisante et pas ostentatoire comme avec les Allemandes  (parfois vulgaires même si ça tend à moins l'être). Ici c'est vraiment bon chic  bon genre",
+    "Comportement un peu plus dynamique que le XC40 dont il est issu, bien  que l'équivalent électrique soit très proche (les châssis des XC40 et C40  électriques sont remaniés)",
+    "Vitesse de  charge très honorable quelque soit la version. Certes les 130 kW de la version  69 kWh bruts peuvent paraître un peu courts de premier abord mais dans les faits  ça n'est pas vraiment handicapant lors des longs trajets",
+    "Caractéristiques  techniques concernant l'électrique qui sont dans le coup, pas de lacune à  craindre de ce côté là même si la consommation sur autoroute reste un poil  élevée",
+    "Force de régénération puissante, c'est donc très agréable à l'usage",
+    "Ergonomie liée au classique pommeau, enchainer les marche avant et arrière est donc facile et très naturel comparé à d'autres autos qui ont des molettes par exemple",
+    "Confort, presentation , puissance"
+  ],
+  "defauts": [
+    "Capacité de coffre moyenne par rapport aux 4.44 mètres de long et malgré le  hayon",
+    "Consommation un peu trop élevée sur autoroute, avec plus de 26 kWh pour  130 km/h seulement, pour le reste ça reste  plutôt correct",
+    "Intérieur triste et pas aussi qualitatif que certains veulent  bien le dire (ou le voir ..). Plus d'infos au chapitre de la vie à bord",
+    "Si  Android auto rassure, l'interface reste malgré tout triste et pas toujours très  ergonomique. De plus la qualité de l'écran du combiné digital laisse à désirer  en terme de profondeur des couleurs et du noir",
+    "Habitacle triste et trop orienté  vers le passé (faut dire qu'il date de 2017)",
+    "Ni très  dynamique ni très confortable au final (si on voit le verre à moitié vide, car  dans le sens inverse on peut dire qu'elle n'est ni inconfortable ni mollassonne  ... Bref, elle n'excelle nulle part), les XC40 en thermique (le C40 n'existe  qu'en électrique) plus légers sont un peu plus souples mais aussi un peu moins  rigolos à mener (attention, la différence reste plus mesurée que ce que cette  phrase semble dire). Chose étonnante, il n'y a pas d'amortissement piloté comme  c'était le cas avec le XC40",
+    "Pour ceux qui sont réac et ancrés dans l'ancien monde ils  leur manquera une version thermique. Je remercie toutefois Volvo de ne plus  proposer ces versions à l'agrément antique (sans vouloir titiller les anti  électriques car je sais ce que cela fait d'entendre ça quand on est contre cette  technologie, car j'en ai fait partie dans le passé)",
+    "Rétrovision assez moyenne  comme vous devez vous en douter",
+    "Conception du châssis qui est reprise d'une base  thermique contrairement à un EX30 qui est développé pour être une auto 100%  électrique seulement, on a donc des inconvénients comme un coffre riquiqui à  l'avant ou encore un tunnel de servitude au centre ...",
+    "Vitesse de pointe qui ne  me suffisent pas me concernant",
+    "Obligé d'avoir 408 ch et un tarif XXL pour profiter d'une transmission  intégrale, mais c'est un peu devenu monnaie courante avec l'électrique. On ne  peut donc plus profiter d'une version 4X4 modeste pour des raisons  utilitaires",
+    "Si le choix de la propulsion est bien pour les versions de base en  4X2 (et que je plébiscite cette configuration de manière générale), je me  demande si cela est finalement pertinent pour la clientèle Volvo qui n'est pas  du genre à vouloir conduire et accélérer comme des sourds. Et dans ce cas, la  traction aurait été plus avantageuse car elle aurait permis aux C40 de base  d'être plus efficaces et contrôlables sur les routes glissantes",
+    "Volvo qui prend un peu ses clients pour des  jambons dans la liste des  équipements, certains ne mériteraient même pas d'être  mentionnés  tellement il est normal qu'ils soient présents. Le but est de gonfler   artificiellement le sentiment d'être bien servi",
+    "Gourmand, trop perché. Cher avec l'équipement voulu."
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "boitier haute tension",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 6.1,
+  "source_url": "https://www.fiches-auto.fr/essai-volvo/essai-723-test-complet-volvo-c40.php",
+  "scrape_timestamp": "2026-01-31T23:37:48.351926",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

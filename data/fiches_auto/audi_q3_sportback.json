@@ -1,0 +1,71 @@
+{
+  "marque": "Audi",
+  "modele": "Q3 SPORTBACK",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Très bonne capacité de coffre (inchangée par rapport au Q3 classique si on omet  l'espace au dessus de la plage arrière)",
+    "Bonne modularité : banquette  coulissante, réglable en inclinaison, fractionnable en trois parties, plancher  de coffre amovible ...",
+    "Comme toujours chez les Allemands le produit propose des  caractéristiques et des options avancées : transmission intégrales, hybride  rechargeable, amortissement piloté, châssis sport ....",
+    "Confort de suspension  très honorable sur le châssis classique, un peu moins en S line bien que ça n'en devienne pas dramatique non plus",
+    "Bonne ergonomie  générale, une qualité qui se perd de plus en plus chez la concurrence",
+    "Dynamisme  plutôt convaincant en S Line avec les jantes en 19 pouces minimum (en 20 pouces  on atteint un niveau de tenue de route avancé, les 255 mm n'y étant pas  étrangers). N'attendez toutefois pas un scalpel assis sur un châssis vraiment  sportif, vous êtes prévenu ... En revanche c'est supérieur à un Q3 \"de base\"",
+    "Une  vraie ligne de SUV coupé contrairement au X2, son principal concurrent (qui ne  semble être qu'une variante assez classique du X1)",
+    "Infodivertissement qui reste  vraiment appréciable malgré les années qui passent",
+    "Version RSQ3 très  enthousiasmante avec son mythique 5 cylindres et sa transmission intégrale gérée  parfaitement (il y a du torque vectoring géré par les freins là dedans, donc pas  aussi évolué que sur les productions longitudinales mais ça le fait quand même).  Dommage toutefois que la masse soit aussi importante ... Car l'inertie se  ressent un peu en voulant aller vite en virage",
+    "Bonne impression d'espace dans l habitacle, coffre généreux mais l'inclinaison du hayon empêche le chargement de gros volumes .La sono est très correcte. Petit plaisir de conduite en mode sport;la conso reste toujours raisonnable. Bonne tenue de route en mode Dynamic.Défauts Confort très moyen ;on est beaucoup remué en ville( plaques d'egouts,ralentisseurs ,"
+  ],
+  "defauts": [
+    "Suspension qui trépide un peu sur routes abimées, et la  suspension pilotée n'arrive pas forcément à bien corriger les choses (la  souplesse n'est pas évidente en mode confort). Notez qu'en 17 pouces les choses  vont mieux (à condition de ne pas surgonfler les gommes ..)",
+    "Insonorisation du  compartiment moteur décevante",
+    "Un peu trop pépère avec le châssis de base et les  jantes de 17 pouces, on peut même dire qu'il devient un peu plan plan bien que  le comportement reste très sûr",
+    "Planche de bord qui prend rapidement un coup de vieux. Il faut dire que  les  choses évoluent très vite ces dernières années ... Les produits  deviennent très  vite obsolètes",
+    "Qualité de finition et des matériaux qui perd un  peu en superbe au fil des générations .... On compense en partie avec une  présentation plus tendance que sur l'ancien Q3 (qui était devenue complètement  désuète si on se met du point de vue du consommateur moderne influencé par les  modes)",
+    "Sonorité du RSQ3 largement pénalisée par l'excès de catalyseurs et filtre  à particules",
+    "Sonorité des moteurs essence qui casse sérieusement l'ambiance en  pleine charge. Il n'arrive pas à dissimuler sa micro cylindrée. Un problème  commun à bon nombre d'autos aujourd'hui, mais sur un Q3 Sportback ce souci est  encore plus criant de par le décalage entre ramage et plumage. Et du coup, même  si le diesel est aussi assez sonore, sa sonorité plus virile convient mieux me  semble t il",
+    "Surcoût vis à vis du Q3 classique pas vraiment justifié (et surtout  il est assez important, dans les 3000 euros). Ici on vous vend un style, car  rien ne justifie cet écart d'un point de vue technique et industriel",
+    "Suspension  sport indisponible sur hybride rechargeable",
+    "Hybride pénalisée par un poids  important, un coffre réduit et un moteur qui fait un peu de peine il faut avouer",
+    "Sur macadam). Sièges fermes. Carplay par cable;souvent des bugs. En mode kick down on a l impression que le moteur va exploser. Options très nombreuses, finitions ordinaires, habitacle triste ."
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [
+    {
+      "annee": 2021,
+      "ventes": 5400
+    },
+    {
+      "annee": 2022,
+      "ventes": 5200
+    },
+    {
+      "annee": 2023,
+      "ventes": 5600
+    }
+  ],
+  "total_ventes": 16200,
+  "pannes_recurrentes": [
+    {
+      "description": "commun à bon nombre d'autos aujourd'hui, mais sur un Q3 Sportback ce souci est  encore plus criant de par le décalage entre ramage et plumage",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "vanne pcv changement pompes a eau\r\nDéfauts : \nConsommation moyenne :  8 et 9 en ville \r\nProblèmes rencontrés :  Pompes a eau a changé tout les 40000km pcv aussi \r\nNote :  9/20\r\nPrix assurance :  1000 ",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 6.4,
+  "source_url": "https://www.fiches-auto.fr/essai-audi/essai-691-test-complet-audi-q3-sportback.php",
+  "scrape_timestamp": "2026-01-31T23:29:09.073384",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

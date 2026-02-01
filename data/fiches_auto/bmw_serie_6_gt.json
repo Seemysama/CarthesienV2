@@ -1,0 +1,63 @@
+{
+  "marque": "Bmw",
+  "modele": "SERIE 6 GT",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Moins ostentatoire que certaines concurrentes (qui peuvent alors attirer des  regards négatifs, ici on a le maximum en restant relativement discret. Mais ça  peut être un défaut pour certains ...)",
+    "Qualités de finition et présentation  vraiment convaincantes, sans oublier les nombreux  coloris et matières qui sont à disposition. C'est à la fois chic, rafraîchissant  (malgré une présentation qui reste conservatrice) et inspiré au niveau des  mélanges couleurs / matériaux",
+    "Habitabilité exceptionnelle au deuxième rang, c'est la spécialité de la GT (qui  semble avoir été conçue pour faire voyager deux couples de retraités aisés dans  le plus grand des conforts). Hélas il y a une petite déception malgré tout ...",
+    "4 roues directrices qui démultiplient son agilité  et son efficacité ! C'est bluffant même si  sentir le popotin partir façon survirage peut surprendre et même déranger  certains (on finit par s'y faire)",
+    "Suspension pneumatique enfin disponible sur les quatre roues (avant c'était  juste à l'arrière, de série pour éviter d'avoir une auto qui a les fesses par  terre quand elle est très chargée)",
+    "Peu de moteurs proposées mais ils sont au top",
+    "Suspension pneumatique de  série à l'arrière même si ça fait un bail que c'est de série sur ce genre d'auto  (et même les Ford)",
+    "Infodivertissement au goût du jour depuis le restylage",
+    "Portes sans encadrement (plus stylé que pratique toutefois)",
+    "Spacieux confortable excellente voiture à rouler.",
+    "Confort , Silence , agrement de conduite , place dans le coffre Je rentre mon velo dedans Finition siège confort advanced Eclairage feu très agréable (automatique pleinphare) Sono b&W + TV à l'arriere très qualitatif",
+    "Confort, finition, moteur et Bva, espace intérieur, tenue de route",
+    "Confort exemplaire avec la précision de conduite BMWMoteur très doux, mélodieux pour un diesel et bien rempli Qualité et équipement encore à la pointe après 5 ansHabitabilité très généreuse Véhicule inhabituel dans le paysage automobile actuel",
+    "Super routière (Pullman)très bonne finitionbeaucoup d'espace à bord (Châssis série 7)Grand coffreLigne atypiquebonnes glissades progressives sur sol mouillé"
+  ],
+  "defauts": [
+    "Perte de la double ouverture de coffre (étant propriétaire d'une 5 GT je peux  vous assurer que ce n'est pas gadget)",
+    "Perte de la banquette coulissante  (décidément, cette génération régresse pas mal)",
+    "Moins habitable au deuxième rang  que sur l'ancienne",
+    "Place arrière centrale vraiment inconfortable",
+    "Comportement sur mais qui reste  un peu pataud et balourd sur les châssis de base (d'autant plus marqué avec les  pneus limités à 245 mm à l'arrière). C'est surtout sur route mouillée qu'elle perd en sérénité",
+    "Si la  finition est au top, il est quand même un peu dommage que certains plaquages en  noir laqué fassent cheap",
+    "Volume de coffre correct mais au final il n'est pas  génial dans sa forme : trop aplati avec donc un manque de profondeur verticale  (la ligne de coupé + le seuil assez haut sont très pénalisants)",
+    "Suspension  pneumatique qui finit toujours par lâcher rapidement ... On se retrouve donc  avec les suspension en butée à attendre la dépanneuse (phénomène identique sur  toutes les voitures du marché qui carburent aux boudins pneumatiques, ils ne  sont pas conçus pour durer)",
+    "Aileron rétractable qui était loin d'être  indispensable ... C'est totalement inutile et surtout ça fait rager sachant qu'à  la place ils auraient du garder le coffre à double ouverture",
+    "Très encombrante,  on est sur le plus gros qui puisse être distribué en Europe (sauf Pick Up façon  Amarok qui sont imbattables)",
+    "Touches de bleu dans les optiques de la version  restylée très douteux",
+    "Style devenu un peu trop  consensuel, surtout au niveau de la face avant",
+    "Portes sans encadrement qui induisent une sonorité moyenne à la fermeture des portes (c'est partout pareil pour votre gouverne)",
+    "Ailerons pièce mécanique roue crantée une métal l’autre en plastique celle en plastique casse 1300¤ de réparation car bien sûr on change toute la pièce moteur + tringlerie .Tarif horaire bmw il faut arrêter il film la voiture au lieu de nettoyer la calandre par exemple qui a les ailettes motorisés et qui fini par bloquer avec les moucherons et la poussière.",
+    "Prix de l'entretien chez BMW, ils sont devenus complétement fou . Filtre à air Habitacle 320 euros.donc pour résumer une vidange et Filtre air / Gasoil + habitacle 900 euros . (ils sont fait * 3 en 4 ans). Casse tringlerie toit ouvrant (j'ai du l'ouvrir max 10 fois) à 3 ans et 18 MK(donc hors garantie) facture 1300 euros , prise en charge à 0.Jantes en 20 pouces diminuant le confort (mieux avec les pneus hiver en 18)",
+    "Encombrement et poids",
+    "Encombrement en milieu urbain Poids en usage intensif (usage inapproprié pour un tel véhicule)",
+    "Gabarit en ville rues étroites"
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "pour certains",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 6.2,
+  "source_url": "https://www.fiches-auto.fr/essai-bmw/essai-665-test-complet-bmw-serie-6-gt.php",
+  "scrape_timestamp": "2026-01-31T23:30:27.263881",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "marque": "Volvo",
+  "modele": "EX30",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Excellente ergonomie de l'auto, à la manière d'une Tesla : pas de clé (en  option hélas) ni de bouton de démarrage. Sans oublier la commande de \"boîte\" par  commodo (pour les \"anciennes\" Tesla ...)",
+    "Infodivertissement assez sérieux, c'est bien réalisé et il offre  beaucoup de fonctionnalités",
+    "Beaucoup de  rangements et tiroirs dans l'habitacle, on sent qu'il a été conçu pour servir  les occupants, et ça fait plaisir de voir des autos qui mêlent à la fois  l'esthétisme et la praticité, à l'opposé d'une Peugeot moderne par exemple (mais  pas que)",
+    "Style très réussi, l'EX30 est  définitivement très attirant",
+    "Dotation technique  (trains roulants) de bon aloi. Sans oublier qu'on est sur une base native de  voiture électrique et non pas une thermique reconvertie",
+    "En 4X2 c'est une  propulsion contrairement aux concurrentes françaises qui ont du retard",
+    "Mode One  Pedal disponible pour ceux qui aiment (et ils sont nombreux)",
+    "Petit coffre à  l'avant même si il est quand même très limité",
+    "Puissance des moteurs délivrée de  manière qui me semble plus linéaire qu'habituellement avec les électriques, à  savoir que la poussé semble plus constante tout au long de la prise de vitesse  (chez les autres ça se dégonfle plus vite). Bref, c'est très agréable",
+    "Version de  428 ch proposée, on a au moins la possibilité de s'offrir le grand frisson !  Cela a été rendu possible par la transmission intégrale, ce que vous ne  retrouverez pas chez les Français par exemple",
+    "Capacités des batteries et des  vitesses de charge compétitives. Les 153 kW de puissance pour 65 kWh de batterie  sont plutôt une bonne surprise. Notez que toutes les versions ont un temps de  charge de 26/27 minutes pour le 0 à 80%, soit parmi les bons élèves",
+    "Charge AC  qui peut aller jusqu'à 22 kW en option",
+    "Finition très sympa, bonne tenue de route. Voiture très douce et confortable.Les places arrières sont spacieuses pour le gabarit de la voiture."
+  ],
+  "defauts": [
+    "Pas de bonus écologique pour le moment, de quoi égratigner fortement les  ventes",
+    "Volume de coffre assez banal, pour ne pas dire un peu moyen",
+    "Tablette trop  petite, aggravé par sa disposition verticale",
+    "Ergonomie de l'infodivertissement  pas toujours évidente malgré une organisation qui semble claire à la base",
+    "Pas de  combiné devant le conducteur (pour ma part ça n'est pas un problème, mais pour  vous ?)",
+    "Pas de bouton physique, tout se contrôle via l'interface (pour ma part  c'est devenu une qualité mais vous êtes loin d'être nombreux à penser comme  moi)",
+    "Mauvaise visibilité des infos de conduite liée à la petitesse de l'écran",
+    "Qualité  de finition générale (qualité des matériaux) relativement décevante pour le  niveau de gamme. Il y a bien quelques éléments qui se démarquent mais le plus  gros de la matière est constitué de plastiques très rudimentaires",
+    "Pompe à  chaleur non disponible sur la petite batterie (qui en aurait le plus besoin  donc)",
+    "Quelques options malvenues, comme certains rangements dans l'habitacle par  exemple (ça aurait du être de série)",
+    "Châssis qui manque un peu de tenue en  conduite dynamique, et en gros il distille peu de plaisir (mis à part côté  confort avec un bon compromis, mais n'espérez pas une auto bien posée au sol et  campée sur des ressorts courts)",
+    "Freinage régénératif léger sur les deux roues  motrices, un peu mieux sur la Performance sans toutefois exceller",
+    "Commandes de  lève vitres au milieu qui n'est pas apprécié de tous et qui rappellent les  années 80/90, là où c'était assez courant",
+    "Consommations qui déçoivent un peu à  allure autoroutière, étrange car on est sur une conception moderne",
+    "Fiabilité du  planificateur moyenne, à savoir le pourcentage d'arrivée anticipé",
+    "Versions 4X2  propulsion qui rendent les choses difficiles quand la route devient très  glissante (contrairement à une traction)",
+    "Pas de bouton de mise en marche/arrêt, tout passe par l'écran central et la clé sans bouton.Même l'ouverture de la boite à gant !Cela n'a aucun intérêt et c'est très déroutant.Il ne faut surtout pas tomber en panne d'écran.La voiture reste en route lorsque vous la quittez seuls l'éloignement et la fermeture automatique l'éteindra. C'est étrange comme logique.Visibilité avant très moyenne.Option de bip de dépassement de la vitesse limite permanent. Il faut à chaque fois entrer dans le menu pour la retirer.Toutes les informations dont la vitesse sont sur l'écran central. Votre regard doit donc dériver sur la droite."
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "d'écran",
+      "categorie": "electronique",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "une propulsion, il était nécessaire  de lui conférer un essieu [",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 6.2,
+  "source_url": "https://www.fiches-auto.fr/essai-volvo/essai-735-test-complet-volvo-ex30.php",
+  "scrape_timestamp": "2026-01-31T23:37:50.349644",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

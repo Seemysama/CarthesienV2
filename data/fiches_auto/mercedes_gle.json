@@ -1,0 +1,105 @@
+{
+  "marque": "Mercedes",
+  "modele": "GLE",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Très grand coffre (sauf hybride), le GLE a de quoi accueillir pas mal d'affaires  ...",
+    "Confort qui reste au top et qui surpasse BMW et Audi (l'Airmatic y joue un  grand rôle)",
+    "Agrément de conduite à défaut d'être sportif",
+    "Style plus réussi que  le ML grâce à la réfection de l'avant. En revanche, l'arrière reste toujours un  peu moyen ...",
+    "Qualité de finition plus soignée avec notamment une présentation  plus moderne même si il n'y a rien de révolutionnaire par rapport au ML",
+    "Ecran multimédia bien plus grand qu'avant",
+    "BVA 9 qui fait toujours plaisir même si ce n'est pas  une boîte très sportive. En tout cas elle réagit mieux et plus vite que la 7G Tronic, ce qui représente un progrès appréciable",
+    "Apparition  d'une version deux roues motrices (propulsion) qui permet d'abaisser les coûts  et les consommations (malus écologique)",
+    "Hybride qui a un 6 cylindres, ce qui  n'est pas souvent le cas ...",
+    "Train arrière favorisé sur les 63AMG (jusqu'à 60%)",
+    "Pack On&Offroad plutôt évolué, avec notamment des affichages indiquant l'inclinaison de l'auto façon Land Rover",
+    "Confortable, et silencieuse",
+    "Moteur puissant, silence à bord meme en thermique.vignette crit'air1",
+    "Grand confort basé sur le silence et les suspensions pneumatiquesEnorme réserve de puissance 258 CV avec le 350dConsommation raisonnable en conduite coulée 8,5l sur 40 000 kms4Matic efficace sur terrain forestier boueuxGrand volume intérieur Respire le costaudSAV haut de gamme en concession accueil, service, devis,",
+    "-Confort \"Pullman\" exceptionnel - Esthétique équilibré - finition remarquable en version Fascination...Après avoir déjà eu le modèle ML 350 CDI pack sport,version 2010 qui m'a donné entière satisfaction, j'ai opté pour le GLE 500e hybride. Le véhicule est très plaisant et procure des sensations inégalables. Son look encore amélioré (ext.et int.)lui confère son bel équilibre.- Qualité et fiabilité au rendez-vous.",
+    "Confort, couple, visibilité.",
+    "Faible consommation 8,1 l/100 de moyenne, voir 0 si on recharge la batterie pour se rendre au boulot à 28 Kms Une puissance surprenante et une très bonne tenu de route.Sur neige, avec en plus la possibilité de la surélever, c'est que du bonheur.Tres confortable, en toutes circonstances, sur route et autoroute."
+  ],
+  "defauts": [
+    "Comportement un peu pachydermique à défaut d'être mauvais et mal équilibré. Il se rattrape sur l'agrément en conduite coulée et propose bien mieux sur les 63 AMG qui profitent de jantes géantes associées à des trains roulants perfectionnés (pilotés, pneumatiques avec une barre antiroulis active)",
+    "Version deux roues motrices  qui choisit la propulsion, génial sur le sec mais très moyen sur route enneigée  ...",
+    "Version hybride très lourde et peu dotée au niveau coffre",
+    "Style qui reste  perfectible, surtout face à un ML de deuxième génération qui était juste parfait  pour l'époque. Difficile de passer après lui !",
+    "Certains n'aiment pas  l'intégration de l'écran (flottant), mais personnellement je trouve cela pas mal  du tout",
+    "Pourquoi changer un nom qui a acquis une grande notoriété au fil des ans  ? La refonte de la gamme (et sa cohérence) en est la raison mais tout de même,  sacrifier le légendaire ML en valait il le coup ?",
+    "On aurait pu espérer 265 ch sur le diesel puisque c'est normalement la puissance du 3.0 Mercedes",
+    "Les beeper de stationnement pas pratiques car commencent à biper des dès 80 cm donc ils ne servent pas à grand choseÉcran GPS non tactile. Cartes de mise à jour peu complète",
+    "Pas faite pour la conduite sportive à cause du poidsSAV assez cher mais qui maintient la valeur du véhicule",
+    "- Différence abyssale entre les consommations annoncées par Mercedes (moyenne totale de 3,7 litres/100km (!!) et la simple réalité d'utilisateur qu'on ne peut que constater avec déception, soit entre 10,5 litres à 12,5 litres sur route/autoroute, à fortiori en respectant parfaitement les vitesses et en conduisant de surcroît avec \"un oeuf sous le pied\" selon l'expression ! - GPS, de belle taille et élégant, mais non tactile ! Son utilisation est fastidieuse et c'est fort dommage. Il n'a pas progressé de beaucoup en 8 ans ! Mais il semblerait que les choses aient enfin évolué depuis 2019 - réduction impressionnante du volume du coffre pour cette version hybride",
+    "Prix d’assurance",
+    "Parking sous terrains mais souvent on bénéficie des places pour recharger les véhicules électrique."
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "250d 204 ch",
+      "note_globale": 5.5
+    },
+    {
+      "motorisation": "250d 204 ch",
+      "note_globale": 5.5
+    }
+  ],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "d'être sportifStyle plus réussi que  le ML grâce à la réfection de l'avant",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "d'être mauvais et mal équilibré",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "a cause de l huile coulant sur l alternateur",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "direct, en plein carrefour, plus de courant, plus d appel de détresse, vitesses et freins bloqués, plus aucun feu de signalements même ce de détresse, TRES DANGEREUX, JE N OSE IMAGINER CETTE PANNE SUR",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "d'entretien !Fuite d'huile et gas oil assez importante",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "puissance, des ratées en accélération 250d 204 ch 11/2012, 120",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "injecteur",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 6.7,
+  "score_global": 6.0,
+  "source_url": "https://www.fiches-auto.fr/essai-mercedes/essai-562-test-complet-mercedes-gle.php",
+  "scrape_timestamp": "2026-01-31T23:32:21.553689",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "marque": "Nissan",
+  "modele": "LEAF 2",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Confort de suspension appréciable, pas forcément systématique sur les voitures  électriques lourdes et donc tarées plus dures (ca trépide toutefois à basse  vitesse, et globalement la Leaf aurait pu être un peu mieux suspendue pour à la  fois gagner en confort et en dynamisme). Notez aussi que les assises sont bien  moelleuses à l'avant comme à l'arrière (encore une fois à l'arrière les  constructeurs cherchent souvent les économies ...)",
+    "Look bien plus convaincant  que sur l'ancien modèle",
+    "Version 62 kWh relativement généreuse (56 utiles)",
+    "Sièges chauffants à l'arrière, très rare pour le niveau  de gamme (bon après ça reste anecdotique bien que sur une voiture électrique  c'est d'autant plus important : elles chauffent généralement moins vite en  raison de l'absence de moteur thermique. Il faut alors compter sur des  résistances ou pompe à chaleur selon la technologie)",
+    "Infodivertissement assez  pauvre mais qui permet quand même Apple Car Play et Android Auto",
+    "Bips de la  voiture insupportables ... Façon réveil des années 90. Usant de chez  usant",
+    "Option vue panoramique 360 degrés qui change la vie au quotidien  (stationnements et manoeuvres). Mais attention, l'image rendue est très moyenne  en terme de qualité (définition et couleurs)",
+    "Sonorité permettant d'alerter les  piétons très bien choisie, à la fois audible mais très discrète (on peut donc  prévenir de notre présence sans être pénalisé par une pollution auditive  désagréable)",
+    "Frein moteur de l'e Pedal permettant de freiner l'auto jusqu'à  l'arrêt, et plus généralement on a 3 niveaux de récupération possibles (plus ou  moins forts donc)",
+    "Autopilot disponible bien qu'il reste assez rudimentaire  (combinaison du régulateur adaptatif et du maintien dans la ligne)",
+    "Conduite en  hauteur, bien pour ceux qui passent beaucoup de temps dans les bouchons (moins  pour celui qui aime emprunter des petites routes pour se faire plaisir, mais de  toute manière rien n'invite à attaquer avec cette Leaf)",
+    "Moteurs électriques très  volontaires (remarque qu'on pourrait faire à quasiment toutes les électriques je  sais bien ...)",
+    "Habitabilité honorable bien qu'elle soit souvent critiquée   ...",
+    "De mars 2021 a novembre ,frais d'entrerien....un train de pneu avant c'est tout,revision annuelle 100 eurosagrement de conduite, e-pedale, confort, technologie embarquée, fiabilité",
+    "Voiture très confortable et super équipée - sièges avant et arrière chauffant et même le volant. - La pompe à chaleur très efficace été comme hiver.- L'intégration avec Google CarPlay- beaucoup de place pour les passagers - grand coffre, plus de 400L- rare véhicule avec une roue de secours (galette)Moteur très coupleux, au top en montagne, été comme hiver. L'indicateur d'autonomie restante est facile à utiliser.Très bonne fiabilité globale, juste une géométrie à corriger au contrôle technique. La batterie n'a perdu qu'un seul kWh en 4 ans soit 38->37.Usure des pneus faible malgré conduite en montagne.",
+    "Silencieuse performante confortable",
+    "RepriseAutonomie du quotidien largement suffisanteSon Bose très bonPossibilité d'ouvrir uniquement la portière conducteur plutôt que toutes les portes avec un appui simple",
+    "Voiture très confortable, grand coffre, tbon rapport qualité prix.",
+    "Voiture fiable, beaucoup d'option de conduite et de paramétrage possiblerechargée avec mes panneaux solaires (sauf hiver) , ce qui est cool",
+    "Autonomie jusqu'à 270 km comme annoncée si on roule éco en été / 240 km en pratique / 210 km en hiver froidmode e-pédale super en ville, plus besoin de pédale de frein sauf en cas d'urgence.accélération équivalente à celle d'une GTI.système audio avec USB, bluetooth, apple carplay et android autoéconomie de plus de 60% en consommation par rapport à un diesel consommant 6 litres au 100 (varie selon prix électricité et gasoil Evidemment)",
+    "Système de récupération par e-pedale perturbant au début mais excellent à l'usage. Très bien équipée en assistance de conduite. Conso moy avec clim quasi permanente (ile de la Réunion) 17 kWh/100 km. Confort intérieur moyen plus.",
+    "Confort, fiabilité et consommation.Bien équipé de base.Finition très correctGrande place et coffre de bonne taille.",
+    "Agrément de conduiteCout a l'usage dérisoire comparé à une voiture thermiquePerformance en accélération (mais ce n'est pas une tesla)Bonne tenue de routeSpacieuse",
+    "Facile à conduire, suffisamment puissante, le mode pédale est très agréable plus besoin de freiner, elle s'arrête complètement.Confortable, silencieuse, plus grande qu'une Zoé, j'aime bien son look.Les sièges son chauffants ainsi que le volant.Défauts Pleins de",
+    "ConfortPlaisir electrique(silence couple) Pas cher à l utilisation. Autonomie suffisantePlein d options"
+  ],
+  "defauts": [
+    "Refroidissement de la batterie par air, ce qui est un peu trop précaire pour  éviter les surchauffes lors des recharges rapides (et donc puissantes) ou encore  quand on tape trop dedans (conduite intensive : on a donc moins de puissance  disponible car le calculateur tente de limiter l'effet Joule au niveau de la  batterie). Le problème est que ça dégénère à partir de 50 degrés au niveau de la  batterie, et on y arrive très vite (en été je ne vous en parle même pas).  Privilégiez la 62 kWh pour limiter le phénomène, car l'effet Joule se répartit  alors sur une plus grande surface d'accumulateurs (on a donc plus de temps avant  la surchauffe)",
+    "Recharge rapide via prise Chademo et non CCS comme ça devrait  être le cas (bon, avec des adaptateurs on finit par oublier ce défaut)",
+    "Recharge  rapide pas si rapide : 50 kW sur l'ensemble des versions (Nissan avait laissé  espérer 100 kW sur la 62 kWh mais au final non ...)",
+    "Peu d'informations  disponible sur l'interface utilisateur (puissance de recharge en cours, infos  avancées de consommation etc.). Pire si vous êtes pénalisé par une surchauffe  lors d'une supercharge, ça ne marche pas sans qu'il n'y ait d'alerte sur la  raison du problème (pourtant le calculateur sait bien qu'il y a surchauffe  puisqu'il coupe le contact)",
+    "Architecture technique qui commence à dater un peu,  avec en l'occurrence un moteur électrique placé à l'avant et non à l'arrière",
+    "Finition  et présentation peu enthousiasmantes ... La présentation est trop orientée vers  le passé (très sombre en plus) et la qualité de finition reste très quelconque  (pas de plastique moussé et éléments de ci et de là semblant appartenir aux  années 80). Bref, si il n'y a rien de catastrophique, on peut quand même  rétorquer qu'il y aurait pu y avoir un peu plus d'inspiration à bord d'une auto  qui innove au niveau groupe motopropulseur (on peut même dire que la première  Leaf était un peu plus ambitieuse en terme de présentation)",
+    "Tunnel de servitude  (et non pas transmission donc) qui vient gêner les passagers arrière. Sur une  électrique c'est moins pardonnable",
+    "On aurait pu espérer un peu plus de volume de  coffre bien qu'on ait malgré tout quelque chose qui reste assez consistant il  faut l'avouer",
+    "Forme du coffre un peu moyenne (on dirait presque une  baignoire)",
+    "Position de conduite moyenne, on est loin de  faire corps avec la machine même en prenant le temps de bien régler la chose (le  fait que le volant ne se règle pas en profondeur réduit les possibilités ...).  Le fait qu'elle soit perchée assez haut n'aide pas non plus",
+    "Comportement  sécurisant mais pas ludique, ça se mène avec tranquillité donc ... La suspension  ne semble pas non plus être ultra bien mise au point, l'auto aurait donc pu être  mieux suspendue en gagnant à la fois en confort et en  efficacité",
+    "Infodivertissement daté à sa sortie : lent, image moyenne et charte  graphique douteuse",
+    "Nissan communique des valeurs de batterie non utiles ...  Bref, chez Nissan 62 kWh = 56.5 kWh et chez Kia 64 kWh = 64 kWh (ils  communiquent sur ce que le client peut exploiter sans prendre en compte la  réserve de secours / de préservation de la batterie)",
+    "Pas de possibilité de  tracter quoi que ce soit",
+    "Diamètre de braquage très moyen, et en utilisation  urbaine ça peut parfois coincer",
+    "Pneumatiques d'origine peu convaincants en terme de tenue de route",
+    "Position de conduite,mais on s'y fait,autonomie,180km en hiver,200 en ete,perso ca me suffit, l'autonomie chute sur autoroute",
+    "Entretien constructeur entre 150 et 200¤ ... Alors qu'ils ne font rien sur le véhicule.Autonomie à 130km/h ridicule à cause du mauvais rendement moteur et de l'aérodynamique. Roulez à 110 !Le véhicule est très long à cause d'énormes porte-à-faux avant et arrière.Pas de capacité de remorquage.En 2024, le coût de l'assurance a pris 30% !",
+    "Décote argus trop forte pour une voiture payée neuve 44000 euros",
+    "Espaces perdus qui auraient pu être des rangementsManque un accoudoir central à l'arrièreClimatisation mal programmée, chauffe parfois en intersaison lorsqu'il faudrait légèrement refroidirImpossible de faire plus d'une charge rapide dans la demi-journée car surchauffe de batterieInstabilité Android autoChademo en 2018 ?!Ouverture et fermeture sans clé mais nécessite d'appuyer sur un bouton sur la portière",
+    "La batterie commence à être juste au vue de la concurrence.",
+    "Train avant bruyant, peu précisconfort moyen (je suis habitué aux grosses berlines)",
+    "Livrée avec pneus été, des mixtes auraient été préférables.obligation de redémarrer pour remonter les vitres quand on vient d'arrêter la voiture.alarme sonore désagréable et non désactivable (mais utile pour ne pas oublier de couper le contact en l'absence de bruit moteur)qualité de la sono très moyenne (hauts parleurs de mauvaise qualité ou bien mauvaise qualité de leur installation)tissu noir sur les poignées intérieures de porte qui a tendance à se salir et peut-être s'user (à vérifier dans quelques années)insonorisation moyenne sur gravillons par exemple",
+    "Consommation nulle, pour une charge à 280 km je peux faire que 150km et en roulant à 70/80km/heures.",
+    "Accoudoir central trop court."
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "est que ça dégénère à partir de 50 degrés au niveau de la  batterie, et on y arrive très vite (en été je ne vous en parle même pas)",
+      "categorie": "electronique",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "(pourtant le calculateur sait bien qu'il y a surchauffe  puisqu'il coupe le contact)Architecture technique qui commence à dater un peu,  avec en l'occurrence un moteur électrique placé à l'avant et no",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "peut-être l'accoudoir avant trop court\nAutonomie moyenne :  14kwh au 100\nProblèmes rencontrés :  aucun\nNote :  17/20\nPrix assurance :  320 euros/an (Assureur : axa) (type de contrat : tous risque) (Bo",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "550 litres  le jour où il faut charger un peu plus qu'à l'habitude, même si il faut rester  vigilant sur les objets du dessus qui peuvent se transformer en projectiles en  cas d'accident",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 6.9,
+  "score_global": 6.0,
+  "source_url": "https://www.fiches-auto.fr/essai-nissan/essai-664-test-complet-nissan-leaf-2.php",
+  "scrape_timestamp": "2026-01-31T23:34:45.921974",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

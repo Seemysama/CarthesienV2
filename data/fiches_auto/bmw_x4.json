@@ -1,0 +1,45 @@
+{
+  "marque": "Bmw",
+  "modele": "X4",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Qualité de finition excellente bien qu'un plastique dur et brillant de mauvaise  qualité s'invite à pas mal d'endroits, notamment le levier de boîte auto. Ca  sonne aussi un peu creux, et donc si c'est bien réalisé on sent que ça reste  quand même léger (typique des voitures modernes)",
+    "Choix riche de coloris et  matériaux dans l'habitacle",
+    "Comportement avec châssis M Sport qui permet de  prendre du plaisir à son volant en conduite dynamique (n'attendez pas le nirvana  non plus en étant perché aussi haut, mais ça reste fichtrement efficace). Plus  d'infos au chapitre du comportement",
+    "Position de conduite placée volontairement  très haut, bien pour les citadins accoutumés des bouchons, moins pour les autres  ...",
+    "Très bonne habitabilité et coffre malgré le profil de coupé. En réalité  c'est la même chose ou presque qu'un X3, ne manque ici que l'espace au dessus de  la plage arrière (qu'on utilise finalement que trop rarement)",
+    "Motorisations,  comme tout le temps chez BMW même si ici on régresse un poil vis à vis de l'ancien (de  manière anecdotique je veux bien le concéder, le downsizing avait déjà bien été  entamé sur le modèle précédent)",
+    "Infotainement enfin à la page à partir de  2020",
+    "Assez rare dans les rues, il semble être plus  exclusif que le modèle précédent",
+    "Allure des modèles M40i/40d et surtout X4M"
+  ],
+  "defauts": [
+    "Significative précarité des pneumatiques sur les versions d'entrée de gamme 18  pouces en terme de largeur (le coeur du coeur de gamme ...). La tenue de route  en prend un coup ... De plus, le dynamisme reste relatif sur les versions les plus modestes",
+    "Position de conduite un peu trop élevée pour mettre en  valeur les sensations en conduite sportive",
+    "Style forcément attirant bien qu'il  ne me paraisse au final pas aussi parfait que cela. Les optiques arrière  manquent d'aboutissement pour paraître vraiment qualitatifs (idem pour Série 3  et même 4), et ce design n'est finalement pas aussi subtil et charismatique que  ce que BMW nous proposait par le passé. Enfin, les proportions induisent une  sorte de sentiment étrange, à savoir que l'avant et l'arrière semblent faire  chacun partie d'une voiture différente, la cohérence n'est pas parfaite il me  semble. Bon, au final je n'aurais pas imaginé parler de son style dans les  défauts, mais il faut avouer que derrière cette belle robe il y a malgré tout  des petits griefs à signaler",
+    "Pas de combiné 100% digital avant le restylage, et  il n'est pas de série après ce dernier (?!)",
+    "Combiné digital pas aussi avancé que  celui d'Audi par exemple, (et pourtant il est nettement plus âgé !)",
+    "Manque de caractère de certaines mécaniques censées vous offrir quelque chose d'un minimum édulcoré (ex : 30i)",
+    "Jante de volant un peu trop épaisse sur M Sport"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection20i 184 ch30i 252 chM40i 354 chM40i 360 chX4M 480 chX4M Competition 510 ch20d 190 ch20d 48V 190 ch25d 231 ch30d 265 ch30d 48v 286 chM40d 326 chM40d 48V 340 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 10.0
+    }
+  ],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [],
+  "score_fiabilite": 8.0,
+  "score_global": 7.9,
+  "source_url": "https://www.fiches-auto.fr/essai-bmw/essai-667-test-complet-bmw-x4.php",
+  "scrape_timestamp": "2026-01-31T23:30:55.348434",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

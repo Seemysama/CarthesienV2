@@ -1,0 +1,135 @@
+{
+  "marque": "Hyundai",
+  "modele": "IONIQ 5",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Confort de suspension très appréciable. Elle fait partie des meilleures si on se  limite aux voitures électriques. Certains parlent de sècheresse au passage des  dos d'âne mais franchement il ne me semble pas que ce soit aussi prédominant que  ça, et puis toutes les autos percutent un peu sur les dos d'âne, même les  berlines de luxe les plus souples (exception faite sur une Classe S avec le  Magic Body Control)",
+    "Capacité de batterie qui a augmenté en 2022 sur les versions de plus de 70 kWh",
+    "Apparition en 2023 de la version N ultra performante de 609 ch (650 possibles pendant quelques secondes)",
+    "Parti pris au niveau du style qui la rend  très identitaire et plutôt \"branchouille\" il me semble (le coup des pixels au  niveau du thème graphique en fil rouge est une très bonne idée, et ça rend très bien dans la  réalité). On dirait un revival de la Lancia Delta des années 80 (et que mon  Grand père a eu ... Souvenirs ...)",
+    "Volume à bord (coffre et habitabilité) offert malgré que sa carrosserie laisse penser qu'il  s'agit d'une compacte mesurée (l'empattement est démesuré ...), et le rapport  encombrement/habitabilité est ici extra",
+    "Modularité avec notamment une banquette  qui coulisse et qui se règle en inclinaison",
+    "Matières  dans l'habitacle qui inspirent la douceur et le confort (moins froid que sur son  cousin EV6 doté de matériaux moins chaleureux)",
+    "Sensation d'espace, et ça n'est pas un doublon d'une des qualités  précédentes. Certaines autos vastes à l'intérieur amènent quand même une  sensation de claustrophobie, ici on ressent l'espace en plus de pouvoir le  mesurer",
+    "Sièges conçus pour favoriser le confort des siestes quand le dossier est  rabaissé, avec un support pour les mollets qui se déploie (comme si on nous  annonçait que les recharges allaient être longues !)",
+    "Infodivertissement de bonne facture : rapide, graphismes  inspirés, couleurs riches et profondes et fonctionnalités assez nombreuses  (notamment représentation en 3D de l'auto dans son environnement)",
+    "Chargement à  induction pour téléphone, même si son emplacement pourrait être  meilleur (même remarque que sur l'EV6, il semble que ce soit volontaire pour ne  pas être distrait par ce dernier)",
+    "Réalité augmentée dans l'affichage tête haute, même si il est moins  développé que chez Mercedes ou Volkswagen (et en gros ça n'est pas déterminant  au niveau aspects pratiques, c'est plus gadget qu'autre chose)",
+    "Nombreuses prises dans l'habitacle avec notamment une prise domestique (type  220V) sous la banquette arrière",
+    "Beaucoup d'informations sur la consommation et le détail de cette dernière.  Sur une Tesla on n'a même pas le dixième de ça ... Et en gros les Tesla sont  celles qui sont les moins riches de ce côté là (malgré qu'on puisse croire  l'inverse de loin)",
+    "Insonorisation aboutie, ça change d'une Tesla  !",
+    "Pompe à chaleur en option ou de série à partir du deuxième niveau de finition  (et surtout elle est beaucoup moins chère que sur l'EV6, qui est pourtant un  clone technique : 990 euros contre 1400 sur la Kia ...)",
+    "Gestion thermique évoluée au niveau de la batterie (refroidissement liquide),  mais c'est devenu la norme sur les autos de plus de 35 000 euros ... De plus, l'auto gère le préconditionnement depuis mi 2022 quand on indique une borne de charge dans le GPS",
+    "Recharge très rapide  avec 233 kW disponible (un potentiel qui est rarement exploité par les bornes de  recharge, elle n'est donc pas prête d'être obsolète de ce côté là). A sa sortie  c'est la meilleure (avec l'EV6 évidemment), au delà de ce que propose la  concurrence",
+    "Bien équipée,  et de manière générale cela revient à dire qu'elle a un excellent rapport  qualité/prix (quand on a touché à des Tesla c'est d'autant plus frappant, car Huyndai est loin d'être aussi radin et mesquin que la marque américaine ... Et  d'ailleurs, la sortie de ces véhicules risque d'être très néfaste pour Elon, car  cela met en lumière les carences extrêmes de ses modèles. Car il cherche à  gratter sur tout, jusqu'à parfois ruiner l'expérience des clients)",
+    "Possibilité  d'extraire du courant de la batterie en se branchant via un adaptateur par la  prise de charge, et en gros votre auto devient une source d'énergie quand vous  êtes loin de chez vous. On sent qu'il y la volonté d'innover sans copier les  autres, c'est la marque des \"grandes\" marques",
+    "Force de régénération réglable via les palettes au volant",
+    "Petit coffre supplémentaire de 57 litres à l'avant en 4X2",
+    "Système de scratch / velcro à gauche du combiné pour y accrocher des choses.  C'est certes anecdotique mais bon, je fais mon travail en vous en parlant.  Sachez que j'ai longtemps cru que c'était des haut parleurs",
+    "Voiture,, agréable quand elle roule.",
+    "Conduite super agréable malgré un manque de rayon de braquage"
+  ],
+  "defauts": [
+    "Châssis pas très ludique à mener (sauf version N), mais c'est le prix à payer pour avoir une  voiture électrique confortable (il est plus facile d'associer dynamisme et  confort sur les thermiques, plus légères ..). En revanche en terme de sécurité  on ne peut pas trop la mettre en défaut, surtout chaussée avec les gommes de  255mm",
+    "Gabarit un trop important pour ceux  qui auraient espéré une compacte pratique à utiliser en milieu  citadin",
+    "Présentation intérieure qui paraît quand même moins inspirée que le  reste ... Certains détails font un peu has been (ex : poignées de portes) et le  volant est franchement fadasse, de ce côté l'EV6 est bien plus sympa",
+    "Qualité des  matériaux pas toujours parfaite, même si certains éléments sont très réussis  (boutons façon métal qui sont du plus bel effet et dont les assemblages sont  dignes des productions teutonnes",
+    "Sobriété  loin d'atteindre celle d'une Ioniq première du nom, mais cela est en partie du  avec le calibrage de la batterie qui est ici bien plus ambitieux (et donc cela  apporte du poids)",
+    "Position de la trappe de recharge du mauvais côté ... Ma Model 3 a une prise  à gauche et ça me permet de recharger facilement et rapidement en sortant dans  mon garage (et je ne peux passer de l'autre côté si la porte battante est fermée  car l'auto prend toute la longueur, ça passe à 10 cm près. Si elle était de  l'autre côté ce serait une belle galère !)",
+    "Coffre avant limité à 24 litres sur les déclinaisons bi moteurs 4X4",
+    "Intégration du coffre avant un peu sauvage .. On se croirait dans un  compartiment moteur de thermique, et pour le coup c'est mieux fait chez Tesla",
+    "Pas sûr que le style ne vieillisse très bien ...",
+    "Elle est positionnée comme SUV par la marque, et franchement ça me fait bien  rire ... Personne ne relève toutefois, même les \"journalistes\". On vit une  époque ou la crédulité est devenue une vraie débilité, et Hyundai aurait dit que  c'était un avion qu'ils auraient tous répété sans broncher. C'est stupéfiant et  effrayant",
+    "Certains aspects de l'ergonomie (infotainment) qui peuvent être  perfectibles au début",
+    "Accélération qui manque d'être plus franche depuis l'arrêt, comme si la  marque voulait préserver les cardans et roulements ... D'ailleurs ils ont  intégrés des versions inédites de ces derniers (plus d'infos au chapitre du  comportement)",
+    "Technologie 800V qui pourrait aller plus loin au niveau puissance de  recharge, mais cela est limité par la capacité moindre à refroidir les cellules  (grosses cellules pas facile à refroidir). Et puis 233 kW c'est déjà limite trop  pour préserver la batterie, alors l'utilité était à la base compromise, ma  remarque ne vaut donc pas grande chose ...",
+    "Pas d'amortissement piloté  disponible, ça aurait pu permettre à la Ioniq 5 d'avoir un peu plus de caractère  sur la route, en verrouillant un peu plus les pistons d'amortisseurs en  compression",
+    "Certains pourront trouver la charge AC un poil lente : 11 kW maximum (personnellement je n'y vois pas un défaut vraiment pénalisant, car rares sont les autos qui culminent au plafond de 22 kW (je mets à part les anciennes Zoe qui allaient plus haut car limitées à la charge AC)",
+    "J’aimerais avoir une voiture que je puisse utiliser, ce n’est pas le cas actuellement.Car elle est arrivée en dépanneuse en mars 2025, chez le concessionnaire de Lons-le-Saunier, et depuis se trouve immobiliser avec le capot ouvert pour un problème de recharge de batterie bien connu l'Integrated Charging Control Unit (ICCU) de ma Hyundai Ioniq 5 qui gère la charge de la batterie 12 V est également la charge en AC de la batterie de traction. Je n’ai pas pu obtenir la disponibilité de ICCU ni son délai de remplacement,Côté concession, on ne me propose pas de voiture de remplacement, pas de date de réparation, pas de pièce disponible pour cette voiture.Étant donné que La garantit court alors que la voiture ne roule pas je suis perdant sur tous les points, je paye une assurance pour un véhicule qui ne roule pas, la garantie ne se reportera, obligé de payer un carburant, alors que je chargeais la voiture par mes panneaux solaires, et pas de prêt de voiture de courtoisie qui est payant au garage Bellamy d’autant plus qu’il n’y en a pas de disponible. Obligé donc de racheter une voiture en attendant une éventuelle réparation.",
+    "Rayon de braquage élevé",
+    "Panne ICCU pièce remplacée sous garantie avec attente supérieure à 2 moisAttitude de la marque HYUNDAI lamentable ; aucune éponse à tous mes mails même en Corée\rLes concessionnaires sont franchement à plaindre car ils sont traités de la même manière !!!!",
+    "- Problème récurant à tous les modèles Actuellement la voiture est immobilisée avec le problème de batterie 12v / ecu après 58 000km, 1an et demi, malgré le suivi des rappels constructeurs.Peinture de mauvaise qualité (effet peau d'orange et vernis fragile de faible épaisseur). C'est la première voiture depuis les années 1980 que je trouve avec l'intérieur du hayon peint mais non vernis.Très mauvaise éclairage de nuit (voir même dangereux) dans les viragesBruit de mobilier ceinture arrière => obligé de coller de la mousse, hayon du coffre => bruit de \"clong\" sur les trous ou ralentisseurs)6 Bips énormes à chaque démarrage de la voiture c'est agaçantOuverture des portes peu pratique à une mainCamera arrière très basse, donc toujours saleEn réglant le siège et le volant dans ma position idéale, le compteur de vitesse (1er et 2nd chiffre) est caché derrière le volant, idem pour les indicateurs de phare, vitesse, tous le reste (moins utile est au milieu et bien visible)",
+    "Absence d’essuie-glace arrière.",
+    "En panne depuis 4 mois, fiabilité et service après vente nuls.",
+    "Aérodynamique sur autoroute perfectible induisant des surconsommations ....compensées par des vitesses élevées de charge.Sono qui manque clairement de watt à l'arrière.Éclairage de nuit (mais on s'y fait).",
+    "Angle de braquage, mutiples pannes",
+    "Patine quelquefois en sortie de rond point, ça ne peut pas provenir des pneus, pas encore 15000 kilomètres.Après coup grosse voiture difficile à garer.Bugs occasionels de l'infodivertissement et présentation graphique notamment de la navigation dépassé.\rService après vente indigne.Le loyer lld auquel je rajoute mon assurance et un contrat d'entretien tranquillité.\rPeinture excessivement fragile.",
+    "Coût des révisions excessif et injustifié 300¤ tous les 30000 kms et 450¤ à 120000 kms là où d'autres marques n'ont aucune révision de préconisée. A prendre en compte lors de l'achat du véhicule.Garantie pour les taxis réduite à 100000 kms (environ 1 an)délais d'intervention pour les pannes excessivement long."
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "(RWD Electrique 218 ch 5000km 4mois)  Dans l'ensemble très bonne voiture autonomie correct, recharge rapide, confortable",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "courant qui a duré toute une matinée",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "vraiment pénalisant, car rares sont les autos qui culminent au plafond de 22 kW (je mets à part les anciennes Zoe qui allaient plus haut car limitées à la charge AC)\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\nL'avis des interna",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "recharge de batterie bien connu l'Integrated Charging Control Unit (ICCU) de ma Hyundai Ioniq 5 qui gère la charge de la batterie 12 V est également la charge en AC de la batterie de traction",
+      "categorie": "electronique",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "ICCU pièce remplacée sous garantie avec attente supérieure à 2 moisAttitude de la marque HYUNDAI lamentable ; aucune éponse à tous mes mails même en Corée\rLes concessionnaires sont franchement à plain",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "recharge de batterie bien connu l'Integrated Charging Control Unit (ICCU) de ma Hyundai Ioniq 5 qui gère la charge de la batterie 12 V est également la charge en AC de la batterie de traction",
+      "categorie": "electronique",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "récurant à tous les modèles Actuellement la voiture est immobilisée avec le problème de batterie 12v / ecu après 58 000km, 1an et demi, malgré le suivi des rappels constructeurs",
+      "categorie": "electronique",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "depuis 4 mois, fiabilité et service après vente nuls",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "?? SAV Hyundai , des clients sur le forum pas toujours satisfaits de la prestation",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "l'ICCU à 55 000 km empêchant la recharge en courant alternatif à domicile (elle n'acceptait de charger que sur borne DC)",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 7.0,
+  "score_global": 6.0,
+  "source_url": "https://www.fiches-auto.fr/essai-hyundai/essai-693-test-complet-hyundai-ioniq-5.php",
+  "scrape_timestamp": "2026-01-31T23:35:42.041168",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

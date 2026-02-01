@@ -1,0 +1,62 @@
+{
+  "marque": "Volkswagen",
+  "modele": "TOUAREG",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Bien que très souple (hors châssis sport), le comportement reste impressionnant  ... Il faut toutefois quelques virages et tentatives pour commencer à lui faire  confiance et comprendre ce qu'il peut réellement faire (il profite sur les  versions haut de gamme des barres anti roulis actives et roues arrière  directrices, et ça le métamorphose réellement !). Sur les versions aux trains roulants suréquipés : train arrière directeur, barre anti roulis active etc. le comportement devient carrément bluffant !",
+    "Suspension sport proposée en  option, pas courant dans la catégorie (qui se limite généralement à un  comportement pachidermique)",
+    "Capacité du 4Motion qui n'a  rien à voir avec le reste de la gamme VW à moteur transversal. Ici c'est plutôt  la crème du Quattro qu'on a (différentiel central verrouillable mécaniquement)",
+    "Ecrans  géants et infodivertissement de grande qualité",
+    "Moins encombrant qu'un Q7 avec  une longueur et empattement réduits",
+    "Voiture confortable, spacieuse ...",
+    "Style, confort, écran top"
+  ],
+  "defauts": [
+    "Qualité de finition un peu juste bien que ce ne soit pas non plus le drame.  Beaucoup d'éléments de qualité standard (voir chapitre de la vie à bord), et on  croirait une sorte de gros Tiguan. Le précédent était mieux fini et le premier  peut rivaliser dans ses finitions hautes",
+    "Ergonomie de l'infodivertissement  perfectible et pas très intuitive",
+    "De série (Carat) il n'y a ni cockpit virtuel  et un écran multimédia plus petit ... Très mal vu sur ce niveau de gamme",
+    "Un peu  trop pépère d'entrée de gamme (pneumatiques à flancs hauts et pas tout  l'attirail qui lui permet de devenir un véritable équilibriste), le comportement est vraiment différent avec le châssis standard passif (mais très sécurisant malgré tout)",
+    "Habitabilité qui  peut décevoir si elle est comparée au gabarit (au moins niveau sécurité on est  au top)",
+    "Pas de version 7 places alors qu'un Tiguan peut le proposer dans sa  version longue",
+    "Style un peu douteux et à l'identité trouble ... L'avant est  clairement étrange tout en manquant de subtilité (Finalement le seul Touareg  vraiment séduisant aura été le 1 phase 2)",
+    "Ecrans qui peuvent parfois manquer de  luminosité même réglés à fond",
+    "Le tout tactile pour les températures de chauffage  mais l'avantage ici est que les boutons sont toujours affichés (ce qui est  permis par l'écran XXL), pas besoin d'aller les chercher dans les menus",
+    "Malus  français qui a tué sa carrière ... Le Touareg R hybride va cependant corriger  les choses, mais il faut alors être prêt à débourser dans les 100 000 euros (en  gros on en revient à la case départ, il coûte une fortune quelque soit la  stratégie)",
+    "Coffre de l'hybride rechargeable un peu limite .... Bon avec 610 litres ce n'est pas non plus ultra petit mais on perd quand même 200 litres en tout",
+    "Usure prématurée des pneus , problème de boîte à vitesse qui ne suit pas les accelerations, la boîte à vitesse claque au changement des rapports, perte de puissance , moteur en mode dégradé ( problème d’EGR) , navigation HORS SERVICE .",
+    "Décalage a l’accélération avec la boite de vitesse , insonorisation, consommation"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection3.0 TSI 340 ch3.0 TDI 231 ch3.0 TDI 286 ch4.0 TDI 421 chehybrid 381 cheHybrid 462 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 3.0
+    }
+  ],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "boîte à vitesse qui ne suit pas les accelerations, la boîte à vitesse claque au changement des rapports, perte de puissance , moteur en mode dégradé ( problème d’EGR) , navigation HORS SERVICE",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "géométrie certainement ?\r\nou suite a rappel pour remplacement de boulons fixation train arrière\r\nresultat 1650 de frais pour une voiture sous garantie",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 7.7,
+  "score_global": 4.7,
+  "source_url": "https://www.fiches-auto.fr/essai-volkswagen/essai-650-test-complet-volkswagen-touareg.php",
+  "scrape_timestamp": "2026-01-31T23:28:08.907754",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

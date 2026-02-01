@@ -1,0 +1,69 @@
+{
+  "marque": "Bmw",
+  "modele": "SERIE 3 COMPACT",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Finitions soignées (on est dans une série 3 berline)",
+    "Bonne résistance à la corrosion (elle vieillit bien)",
+    "Modele oublié avec bon moteur 6.",
+    "Très bon intérieur Très bon comportement Fiable",
+    "PuissancePratiquement tout d'origine",
+    "Une voiture fiable, puissante, sportive, moteur à chaine et à faible consommation.Aucune consommation d'huile ou autres liquidesLe prix en occasion pour une voiture aussi bien finieLe hayon, plus pratique qu'un coffre.Une finition de qualité.\rUn suivi du véhicule parfait par le constructeur(lettre de rappel pour air bag a changer sur un véhicule de 10 ans)Jamais changé une ampoule dessus, la batterie au bout de 14 ans.Peinture qui vieillie très bien, sans corrosion",
+    "Fiabilité, conso 5,4l , turbo d'origine, distri d'origine, embrayage d'origine...on peut vraiment s'amuser avec pour un coût, tsss, dérisoire.Son look, ce n'est pas madame tout le monde.",
+    "Finition, comportement routier précis, tenue de route",
+    "Souplesse moteur",
+    "Belle roues et jantesBon moteur",
+    "Moteur exceptionnel,tenue de route excelente(4 bilstein)+pneus tendre.Agrément ,sonoritée......... de fou.",
+    "Fiabilité generale ,tenue de route ,confort et agrements d conduite",
+    "Très bonne tenue de route, direction très précise, moteur qui donne très bien avec ces 150 ch,très confortable sur longues distances,consommation vraiment raisonnable, excellente tenue de route surtout dans les courbes en montagne, j'en suis très content et ne suis pas la d'en changer.",
+    "Consommation, châssis extra, excellente finition intérieure.",
+    "Tenue de route et fiabilite",
+    "Agréable à conduire",
+    "C'est le top comme voiture je suis complètement amoureux je la possède depuis 5 ans jamais de problème à pars le changement de pneus vidange... actuellement 24500 kilomètres je la vendres pour aucun prix BMW e 46 compact pack M je conseil",
+    "Très bonne routière consomme peut, sauf en ville, modele assez rare ."
+  ],
+  "defauts": [
+    "Confort moyen à cause d'amortisseurs trop rigides",
+    "Style des phares avant trop lointain de la réelle identité BMW",
+    "Coffre et habitabilité à l'arrière moyens",
+    "Grosse consommation Manque de pêche pour 115ch",
+    "- tenue de route sur route glissante (propulsion)- si tu ne fais pas gaffe, tu la gardes toute ta vie",
+    "Fiabilité catastrophique, freinage manquant de mordant",
+    "Boite un peu longue.",
+    "Pour moi pas grand chose a part usure normale",
+    "Centralisation qui déconne côté chauffeur se ferme a distance mais se ré ouvre qu'avec la clé",
+    "Entretien élevé, agrément de conduite qui s'estompe assez brutalement dépassé un certain kilométrage, quelques soucis coûteux.",
+    "Remplacement vitres latérales arrières, pas de joints, il faut acheter le déflecteur en son entier, le joint étant collé sur la vitre. cela coute très cher",
+    "Manque de puissance en côte",
+    "Moteur un peu trop rond ,manque de couple entre 2 et 3em , poids important.",
+    "Tous les autres défauts"
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "à pars le changement de pneus vidange",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "vitres électriques avec l'âge (classique chez bmw)BMW 320 td compact confort 150 cv 2001 : uniquement turbo sous garantie 320TD COMPACT E46 : CASSE TURBO QUAND IL EST USE316ti Pack 2002 : Fuite joint ",
+      "categorie": "moteur",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 7.7,
+  "score_global": 6.7,
+  "source_url": "https://www.fiches-auto.fr/essai-bmw/essai-41-test-complet-bmw-serie-3-compact.php",
+  "scrape_timestamp": "2026-01-31T23:29:57.164267",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "marque": "Dacia",
+  "modele": "JOGGER",
+  "generation": null,
+  "nb_avis": 4,
+  "scores_moyens": {
+    "confort": 4.0,
+    "consommation": 4.5,
+    "securite": 3.5,
+    "habitabilite": 4.0
+  },
+  "scores_moyens_sur_10": {
+    "confort": 8.0,
+    "consommation": 9.0,
+    "securite": 7.0,
+    "habitabilite": 8.0
+  },
+  "avis": [
+    {
+      "avis_id": "Collecte_3095214",
+      "note": 4.5,
+      "titre": "4.5 / 5",
+      "avantages": null,
+      "inconvenients": "Pour le moment je n en ai pas à soumettre ayant le Jogger depuis 3 mois",
+      "auteur_hash": "4d7c48af85e52e02",
+      "date_avis": "septembre 2022",
+      "annee_vehicule": "septembre 2022",
+      "carburant": "Essence",
+      "boite": "Manuelle",
+      "motorisation": "1.0L - 111 ch",
+      "source_url": "https://www.avis-auto.fr/avis-dacia-jogger",
+      "scrape_timestamp": "2026-01-31T23:30:00.741146"
+    },
+    {
+      "avis_id": "Collecte_3078403",
+      "note": 5.0,
+      "titre": "Avez-vous trouvé cet avis utile ?",
+      "avantages": null,
+      "inconvenients": "Il aurait dû mettre un réservoir de gaz plus grand 40 litres es déjà pas mal mais un peu plus serré mieux",
+      "auteur_hash": "101ac8bf0ae53305",
+      "date_avis": "septembre 2022",
+      "annee_vehicule": "septembre 2022",
+      "carburant": "Essence",
+      "boite": "Manuelle",
+      "motorisation": "1.0L - 111 ch",
+      "source_url": "https://www.avis-auto.fr/avis-dacia-jogger",
+      "scrape_timestamp": "2026-01-31T23:30:00.741309"
+    },
+    {
+      "avis_id": "Collecte_3078378",
+      "note": 4.0,
+      "titre": "Avez-vous trouvé cet avis utile ?",
+      "avantages": null,
+      "inconvenients": "dans le désordre\r- consommation : 9,5L en GPL, 7L en essence, ça reste beaucoup pour un vehicule 2022\r- acoustique : l'habitacle est plutot bruyant en isolation (bruits extérieurs) et equipements (si on met la ventilation au dessus de 3/5, on peut plus parler avec les passagers arrieres)\r- comportement routier : elle est haute (ce qui peut s'avérer pratique) et les suspensions un peu cheap, résultat elle est lourde dans les virages qu'il faut prendre plus lentement qu'avec un autre modele concurrent.",
+      "auteur_hash": "d4e2cd8211d417c6",
+      "date_avis": "septembre 2022",
+      "annee_vehicule": "septembre 2022",
+      "carburant": "Essence",
+      "boite": "Manuelle",
+      "motorisation": "1.0L - 111 ch",
+      "source_url": "https://www.avis-auto.fr/avis-dacia-jogger",
+      "scrape_timestamp": "2026-01-31T23:30:00.741437"
+    },
+    {
+      "avis_id": "Collecte_2963077",
+      "note": 4.0,
+      "titre": "Avez-vous trouvé cet avis utile ?",
+      "avantages": null,
+      "inconvenients": "Plastique et visibilité arrière",
+      "auteur_hash": "9be44e12522906ed",
+      "date_avis": "août 2022",
+      "annee_vehicule": "août 2022",
+      "carburant": "Gpl",
+      "boite": "Manuelle",
+      "motorisation": "1.0L - 101 ch",
+      "source_url": "https://www.avis-auto.fr/avis-dacia-jogger",
+      "scrape_timestamp": "2026-01-31T23:30:00.741591"
+    }
+  ],
+  "source_url": "https://www.avis-auto.fr/avis-dacia-jogger",
+  "scrape_timestamp": "2026-01-31T23:30:00.741670",
+  "_source": {
+    "id": "avis_auto_fr",
+    "name": "Avis-Auto.fr",
+    "url": "https://www.avis-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

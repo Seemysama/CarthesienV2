@@ -1,0 +1,57 @@
+{
+  "marque": "Bmw",
+  "modele": "X6 II",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Comportement vraiment bluffant malgré le poids, ce X6 associe masse et agilité  stupéfiante grâce à un châssis très équilibré et des pneumatiques à la limite  disproportionnés ! (les équipements additionnels jouent aussi, tout comme les  packs sport, voir le chapitre du comportement). Bref, le X6 n'est pas là pour  faire semblant et le pauvre GLE coupé ne peut lutter ...",
+    "Confort préservé même  si c'est un peu plus ferme que sur un X5. Ca reste toutefois bien mieux que sur  l'ancien qui était un peu trop radical (enfin ça dépend pour qui, c'est toujours  une question de sensibilité personnelle)",
+    "Qualité de finition très bonne même si  tout n'est pas parfait et que pour la catégorie ça reste relativement  perfectible. Heureusement le GLE Coupé, son seul concurrent, n'est pas non plus  un chef sur ce chapitre",
+    "Choix de coloris intérieurs assez variés et même osés  pour certains. Je plussoie cette diversité",
+    "Coffre / habitabilité très généreux  même si le toit plongeant vous fera perdre l'espace au dessus de la plage  arrière",
+    "Motorisations toutes au top, il n'y a rien à jeter ici puisqu'il  s'abstient d'adopter le 2.0 diesel que le X5 se coltine",
+    "Puissance, confort, tenue de route, équipement complet, consommation pour la taille et l’utilisation ( 11 litres )",
+    "Confort et silence intérieur Bon son audioConsommation raisonnable Super moteur avec bonne reprise et de l allongé sans essoufflement.",
+    "-Standing ++ (quelle gueule et quel Q!)-hauteur de conduite-volant sport avec palettes-en hiver phares full LED directionnels au top-confort et volume de coffre parfait pour un famille de 4, dont 2 jeunes enfants.",
+    "Tenue de route sportive.Moteur qui colle au siège.Finition bmw.",
+    "ConfortGPSCoffre"
+  ],
+  "defauts": [
+    "Pas de suspension pneumatique possible pour le train avant, à ce niveau de gamme  c'est malvenu",
+    "Sensations moins directes et sportives que sur le premier mais l'efficacité reste intacte. C'est même mieux sur les routes défoncées où l'amortissement évite les rebonds parasites",
+    "Style de l'arrière qui manque un peu de virilité avec des optiques  qui auraient pu être dessinés autrement (très féminins finalement, pas très en  accord avec l'idée véhiculée par l'engin). De plus, l'espèce de vague sur la partie supérieure des passages de roue arrière ne me convainc pas du tout",
+    "La finition est  évidemment très bonne mais beaucoup de plastiques très communs sont  présents et rappellent les BMW \"de base\" comme les Série 1 par exemple",
+    "Habitabilité arrière bonne mais conçue principalement pour deux",
+    "Image  qui reste toujours un peu arrogante ... Les regards portés sur vous ne sont donc  pas toujours empathiques",
+    "Sensations de conduite aseptisées,  mais c'est normal et la clientèle serait très mécontente d'avoir la moindre  rusticité à bord",
+    "Mode \"tout sport\" ou \"tout confort\" uniquement (sauf X6M), pas  moyen de paramétrer comme dans une simple Talisman",
+    "Pack Dynamic Drive  inaccessible sur le 30d, qui représente juste 80% des ventes ..",
+    "Sav( suintement de la boite à 41000 km et refus de garantie ) j’ai acheté trois x5 et trois X6 neuf et je vend celui ci si je peux. Consommation de pneus pirelli . BMW fin",
+    "Tarif des options.Bruit extérieur du moteur diesel au ralenti.Impossible de configurer le mode de conduite à l intérieur des présélections disponibles eco confort sport sport+(il n est pas possible de rester en mode confort et durcir la direction par exemple).",
+    "-Moteur 30d limite lors de certaines reprises.-Suspension un peu fermes.-Rails de toit en option, donc les paires de ski au milieu (merci la banquette 40/20/40)",
+    "Manque de suspension pneumatique",
+    "Plus le succès de la génération précédente donc je vois la côte de mon x6 chuter.Service bmw entretien moyen.",
+    "Plus rustique qu'une AUDI Q8"
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [],
+  "total_ventes": 0,
+  "pannes_recurrentes": [
+    {
+      "description": "P0106Vignette Crit'Air diesel ancienTwingo 3 essaiFiabilité rczPeugeot 2008 fiabilitéEssai Alfa Romeo Stelvio  SérieFabia 3 1",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 6.1,
+  "source_url": "https://www.fiches-auto.fr/essai-bmw/essai-584-test-complet-bmw-x6-ii.php",
+  "scrape_timestamp": "2026-01-31T23:31:07.350764",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

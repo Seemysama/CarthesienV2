@@ -1,0 +1,100 @@
+{
+  "marque": "Mercedes",
+  "modele": "GLC II",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Confort et insonorisation qui sont encore une fois très poussés malgré des  moteurs diesels qui manquent de discrétion (et qui viennent donc nuire au bilan)",
+    "Coffre parmi les meilleurs de la catégorie malgré qu'il ne soit pas  parfait en termes de praticité",
+    "Habitabilité au deuxième rang sans reproche, le GLC soigne aussi ses  passagers arrière",
+    "Suspension pneumatique disponible même si elle amène avec elles des  contraintes (peu durables, les coussins d'air ne tiennent généralement pas plus  de 80 000 km, sans compter le compresseur généralement sous calibré), de série sur les hybrides",
+    "Très bonne qualité des matériaux et assemblages même si tout n'est pas parfait  comme vous pourrez le voir dans le chapitre de la vie à bord (car beaucoup  idéalisent trop le résultat). De plus c'est homogène de l'avant jsuqu'à  l'arrière, ce qui n'est pas systématiquement le cas partout ...",
+    "Infodivertissement ayant de très grosses capacités en termes de  fonctionnalités mais aussi d'affichage",
+    "Eclairage d'ambiance très dépaysant, j'aime beaucoup et je ne trouve pas  ça futile contrairement à beaucoup (dans ce cas le stylé séduisant des voitures  est aussi totalement inutile ... L'esthétique fait partie des choses  importantes)",
+    "Agilité et manœuvrabilité des versions dotées des roues arrière directrices, ça change tout",
+    "Le 6 cylindres diesel est proposé, et il est plutôt ambitieux comme vous allez le voir !",
+    "Dotation technique générale de très haut niveau, quelque soit le thème  abordé : moteurs (quoique ..), trains roulants, infodivertissement ...",
+    "Hybride rechargeable qui ne fait pas semblant avec 32.1 kWh !",
+    "Choix entre hybride rechargeable diesel et essence",
+    "Contrôle de boîte via un commodo, un classique chez Mercedes mais ça  reste un atout significatif en termes d'ergonomie",
+    "Pack Offroad qui intègre une application très ludique et qui permet de  voir ce qu'il se passe sous l'avant de la voiture"
+  ],
+  "defauts": [
+    "Comportement routier relativement mollasson quelque soit la configuration (même si pour certaines c'est moins pire)",
+    "Esthétique très sage, voire presque trop sage ... Le GLC n'avait pas beaucoup  de caractère et il ne cherche pas vraiment à changer les choses (pire, il semble  vouloir se faire encore plus discret). A sa sortie il paraît déjà daté, avec  trop de codes esthétique de l'ancien monde (un minimum de sang frais aurait été apprécié, sans forcément tout bouleverser) ... Quant aux faux échappements il  serait temps d'arrêter",
+    "Sous coffre peu exploitable en raison de son côté tortueux, et pas non plus de plancher amovible / modulable en hauteur",
+    "Coffre de 470 litres sur les versions hybrides rechargeables, trop limite pour s'en contenter en conditions d'utilisation familiale (mais aussi quand on fait le rapport avec le gabarit)",
+    "Ergonomie de l'infodivertissement et de l'ensemble des contrôles qui impliquent  trop de concentration. C'est inutilement compliqué et ça finit vite par agacer. Et si on finit par s'y habituer, ça reste un point noir malgré tout",
+    "Succès commercial qui chute et qui laisse des doutes quant à sa valeur de  revente",
+    "Pas de châssis sport AMG Line disponible sur les hybrides rechargeables, qui en auraient pourtant besoin",
+    "Surpoids excessif des versions hybrides en raison de leur batterie XXL",
+    "Beaucoup de versions dotées de moteurs qui ne sont pas en phase avec le  standing et l'ambiance technologie de l'engin (et finalement, seul le 450d est  noble !)",
+    "Pas de version intermédiaire entre le 220d et le 450d, le gouffre est immense et tout le monde n'a pas le budget pour le 450d (en gros le 350d manque à l'appel)",
+    "Pas de version 100% électrique même si pour beaucoup d'entre vous ce sera  possiblement une qualité",
+    "Version 63s qui fait de la peine en termes d'architecture moteur malgré des performances de premier ordre. Il a  perdu tout intérêt et ne devrait pas se vendre",
+    "Version 43 AMG qui se dote du 4 cylindres de la Classe A 45 AMG, décalé (même  souci qu'avec le 63)",
+    "Des erreurs dans la documentation qui laisse une sensation de médiocrité et  d'une baisse de l'excellence de Mercedes, tout fout le camp ! Si vous constatez  des chiffres aberrants sur Fiches auto il ne faut pas nous blâmer, je ne peux  rien faire d'autre que relayer ce que dit Mercedes (bien que j'en ai corrigé  beaucoup). Je vous invite à consulter  la brochure du GLC en date du 7 mai 2024, on croirait qu'elle a été faire par  une personne en état d'ébriété tellement les erreurs sont nombreuses et  grossières"
+  ],
+  "notes_motorisations": [],
+  "ventes_historiques": [
+    {
+      "annee": 2016,
+      "ventes": 5900
+    },
+    {
+      "annee": 2017,
+      "ventes": 7200
+    },
+    {
+      "annee": 2018,
+      "ventes": 8900
+    },
+    {
+      "annee": 2019,
+      "ventes": 6000
+    },
+    {
+      "annee": 2020,
+      "ventes": 4500
+    },
+    {
+      "annee": 2021,
+      "ventes": 4600
+    },
+    {
+      "annee": 2022,
+      "ventes": 4400
+    },
+    {
+      "annee": 2023,
+      "ventes": 8000
+    },
+    {
+      "annee": 2024,
+      "ventes": 6600
+    },
+    {
+      "annee": 2025,
+      "ventes": 100
+    }
+  ],
+  "total_ventes": 56200,
+  "pannes_recurrentes": [
+    {
+      "description": "qu'avec le 63)Des erreurs dans la documentation qui laisse une sensation de médiocrité et  d'une baisse de l'excellence de Mercedes, tout fout le camp ! Si vous constatez  des chiffres aberrants sur F",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 6.5,
+  "source_url": "https://www.fiches-auto.fr/essai-mercedes/essai-744-test-complet-mercedes-glc-ii.php",
+  "scrape_timestamp": "2026-01-31T23:32:19.527888",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

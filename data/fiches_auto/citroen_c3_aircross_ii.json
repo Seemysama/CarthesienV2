@@ -1,0 +1,88 @@
+{
+  "marque": "Citroen",
+  "modele": "C3 AIRCROSS II",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Look vraiment sympa, surtout l'arrière avec la découpe des vitrages qui  rappellent un peu l'ambiance d'un Mercedes ML (plutôt GLE, je deviens un ancien  ...). Il pourrait même prétendre à avoir quelques mimiques bourgeoises dans sa  finition la plus haute. Bref, il a de la personnalité et ne dévalorise pas son  propriétaire",
+    "Confort de suspension de premier ordre mais qui induit des effets secondaires  hélas. Notez que la suspension Advanced Comfort est de série contrairement à la sellerie  du même nom",
+    "Rapport encombrement logeabilité excellent, l'habitabilité est généreuse et le  coffre est tout aussi satisfaisant. Bref, le C3 est ultra rationnel et cela sans  avoir à se coltiner un physique ingrats",
+    "Rapport qualité / prix si on omet les Chinois (donc c'est très relatif comme  réflexion .. Et pour ma part je n'hésiterais pas : achat chinois)",
+    "7 places proposées en option, pour ce gabarit c'est vraiment bien (parfait pour  les familles recomposées qui dépassent souvent 5 personnes lors des balades)",
+    "Bonne ergonomie générale (avec notamment des boutons physiques)",
+    "Emplacement de la vitesse et des informations de conduite excellente, juste  sous la ligne d'horizon",
+    "Désactivation des alertes de franchissement de vitesse par un raccourci, rapide  et efficace pour s'en débarrasser à chaque démarrage",
+    "Version électrique disponible même si elle reste un peu frêle et techniquement  pas des plus aboutie",
+    "Pas de vrai hybride même si la boîte (et la chaîne de traction de manière plus  générale) est ici architecturée comme un full hybride (étrange mais c'est comme  ça)",
+    "Position de conduite, véhicule agréable à conduireDéfauts Qualité des matériaux qui laissent à désirer.Mauvaise visibilité dans le retroviseur central.Véhicule bruyant (moteur)Consommation moyenne Problèmes rencontrés Ce véhicule est une catastrophe.Bruit lorsqu'on roule, climatisation bruyante avec un bruit aigü à intervale régulier.Claquement au niveau des roues.Véhicule acheté neuf et"
+  ],
+  "defauts": [
+    "Insonorisation limitée, à haute vitesse ça peut devenir contraignant sur longs  trajets",
+    "Confort de suspension de très bon niveau qui vient empiéter sur la rigueur du  châssis, ou plutôt le plaisir de conduite car l'ensemble est bien équilibré et  se révèle sécurisant. Mais on est très déconnecté de la route, ce qui fait  perdre en feeling de conduite et en retour d'information (direction très peu  communicative et surassistée qui se rajoute à la déconnexion entre les masses  suspendues et non suspendues liée à la suspension à butée hydraulique de série)",
+    "Infodivertissement d'un autre temps ... Même si Apple Car Play est là, le reste  est vraiment trop succinct pour que ce soit tolérable sur un véhicule censé être  généraliste",
+    "Habitacle un peu quelconque même si les quelques touches de tissus permettent  de rendre le tout plus gai et raffiné. Les contre portes sont en revanche  indigestes ...",
+    "Agrément de la boîte e DCS6 parfois moyen, surtout quand la batterie se vide. De plus  il n'y a pas de palette permettant un mode manuel et donc de gérer le frein  moteur en descente.",
+    "Pas de version 4X4, et la marque a abandonné le Grip Control",
+    "Pas de consommation moyenne affichée sur les versions électriques, lunaire  ... Et c'est d'autant plus sur ce type de motorisation qu'on en a besoin, et  encore plus sur les voitures à batterie précaire en termes de taille (ce qui est  bien évidemment le cas ici)",
+    "Divers bips qui sont à la fois obsolètes et irritants à la longue, ça manque de  raffinement et c'est mal pensé (sur une Tesla, tous les bips sont agréables par  exemple)",
+    "Pas de clé main libre même sur l'électrique, où on doit tourner une clé dans le  barillet comme au siècle dernier ... Détonant, décalé",
+    "Documentation Citroen qui contient trop d'erreurs sur les caractéristiques à mon  goûts ... Tout cela semble fait un peu à l'arrache, avec un stagiaire peu  rigoureux (nouveaux chiffres de motorisations mêlés aux anciens etc.)",
+    "Apparu dès le début.Note 5/20"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection1.2 Puretech 100 ch1.2 Puretech Hybrid e-DCS6 136 ch1.2 Puretech Hybrid e-DCS6 145 chAutonomie standard electrique 113 chAutonomie etendue electrique 113 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 1.2
+    }
+  ],
+  "ventes_historiques": [
+    {
+      "annee": 2017,
+      "ventes": 8600
+    },
+    {
+      "annee": 2018,
+      "ventes": 43800
+    },
+    {
+      "annee": 2019,
+      "ventes": 46900
+    },
+    {
+      "annee": 2020,
+      "ventes": 30200
+    },
+    {
+      "annee": 2021,
+      "ventes": 26700
+    },
+    {
+      "annee": 2022,
+      "ventes": 20000
+    },
+    {
+      "annee": 2023,
+      "ventes": 20500
+    },
+    {
+      "annee": 2024,
+      "ventes": 15800
+    },
+    {
+      "annee": 2025,
+      "ventes": 16900
+    }
+  ],
+  "total_ventes": 229400,
+  "pannes_recurrentes": [],
+  "score_fiabilite": 8.0,
+  "score_global": 4.7,
+  "source_url": "https://www.fiches-auto.fr/essai-citroen/essai-763-test-complet-citroen-c3-aircross-ii.php",
+  "scrape_timestamp": "2026-01-31T23:25:36.561531",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}

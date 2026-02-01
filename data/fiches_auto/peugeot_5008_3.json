@@ -1,0 +1,128 @@
+{
+  "marque": "Peugeot",
+  "modele": "5008 3",
+  "generation": null,
+  "annees": null,
+  "qualites": [
+    "Confort de très bon niveau, que ce soit au niveau des suspensions comme de  l'insonorisation, il y a comme un air de premium dans le ressenti.  L'insonorisation très aboutie finit d'achever le tableau",
+    "Très belle allure malgré sa forme cubique qui a été gommée par des éléments de  style judicieux",
+    "Electrique, hybride ou hybride rechargeable, de quoi convenir à tous",
+    "Planificateur intégré pour les versions électriques. Attention toutefois, il  n'est pas de série : Les pingres !",
+    "Tenue de route, boite auto agréable",
+    "Confort +++, sortant d’un scenic IV court c’est incomparable Bonne finition intérieure et qualité des matériaux Console centrale agréable au quotidien, sauf réglage de la température Espacé aux places de 2 eme et 3 eme rangées"
+  ],
+  "defauts": [
+    "Comportement pataud et lourdaud même si on n'a pas non plus affaire à un engin  maladroit qui n'inspirerait pas confiance, il est bien équilibré et prévisible  mais il agit avec un certain empotement La version hybride léger est évidemment  moins pénalisée, elle se distingue largement au niveau de la masse",
+    "Prestations techniques côté électrique qui restent moyennes sans être  vraiment catastrophiques, en réalité c'est surtout la vitesse de charge en DC en  voyage qui peut finir par gêner, car ces quelques minutes supplémentaires à  attendre finissent pare lasser",
+    "Moteurs trois cylindres peu cohérent avec le standing de l'auto, ça vient  un peu casser l'ambiance ... Seules les versions électriques permettent d garder  cette sensation de premium",
+    "Finis les trois sièges individuels coulissants",
+    "Toujours le souci du petit volant qui masque une partie du combiné ...",
+    "Infodivertissement pas à la pointe au niveau software et dalle qui est  peu polyvalente (il faut dire qu'il y a peu de fonctionnalités avancées qui  nécessiterait un affichage plus carré)",
+    "Pas de version 320 ch et 4X4 comme sur le e 3008",
+    "Pas moyen de n'avoir qu'une 5 places qui serait moins chères et plus  spacieuse dans le coffre",
+    "Attention, il commence à devenir encombrant",
+    "Sièges inconfortables, système audio moyen, pas très logeable, sièges de 3ème rang à la limite du \"gadget\", système de navigation pas très fiable.",
+    "Boutons au volant peu pratique3 eme rangée de sièges non extractible Montée en régime peu agréable à l’écoute, cependant en conduite quotidienne et n’habitant pas en montagne, ce n’est pas dérangeant. La puissance est largement suffisante sur route et autoroute.Pas de réglage du frein regeneratif… dommage !Stores par-soleil à l’arrière uniquement sur finition GT …"
+  ],
+  "notes_motorisations": [
+    {
+      "motorisation": "Moteur :Sélection1.2 Puretech e-DCS6 hybride 136 ch1.2 Puretech e-DCS6 hybride 145 ch1.6 e-DCS7 hybride 195 che-5008 electrique 210 che-5008 Long Range electrique 230 chAutre ...Utilisation :Sélection100% ville2/3 ville - 1/3 route50% ville - 50% route1/3 ville - 2/3 route100% routeAutres infos utiles décrivant votre auto :(Boîte, kilométrage, année, jantes, finition/millésimeetc.)",
+      "note_globale": 1.2
+    }
+  ],
+  "ventes_historiques": [
+    {
+      "annee": 2009,
+      "ventes": 2800
+    },
+    {
+      "annee": 2010,
+      "ventes": 27000
+    },
+    {
+      "annee": 2011,
+      "ventes": 27900
+    },
+    {
+      "annee": 2012,
+      "ventes": 22400
+    },
+    {
+      "annee": 2013,
+      "ventes": 18300
+    },
+    {
+      "annee": 2014,
+      "ventes": 14400
+    },
+    {
+      "annee": 2015,
+      "ventes": 13700
+    },
+    {
+      "annee": 2016,
+      "ventes": 11600
+    },
+    {
+      "annee": 2017,
+      "ventes": 19000
+    },
+    {
+      "annee": 2018,
+      "ventes": 31100
+    },
+    {
+      "annee": 2019,
+      "ventes": 28700
+    },
+    {
+      "annee": 2020,
+      "ventes": 20100
+    },
+    {
+      "annee": 2021,
+      "ventes": 21500
+    },
+    {
+      "annee": 2022,
+      "ventes": 16300
+    },
+    {
+      "annee": 2023,
+      "ventes": 16500
+    },
+    {
+      "annee": 2024,
+      "ventes": 10100
+    },
+    {
+      "annee": 2025,
+      "ventes": 17300
+    }
+  ],
+  "total_ventes": 318700,
+  "pannes_recurrentes": [
+    {
+      "description": "du petit volant qui masque une partie du combiné",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    },
+    {
+      "description": "pour certains car il est parfois préférable  de se passer de ces deux places supplémentaires quand on n'en a pas besoin car  cela permet de libérer plus de coffre",
+      "categorie": "autre",
+      "frequence": null,
+      "motorisations_concernees": []
+    }
+  ],
+  "score_fiabilite": 8.0,
+  "score_global": 4.2,
+  "source_url": "https://www.fiches-auto.fr/essai-peugeot/essai-757-test-complet-peugeot-5008-3.php",
+  "scrape_timestamp": "2026-01-31T23:23:12.222005",
+  "_source": {
+    "id": "fiches_auto_fr",
+    "name": "Fiches-Auto.fr",
+    "url": "https://www.fiches-auto.fr",
+    "confidence": "verified_scrape"
+  }
+}
